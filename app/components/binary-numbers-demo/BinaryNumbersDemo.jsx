@@ -20,7 +20,7 @@ function BinaryNumberDemo() {
         if (binary) {
           setReversedStrArray(binary.split('').reverse()); // Split into characters and reverse
         }
-      }, [number]);
+      }, [number,binary]);
     
 
     
