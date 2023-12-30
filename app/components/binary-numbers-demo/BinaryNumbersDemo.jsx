@@ -104,7 +104,7 @@ function BinaryNumberDemo() {
     onKeyUp={(e)=>validateInput(e)}
     onChange={(e)=>handleChange(e)}
     placeholder='Enter your number here...'/>
-    {!isInputValid && <div className="error-message">"Please,enter valid integer number between 0 and 10000"</div>} 
+    {!isInputValid && <div className="error-message">Please,enter valid integer number between 0 and 10000</div>} 
 
     <button onClick={()=>setNumber('0')}>Reset</button>
     </>
