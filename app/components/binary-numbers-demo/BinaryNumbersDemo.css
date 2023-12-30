@@ -1,0 +1,122 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    min-height: 100px;
+    min-width: 900px;
+    margin:10px;
+    border: solid 0.5px blue;
+    border-radius: 3px;
+    padding: 10px;
+    justify-content: center;
+}
+.row-smaller{
+    min-height: 100px;
+    min-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+table{
+    border: none;
+    border-radius: 3px;
+    justify-content: center;
+    align-items: center;
+    max-height: 100px;
+}
+
+span{
+    /* border: solid 1px blue;
+    border-radius: 5px; */
+    min-height: 20px;
+    min-width: 10px;
+    max-width: 200px;
+    padding: 8px;
+  
+    font-size: smaller;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(206, 204, 204);
+    border-radius: 3px;
+    
+}
+tr{
+    margin: 20px;
+    margin-top: 30px;
+}
+    
+hr {
+    border: solid 0.5px blue;
+}
+
+p{
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* .main{
+    min-height: 300px;
+} */
+button {
+    white-space: nowrap;
+    /* padding: 0.5rem 1rem;  */
+    margin: 3px;
+    border: solid 1px gray;
+    background-color: blue;
+    color: white;
+    font-weight: 400;
+    cursor: pointer;
+    display: table-cell;
+    border-radius: 7px;
+    max-width: 250px;
+    min-width: 100px;
+    padding: 10px;
+    font-weight: 600;
+    max-height: 40px;
+    
+    flex-grow: 1;
+    /* flex-basis: 0; */
+     /* Ensures equal distribution */
+    /* Other styles remain the same */
+   
+   flex-basis: calc(50% - 20px);
+    
+}
+div{
+    margin-top:1px
+}
+.my-input {
+    min-width: 120px; /* Set a minimal width, adjust the value as needed */
+    width: 80%;
+    max-width: 450px;
+    background-color: #f3f4f6;
+    border: .1px solid #3b82f6;
+    margin: 5px;
+
+    /* border: none; */
+    color: #333;
+    font-size: 0.875rem;
+    border-radius: 0.275rem;
+    padding: 0.625rem 1.25rem;
+    outline: none;
+    transition: border 0.2s;
+    align-content: center;
+    justify-content: center;
+    display: inline-block;
+    padding-bottom: -5px;
+  }
+
+  sup{
+    transform: translateY(-6px);
+  }
+
+  .error-message {
+    color: red;
+    margin-top: 5px;
+    margin-left: 10px;
+   
+  }
+  
