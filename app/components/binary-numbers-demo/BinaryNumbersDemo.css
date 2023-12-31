@@ -100,14 +100,14 @@ div{
     color: #333;
     font-size: 0.875rem;
     border-radius: 0.275rem;
-    padding: 0.625rem 1.25rem;
+    padding: 12px;
     outline: none;
     transition: border 0.2s;
     align-content: center;
     justify-content: center;
     display: inline-block;
-    padding-bottom: -5px;
-    padding-left: 30px;
+    
+   
   }
 
   sup{
