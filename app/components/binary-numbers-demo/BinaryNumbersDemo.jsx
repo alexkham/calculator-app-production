@@ -70,7 +70,7 @@ function BinaryNumberDemo() {
   return (
     <>
     <h2>Binary Numbers  Demo</h2>
-    <h3>Watch How Binary Digits Change</h3>
+    
     <br></br>
     
     
