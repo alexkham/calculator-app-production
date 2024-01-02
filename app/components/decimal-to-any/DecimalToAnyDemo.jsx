@@ -28,7 +28,7 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
       }
   
       loadCalculationData();
-    }, []);   
+    }, [base,calculationData]);   
     useEffect(() => {
 
       if (result) {
