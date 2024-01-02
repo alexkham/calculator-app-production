@@ -121,4 +121,9 @@ div{
     margin-left: 10px;
    
   }
+
+  .tiny-row{
+    display: flex;
+    flex-direction: row;
+  }
   

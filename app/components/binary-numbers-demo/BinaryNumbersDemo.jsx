@@ -90,8 +90,9 @@ function BinaryNumberDemo() {
         ))}
       </div>
       <div className='row-smaller'>
-      {binary&&<div > <p><span>Decimal : {number}</span></p></div>}
-      {binary&&<div > <p><span>Binary : {binary}</span></p></div>}
+
+      {binary &&<div > <p><span>Decimal : {number}</span></p></div>}
+      {binary &&<div > <p><span>Binary : {binary}</span></p></div>}
       </div>
           
 
@@ -107,7 +108,7 @@ function BinaryNumberDemo() {
     placeholder='Enter your number here...'/>
     {!isInputValid && <div className="error-message">Please,enter valid integer number between 0 and 10000</div>} 
 
-    <button onClick={()=>setNumber('0')}>Reset</button>
+    <button onClick={()=>setNumber(' ')}>Reset</button>
     </>
     
   )
