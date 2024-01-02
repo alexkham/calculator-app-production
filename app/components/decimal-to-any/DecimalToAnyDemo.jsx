@@ -37,7 +37,7 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
       const myResult=calculationData?calculationData[number]:'';
       setResult(myResult)
       console.log('Updated calculationData:', calculationData);
-    }, [calculationData,number]);
+    }, [calculationData,number,result]);
     
    
    
