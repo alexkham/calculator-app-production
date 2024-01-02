@@ -106,10 +106,10 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
 
   return (
     <>
-    <h2>Decimal To {capitalizeWords(base)} Number Conversion</h2>
+    <h2 >Decimal To {capitalizeWords(base)} Number Conversion</h2>
     
     
-    <br></br>
+    
     
     
    
@@ -129,11 +129,8 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
       {result&&<div > <p><span>Decimal : {number}</span></p></div>}
       {result&&<div > <p><span>{capitalizeWords(base)} : {result}</span></p></div>}
       </div>
-      
      
-
-      
-   
+   <div className='input-container'> 
     <input 
     style={{backgroundColor:'white',maxWidth:'300px'}}
     type='number'
@@ -142,9 +139,10 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
     onKeyUp={(e)=>validateInput(e)}
     onChange={(e)=>handleChange(e)}
     placeholder='Enter your number here...'/>
-    {!isInputValid && <div className="error-message">"Please,enter valid integer number between 0 and 10000"</div>} 
+    {!isInputValid && <div className="error-message">Please,enter valid integer number between 0 and {sanitizedLength}</div>} 
 
     <button onClick={()=>setNumber('')}>Reset</button>
+    </div>
     </>
     
   )

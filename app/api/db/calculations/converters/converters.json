@@ -1,0 +1,5 @@
+[
+    {"title":"decimal to binary converter","key_word":"binary","base":2,"max_value":10000},
+    {"title":"decimal to hexadecimal converter","key_word":"hexadecimal","base":16,"max_value":100000},
+    {"title":"decimal to octal converter","key_word":"octal","base":8,"max_value":100000}
+]

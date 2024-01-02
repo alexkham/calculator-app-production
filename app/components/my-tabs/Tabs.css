@@ -63,8 +63,8 @@
     padding: 20px;
     border: solid 1px black;
     width: fit-content;
-    height: 500px;
-    background-color: #ccc;
+    height: 600px;
+    background-color: white;
     min-width: 700px;
     border-radius: 10px;
     display: flex;
