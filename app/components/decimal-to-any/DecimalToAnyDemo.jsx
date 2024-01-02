@@ -17,8 +17,8 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
     useEffect(() => {
       async function loadCalculationData() {
         try {
-          const module = await import(`../../api/db/calculations/int_to_${base}.json`);
-          setCalculationData(module.default);
+          const myModule = await import(`../../api/db/calculations/int_to_${base}.json`);
+          setCalculationData(myModule.default);
           console.log('Use Effect')
           console.log(calculationData)
         } catch (error) {
