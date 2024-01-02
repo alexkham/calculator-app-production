@@ -11,13 +11,13 @@ import styles from './page.module.css'
 
 
 export default function Home() {
-  const title=buttonData.fileName
+  
   return (
 
     // <main className={styles.main}>
     <div className={styles.main}>
-      <h2>{title}</h2>
      
+        
        <ButtonGroup data={buttonData}
         buttonClass={'button'} 
         containerClass={'button-container'}

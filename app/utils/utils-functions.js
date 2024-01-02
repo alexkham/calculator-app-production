@@ -9,3 +9,10 @@ export const range=(start, end)=> {
       result.push(i);
   }
   return result;}
+
+
+//  export  const lookup = data.reduce((acc, item) => {
+//      acc[item.key_word] = item;
+//      return acc;
+//  }, {});
+  
