@@ -20,7 +20,7 @@ export default function Home() {
         
        <ButtonGroup data={buttonData}
         buttonClass={'button'} 
-        containerClass={'button-container'}
+        containerClass={'button-group-container'}
         groupTitle={"Decimal Numbers Converters"}></ButtonGroup>
 
       {/* <MyTabs tabs={tabsData}></MyTabs> */}

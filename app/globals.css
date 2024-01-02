@@ -83,6 +83,8 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+  
+  
 }
 
 body {
@@ -107,5 +109,20 @@ a {
 }
 .main{
   background-color: #00000010 !important;
+
+}
+.button-container {
+  position: fixed; /* Fixed position */
+  bottom: 0; /* Align to the bottom */
+  left: 0px; /* Align to the left */
+  width: 100%; /* Full width */
+  text-align: center; /* Center the buttons */
+}
+
+.fixed-button{
+  width: 150px;
+  max-width: 150px;
+  background-color: #b3b3b3;
+  border:solid black 1.2px
 
 }

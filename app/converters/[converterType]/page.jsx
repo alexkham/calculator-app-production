@@ -5,6 +5,7 @@ import DecimalToAnyBaseConverter from '@/app/components/decimal-to-any/DecimalTo
 import ButtonGroup from '@/app/components/button-group/ButtonGroup';
 import buttonData from '../../api/db/calculations/converters/converters.json'
 import GoHomeButton from '@/app/components/GoHomeButton';
+import GoBackButton from '@/app/components/GoBackButton';
 
 
 // Create a lookup object
@@ -19,18 +20,19 @@ export default function page({params}) {
     const converter=lookup[decodedConverterType]
   return (
     <div className='main'>
-      
+      <div className='button-container-2'>
+         
+         <ButtonGroup data={buttonData}
+            buttonClass={'button'} 
+            containerClass={'button-group-container'}
+            groupTitle={""}></ButtonGroup> 
+          </div>  
         
     <DecimalToAnyBaseConverter base={decodedConverterType}
      n={converter.base} 
      sanitizedLength={converter.max_value}></DecimalToAnyBaseConverter>
-     <div className='button-container-2'>
-     <GoHomeButton className={'home-button'}></GoHomeButton>
-     <ButtonGroup data={buttonData}
-        buttonClass={'button'} 
-        containerClass={'button-container'}
-        groupTitle={""}></ButtonGroup> 
-      </div>  
+     
+     
     
     </div>
   )
