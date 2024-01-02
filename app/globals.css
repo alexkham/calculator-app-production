@@ -123,6 +123,7 @@ a {
   width: 150px;
   max-width: 150px;
   background-color: #b3b3b3;
-  border:solid black 1.2px
+  border:solid blue 0.8px;
+  border-radius: 5px;
 
 }
