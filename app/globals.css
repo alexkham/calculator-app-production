@@ -116,7 +116,7 @@ a {
 .button-container {
   display: flex;
   flex-direction: column;
-  align-items: start;
+ 
   position: fixed; /* Fixed position */
   top: 0; /* Align to the bottom */
   left: 0px; /* Align to the left */
@@ -132,12 +132,7 @@ a {
   border-radius: 5px;
 
 }
-.scroll-top{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
+
 
 .nav-bar{
 

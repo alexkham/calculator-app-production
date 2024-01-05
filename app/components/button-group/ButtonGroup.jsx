@@ -27,20 +27,20 @@ function ButtonGroup({data,buttonClass,containerClass,groupTitle}) {
   return (
     < >
     <h2>{groupTitle}</h2>
-    <div className={containerClass} >
+   
      {data.map((item,index)=>{
         return (
-         <>
+         <div className={containerClass} key={index}>
          
         <Link  key={index} href={`/converters/${item.key_word}`}>
         <button
          className={buttonClass} 
           key={index}>{capitalizeWords(item.title)}</button>
         </Link>
-        </>
+        </div>
         )}
      )}
-      </div>
+      
     </>
   )
 }
