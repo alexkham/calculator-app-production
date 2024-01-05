@@ -11,8 +11,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "next": "14.0.4",
-    "prime-react": "^1.0.0",
-    "primereact": "^10.2.1",
+    
     "react": "^18",
     "react-dom": "^18"
   },

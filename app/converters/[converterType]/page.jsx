@@ -4,7 +4,6 @@ import data from '../../api/db/calculations/converters/converters.json'
 import DecimalToAnyBaseConverter from '@/app/components/decimal-to-any/DecimalToAnyDemo';
 import ButtonGroup from '@/app/components/button-group/ButtonGroup';
 import buttonData from '../../api/db/calculations/converters/converters.json'
-import { Tooltip } from 'primereact/tooltip';
 import Head from 'next/head';
 
 
@@ -43,10 +42,7 @@ export default function page({params}) {
     <DecimalToAnyBaseConverter base={decodedConverterType}
      n={converter.base} 
      sanitizedLength={converter.max_value}></DecimalToAnyBaseConverter>
-
-      <Tooltip style={{fontSize:'0.7rem', backgroundColor:'black',color:'white',opacity:'0.7',borderRadius:'5px',padding:'10px'}} mouseTrack mouseTrackLeft={10} target=".button-target" />
-
-  
+      
     </div>
     </>
   )
