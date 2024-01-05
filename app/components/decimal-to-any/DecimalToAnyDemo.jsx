@@ -105,7 +105,7 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
 
   return (
     <>
-    <h2 Tooltip={"Tooltip"}>Decimal To {capitalizeWords(base)} Number Conversion</h2>
+    <h2 >Decimal To {capitalizeWords(base)} Number Conversion</h2>
     
     
     
