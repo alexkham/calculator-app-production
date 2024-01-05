@@ -30,7 +30,7 @@ const ScrollUpButton = () => {
     return () => {
       window.removeEventListener('scroll', toggleVisibility);
     };
-  }, []);
+  }, [toggleVisibility]);
 
   return (
     isVisible && 
