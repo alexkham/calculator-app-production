@@ -125,7 +125,7 @@ a {
 }
 
 .fixed-button{
-  width: 150px;
+  width: 80px;
   max-width: 150px;
   background-color: #b3b3b3;
   border:solid grey 0.8px;
@@ -162,3 +162,4 @@ a {
   font-size: small;
  
 }
+

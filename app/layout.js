@@ -4,6 +4,7 @@ import './globals.css'
 import GoHomeButton from './components/GoHomeButton'
 import GoBackButton from './components/GoBackButton'
 import Link from 'next/link';
+import ScrollUpButton from './components/scroll-up-button/ScrollUpButton';
 
 
 const inter = Inter({ subsets: ['latin'] })
@@ -24,13 +25,14 @@ export default function RootLayout({ children }) {
       
       <body className={inter.className}>
       <nav className='nav-bar'>
-          <GoHomeButton/>
+          <GoHomeButton className={'fixed-button'}/>
           
-          <GoBackButton className={''}/>
+          <GoBackButton className={'fixed-button'}/>
         </nav>
         <div className='main'>
         {children}
         </div>
+        <ScrollUpButton></ScrollUpButton>
        </body>
       
     </html>

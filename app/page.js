@@ -23,7 +23,83 @@ export default function Home() {
         containerClass={'button-group-container'}
         groupTitle={"Decimal Numbers Converters"}></ButtonGroup>
 
-          
+        
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
+    <br></br>   
      </div>     
        
   
