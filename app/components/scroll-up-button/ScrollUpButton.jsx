@@ -4,18 +4,6 @@ import React, { useState, useEffect } from 'react';
 const ScrollUpButton = () => {
   const [isVisible, setIsVisible] = useState(false);
 
-  const getScrollTop = () => {
-    return document.documentElement.scrollTop || document.body.scrollTop;
-  }
-
-  const toggleVisibility = () => {
-    if (getScrollTop() > 300) {
-      setIsVisible(true);
-    } else {
-      setIsVisible(false);
-    }
-  };
-
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
@@ -24,13 +12,21 @@ const ScrollUpButton = () => {
   };
 
   useEffect(() => {
+    const toggleVisibility = () => {
+      if (window.pageYOffset > 300) {
+        setIsVisible(true);
+      } else {
+        setIsVisible(false);
+      }
+    };
+
     window.addEventListener('scroll', toggleVisibility);
 
     // Clean-up
     return () => {
       window.removeEventListener('scroll', toggleVisibility);
     };
-  }, [toggleVisibility]);
+  }, []);
 
   return (
     isVisible && 
