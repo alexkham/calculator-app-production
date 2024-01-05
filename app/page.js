@@ -7,7 +7,7 @@ import DecimalToAnyBaseConverter from './components/decimal-to-any/DecimalToAnyD
 import ButtonGroup from './components/button-group/ButtonGroup'
 import buttonData from './api/db/calculations/converters/converters.json'
 import styles from './page.module.css'
-import { ScrollTop } from 'primereact/scrolltop';
+
 
 
 export default function Home() {

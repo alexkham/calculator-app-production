@@ -1,9 +1,6 @@
 'use client'
 import React, {useState,useEffect} from 'react'
 import '../binary-numbers-demo/BinaryNumbersDemo.css'
-
-import { InputText } from 'primereact/inputtext';
-
 import { capitalizeWords } from '../../utils/utils-functions.js';
 
 

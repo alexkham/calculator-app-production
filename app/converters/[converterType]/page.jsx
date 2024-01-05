@@ -4,8 +4,6 @@ import data from '../../api/db/calculations/converters/converters.json'
 import DecimalToAnyBaseConverter from '@/app/components/decimal-to-any/DecimalToAnyDemo';
 import ButtonGroup from '@/app/components/button-group/ButtonGroup';
 import buttonData from '../../api/db/calculations/converters/converters.json'
-import GoHomeButton from '@/app/components/GoHomeButton';
-import GoBackButton from '@/app/components/GoBackButton';
 import { Tooltip } from 'primereact/tooltip';
 import Head from 'next/head';
 
