@@ -2,6 +2,8 @@
 import React, {useState,useEffect} from 'react'
 import '../binary-numbers-demo/BinaryNumbersDemo.css'
 
+import { InputText } from 'primereact/inputtext';
+
 import { capitalizeWords } from '../../utils/utils-functions.js';
 
 
@@ -106,7 +108,7 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
 
   return (
     <>
-    <h2 >Decimal To {capitalizeWords(base)} Number Conversion</h2>
+    <h2 Tooltip={"Tooltip"}>Decimal To {capitalizeWords(base)} Number Conversion</h2>
     
     
     
@@ -141,7 +143,8 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
     placeholder='Enter your number here...'/>
     {!isInputValid && <div className="error-message">Please,enter valid integer number between 0 and {sanitizedLength}</div>} 
 
-    <button onClick={()=>setNumber('')}>Reset</button>
+    <button  onClick={()=>setNumber('')}>Reset</button>
+    
     </div>
     </>
     

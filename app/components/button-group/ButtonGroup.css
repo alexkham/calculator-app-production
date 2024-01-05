@@ -45,12 +45,12 @@
     
     
 
-    .button {
+    .button-target {
         white-space: nowrap;
         /* padding: 0.5rem 1rem;  */
         margin: 3px;
         border: solid 1px gray;
-        background-color: #4f1dd8;
+        background-color: blue;
         color: white;
         font-weight: 400;
         cursor: pointer;
