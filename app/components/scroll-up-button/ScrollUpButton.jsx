@@ -4,20 +4,22 @@ import React, { useState, useEffect } from 'react';
 const ScrollUpButton = () => {
   const [isVisible, setIsVisible] = useState(false);
 
-  // Show button when page is scrolled upto given distance
+  const getScrollTop = () => {
+    return document.documentElement.scrollTop || document.body.scrollTop;
+  }
+
   const toggleVisibility = () => {
-    if (document.body.scrollTop > 300) {
+    if (getScrollTop() > 300) {
       setIsVisible(true);
     } else {
       setIsVisible(false);
     }
   };
 
-  // Set the top to 0 when clicked
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
-      behavior: 'smooth' // for smooth scrolling
+      behavior: 'smooth'
     });
   };
 
@@ -31,13 +33,10 @@ const ScrollUpButton = () => {
   }, []);
 
   return (
-    <div>
-      {isVisible && 
-        <button onClick={scrollToTop} style={{position: 'fixed', bottom: '20px', right: '30px'}}>
-          Scroll to Top
-          
-        </button>}
-    </div>
+    isVisible && 
+      <button onClick={scrollToTop} style={{ position: 'fixed', bottom: '20px', right: '30px', zIndex: 1000, backgroundColor: 'blue', color: 'white' }}>
+        Scroll to Top
+      </button>
   );
 }
 
