@@ -11,8 +11,5 @@ export const range=(start, end)=> {
   return result;}
 
 
-//  export  const lookup = data.reduce((acc, item) => {
-//      acc[item.key_word] = item;
-//      return acc;
-//  }, {});
+
   

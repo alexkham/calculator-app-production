@@ -38,65 +38,13 @@ export default function page({params}) {
             containerClass={'button-group-container'}
             groupTitle={""}></ButtonGroup> 
           </div>  
+          <br></br>
+          
         
     <DecimalToAnyBaseConverter base={decodedConverterType}
      n={converter.base} 
      sanitizedLength={converter.max_value}></DecimalToAnyBaseConverter>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
+       
      <br></br>
      <br></br>
       
