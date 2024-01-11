@@ -1,5 +1,5 @@
 'use client'
-import React, {useState,useEffect} from 'react'
+import React, {useState,useEffect,useCallback} from 'react'
 import './UnitsConverter.css'
 import SelectComponent from '../select-component/SelectComponent'
 import { capitalizeWords } from '@/app/utils/utils-functions'
@@ -53,17 +53,27 @@ function UnitsConverter({conversionType}) {
 
  }
 
- const calculateConversion = () => {
+//  const calculateConversion = () => {
+//   const fromUnit = data.find(unit => unit.unit_string === from.replace(/ /g,'_').toLowerCase());
+//   const toUnit = data.find(unit => unit.unit_string === to.replace(/ /g,'_').toLowerCase());
+
+//   if (fromUnit && toUnit) {
+//     const convertedValue = (number * fromUnit.base_units_value) / toUnit.base_units_value;
+//     setResult(convertedValue);
+//   }
+// };
+
+const calculateConversion = useCallback(() => {
   const fromUnit = data.find(unit => unit.unit_string === from.replace(/ /g,'_').toLowerCase());
   const toUnit = data.find(unit => unit.unit_string === to.replace(/ /g,'_').toLowerCase());
 
   if (fromUnit && toUnit) {
-    const convertedValue = (number * fromUnit.base_units_value) / toUnit.base_units_value;
-    setResult(convertedValue);
+      const convertedValue = (number * fromUnit.base_units_value) / toUnit.base_units_value;
+      setResult(convertedValue);
   }
-};
+}, [number, from, to, data]);
 
- useEffect(() => {
+useEffect(() => {
   if (number && from && to) {
     calculateConversion();
   }
