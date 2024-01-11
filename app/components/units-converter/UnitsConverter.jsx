@@ -26,7 +26,7 @@ function UnitsConverter({conversionType}) {
     }
 
     loadCalculationData();
-  }, [data]);  
+  }, [data,conversionType]);  
   
   
   const validateInput = (e) => {
@@ -67,7 +67,7 @@ function UnitsConverter({conversionType}) {
   if (number && from && to) {
     calculateConversion();
   }
-}, [number, from, to, data]);
+}, [number, from, to, data,calculateConversion]);
 
 
 // const options=data?.map(unit=>capitalizeWords(unit.unit_string.replace(/_/g,' ')))
