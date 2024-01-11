@@ -77,16 +77,7 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
   
 
     const validateInput = (e) => {
-        // const isValid = new RegExp("^([0-9]{1,5}|100000)$");
        
-      
-        // if (isValid.test(e.target.value)) {
-        //   setIsInputValid(true); // Correct use of setIsInputValid
-        // } else {
-        //   setIsInputValid(false); // Correct use of setIsInputValid
-        // //   setInvalidInputMessage(props.invalid_input_message);
-        //   e.preventDefault();
-        // }
         const numericValue = parseInt(e.target.value, 10);
           if (numericValue >= 0 && numericValue <= sanitizedLength) {
               setIsInputValid(true);

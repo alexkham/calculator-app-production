@@ -70,5 +70,10 @@
        flex-basis: calc(50% - 20px);
         
     }
+
+    .group-title{
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
     
     

@@ -22,12 +22,12 @@ export default function Home() {
         <br></br>
         <br></br>
         <br></br>
-        <br></br>
-        <br></br>
+        
        <ButtonGroup data={buttonData}
         buttonClass={'button-target'} 
         containerClass={'button-group-container'}
-        groupTitle={"Decimal Numbers Converters"}></ButtonGroup>
+        groupTitle={"Decimal Numbers Converters"}
+        directory={'converters'}></ButtonGroup>
         <br></br>
         <br></br>
        

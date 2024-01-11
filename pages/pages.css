@@ -1,0 +1,48 @@
+#__next{
+    background-color:white;
+   
+}
+.main{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin-top: 30px;
+    
+    
+    
+
+}
+.page-title{
+   align-content: start;
+   margin-bottom: -30px;
+   
+   
+}
+
+.page-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    width: 80%;
+    margin-left: -30px;
+}
+
+
+
+.scroll-button {
+    position:fixed;
+    background-color: blue;
+    bottom: 20px; 
+    right: 30px; 
+    z-index: 1000;
+    color:white;
+    padding: 10px;
+    border-radius: 5px;
+    border:solid 1px black;
+
+}

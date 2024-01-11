@@ -22,20 +22,20 @@ const buttonStyle = {
 
 
 
-function ButtonGroup({data,buttonClass,containerClass,groupTitle}) {
+function ButtonGroup({data,buttonClass,containerClass,groupTitle,directory}) {
    
   return (
     < >
-    <h2>{groupTitle}</h2>
+    <h2 className='group-title'>{groupTitle}</h2>
    
      {data.map((item,index)=>{
         return (
          <div className={containerClass} key={index}>
          
-        <Link  key={index} href={`/converters/${item.key_word}`}>
+        <Link  key={index} href={`/${directory}/${item.key_word}`}>
         <button
          className={buttonClass} 
-          key={index}>{capitalizeWords(item.title)}</button>
+          key={index}>{capitalizeWords(item?.title)}</button>
         </Link>
         </div>
         )}

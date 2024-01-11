@@ -12,7 +12,7 @@ function MyNavbar() {
 window.addEventListener('scroll', fixNav);
 
 function fixNav(){
-  if(window.scrollY > nav.offsetHeight + 150){
+  if(window.scrollY > nav.offsetHeight + 100){
     nav.classList.add('active');
   }else{
     nav.classList.remove('active');
@@ -31,6 +31,7 @@ function fixNav(){
     {/* <h1 class="logo"><a href="#">My website</a></h1> */}
     <ul>
       <li><Link href="/">Home</Link></li>
+      <li><Link href="/units-converters">Units Converters</Link></li>
       <li onClick={navigateBack} style={{cursor:'pointer'}}><a>GoBack</a></li>
      
       

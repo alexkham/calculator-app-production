@@ -1,7 +1,7 @@
 'use client'
 import React, { useState, useEffect } from 'react';
 
-const ScrollUpButton = () => {
+const ScrollUpButton = ({className}) => {
   const [isVisible, setIsVisible] = useState(false);
 
   const scrollToTop = () => {
@@ -30,7 +30,7 @@ const ScrollUpButton = () => {
 
   return (
     isVisible && 
-      <button onClick={scrollToTop} style={{ position: 'fixed', bottom: '20px', right: '30px', zIndex: 1000, backgroundColor: 'blue', color: 'white' }}>
+      <button onClick={scrollToTop} className={className} style={{ position: 'fixed', bottom: '20px', right: '30px', zIndex: 1000, backgroundColor: 'blue', color: 'white' }}>
         Scroll to Top
       </button>
   );
