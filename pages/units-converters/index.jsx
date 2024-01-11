@@ -8,7 +8,8 @@ import ButtonGroup from '@/app/components/button-group/ButtonGroup'
 export default function page() {
   const links=
   [
-    {"title":"units of length converter","key_word":"length"}
+    {"title":"units of length converter","key_word":"length"},
+    {"title":"units of weight converter","key_word":"weight"}
    
   ]
 
