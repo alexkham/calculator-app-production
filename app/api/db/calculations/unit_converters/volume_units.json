@@ -30,32 +30,32 @@
         "base_units_value": 1e-06
     },
     {
-        "unit_string": "gallon_US",
+        "unit_string": "gallon_us",
         "formatted_string": "gal_US",
-        "base_units_value": 0.003785411783973468
+        "base_units_value":0.003785
     },
     {
-        "unit_string": "quart_US",
+        "unit_string": "quart_us",
         "formatted_string": "qt_US",
         "base_units_value": 0.0009463529460291903
     },
     {
-        "unit_string": "pint_US",
+        "unit_string": "pint_us",
         "formatted_string": "pt_US",
         "base_units_value": 0.00047317647299220563
     },
     {
-        "unit_string": "cup_US",
+        "unit_string": "cup_us",
         "formatted_string": "_",
         "base_units_value": 0.0002365882365017002
     },
     {
-        "unit_string": "tablespoon_US",
+        "unit_string": "tablespoon_us",
         "formatted_string": "_",
         "base_units_value": 1.4786764781181342e-05
     },
     {
-        "unit_string": "teaspoon_US",
+        "unit_string": "teaspoon_us",
         "formatted_string": "_",
         "base_units_value": 4.928921593775703e-06
     },
@@ -175,27 +175,27 @@
         "base_units_value": 0.15898729492881153
     },
     {
-        "unit_string": "barrel_US",
+        "unit_string": "barrel_us",
         "formatted_string": "bbl_US",
         "base_units_value": 0.11924047119566075
     },
     {
-        "unit_string": "barrel_UK",
+        "unit_string": "barrel_uk",
         "formatted_string": "bbl_UK",
         "base_units_value": 0.1636592399999165
     },
     {
-        "unit_string": "gallon_UK",
+        "unit_string": "gallon_uk",
         "formatted_string": "gal_UK",
         "base_units_value": 0.004546089999981147
     },
     {
-        "unit_string": "quart_UK",
+        "unit_string": "quart_uk",
         "formatted_string": "qt_UK",
         "base_units_value": 0.0011365224999952868
     },
     {
-        "unit_string": "pint_UK",
+        "unit_string": "pint_uk",
         "formatted_string": "pt_UK",
         "base_units_value": 0.0005682612499976434
     },
@@ -205,17 +205,17 @@
         "base_units_value": 0.00025
     },
     {
-        "unit_string": "cup_UK",
+        "unit_string": "cup_uk",
         "formatted_string": "_",
         "base_units_value": 0.0002841306249988217
     },
     {
-        "unit_string": "fluid_ounce_US",
+        "unit_string": "fluid_ounce_us",
         "formatted_string": "fl_oz US",
         "base_units_value": 2.9573529562362684e-05
     },
     {
-        "unit_string": "fluid_ounce_UK",
+        "unit_string": "fluid_ounce_uk",
         "formatted_string": "fl_oz_UK",
         "base_units_value": 2.8413062499882172e-05
     },
@@ -225,17 +225,17 @@
         "base_units_value": 1.4999999999925e-05
     },
     {
-        "unit_string": "tablespoon_UK",
+        "unit_string": "tablespoon_uk",
         "formatted_string": "_",
         "base_units_value": 1.7758164062363286e-05
     },
     {
-        "unit_string": "dessertspoon_US",
+        "unit_string": "dessertspoon_us",
         "formatted_string": "_",
         "base_units_value": 9.85784318706552e-06
     },
     {
-        "unit_string": "dessertspoon_UK",
+        "unit_string": "dessertspoon_uk",
         "formatted_string": "_",
         "base_units_value": 1.1838776041645603e-05
     },
@@ -245,27 +245,27 @@
         "base_units_value": 5e-06
     },
     {
-        "unit_string": "teaspoon_UK",
+        "unit_string": "teaspoon_us",
         "formatted_string": "_",
         "base_units_value": 5.919388020962958e-06
     },
     {
-        "unit_string": "gill_US",
+        "unit_string": "gill_us",
         "formatted_string": "gi",
         "base_units_value": 0.00011829411824945073
     },
     {
-        "unit_string": "gill_UK",
+        "unit_string": "gill_us",
         "formatted_string": "gi_UK",
         "base_units_value": 0.00014206531249941085
     },
     {
-        "unit_string": "minim_US",
+        "unit_string": "minim_us",
         "formatted_string": "_",
         "base_units_value": 6.161151992143709e-08
     },
     {
-        "unit_string": "minim_UK",
+        "unit_string": "minim_uk",
         "formatted_string": "_",
         "base_units_value": 5.919388020962957e-08
     },
@@ -340,37 +340,37 @@
         "base_units_value": 3.6966911953773287e-06
     },
     {
-        "unit_string": "cor_Biblical",
+        "unit_string": "cor_biblical",
         "formatted_string": "_",
         "base_units_value": 0.21999999999779998
     },
     {
-        "unit_string": "homer_Biblical",
+        "unit_string": "homer_biblical",
         "formatted_string": "_",
         "base_units_value": 0.21999999999779998
     },
     {
-        "unit_string": "bath_Biblical",
+        "unit_string": "bath_biblical",
         "formatted_string": "_",
         "base_units_value": 0.021999999999779998
     },
     {
-        "unit_string": "hin_Biblical",
+        "unit_string": "hin_biblical",
         "formatted_string": "_",
         "base_units_value": 0.00366666666663
     },
     {
-        "unit_string": "cab_Biblical",
+        "unit_string": "cab_biblical",
         "formatted_string": "_",
         "base_units_value": 0.0012222222222249381
     },
     {
-        "unit_string": "log_Biblical",
+        "unit_string": "log_biblical",
         "formatted_string": "_",
         "base_units_value": 0.00030555555555810185
     },
     {
-        "unit_string": "Earth's_volume",
+        "unit_string": "earth's_volume",
         "formatted_string": "_",
         "base_units_value": 1.0830000000754852e+21
     }
