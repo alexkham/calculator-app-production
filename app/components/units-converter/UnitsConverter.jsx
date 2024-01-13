@@ -13,6 +13,11 @@ function UnitsConverter({conversionType}) {
   const [data,setData]=useState(null)
 
   useEffect(() => {
+    setNumber('');
+    setResult('');
+    setFrom('');
+    setTo('');
+    setIsInputValid(true);
     async function loadCalculationData() {
       try {
         const myModule = await import(`../../api/db/calculations/unit_converters/${conversionType}_units.json`);
