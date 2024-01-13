@@ -1,0 +1,149 @@
+[
+    {
+        "unit_name": "A",
+        "dimensionality": "[current]",
+        "base_units_value": 1,
+        "unit_string": "ampere",
+        "formatted_string": "A"
+    },
+    {
+        "unit_name": "A_90",
+        "dimensionality": "[current]",
+        "base_units_value": 1.000000088871438,
+        "unit_string": "conventional_ampere_90",
+        "formatted_string": "A_90"
+    },
+    {
+        "unit_name": "A_US",
+        "dimensionality": "[current]",
+        "base_units_value": 0.9998350816345909,
+        "unit_string": "US_international_ampere",
+        "formatted_string": "A_US"
+    },
+    {
+        "unit_name": "A_it",
+        "dimensionality": "[current]",
+        "base_units_value": 0.9998500734640026,
+        "unit_string": "mean_international_ampere",
+        "formatted_string": "A_it"
+    },
+    {
+        "unit_name": "At",
+        "dimensionality": "[current]",
+        "base_units_value": 1,
+        "unit_string": "ampere_turn",
+        "formatted_string": "At"
+    },
+    {
+        "unit_name": "Bi",
+        "dimensionality": "[current]",
+        "base_units_value": 10,
+        "unit_string": "biot",
+        "formatted_string": "Bi"
+    },
+    {
+        "unit_name": "Gb",
+        "dimensionality": "[current]",
+        "base_units_value": 0.7957747154594768,
+        "unit_string": "gilbert",
+        "formatted_string": "Gb"
+    },
+    {
+        "unit_name": "US_international_ampere",
+        "dimensionality": "[current]",
+        "base_units_value": 0.9998350816345909,
+        "unit_string": "US_international_ampere",
+        "formatted_string": "A_US"
+    },
+    {
+        "unit_name": "a_u_current",
+        "dimensionality": "[current]",
+        "base_units_value": 0.006623618237509995,
+        "unit_string": "atomic_unit_of_current",
+        "formatted_string": "a_u_current"
+    },
+    {
+        "unit_name": "abA",
+        "dimensionality": "[current]",
+        "base_units_value": 10,
+        "unit_string": "abampere",
+        "formatted_string": "abA"
+    },
+    {
+        "unit_name": "abampere",
+        "dimensionality": "[current]",
+        "base_units_value": 10,
+        "unit_string": "abampere",
+        "formatted_string": "abA"
+    },
+    {
+        "unit_name": "amp",
+        "dimensionality": "[current]",
+        "base_units_value": 1,
+        "unit_string": "ampere",
+        "formatted_string": "A"
+    },
+    {
+        "unit_name": "ampere",
+        "dimensionality": "[current]",
+        "base_units_value": 1,
+        "unit_string": "ampere",
+        "formatted_string": "A"
+    },
+    {
+        "unit_name": "ampere_turn",
+        "dimensionality": "[current]",
+        "base_units_value": 1,
+        "unit_string": "ampere_turn",
+        "formatted_string": "At"
+    },
+    {
+        "unit_name": "atomic_unit_of_current",
+        "dimensionality": "[current]",
+        "base_units_value": 0.006623618237509995,
+        "unit_string": "atomic_unit_of_current",
+        "formatted_string": "a_u_current"
+    },
+    {
+        "unit_name": "biot",
+        "dimensionality": "[current]",
+        "base_units_value": 10,
+        "unit_string": "biot",
+        "formatted_string": "Bi"
+    },
+    {
+        "unit_name": "biot_turn",
+        "dimensionality": "[current]",
+        "base_units_value": 10,
+        "unit_string": "biot_turn",
+        "formatted_string": "biot_turn"
+    },
+    {
+        "unit_name": "conventional_ampere_90",
+        "dimensionality": "[current]",
+        "base_units_value": 1.000000088871438,
+        "unit_string": "conventional_ampere_90",
+        "formatted_string": "A_90"
+    },
+    {
+        "unit_name": "gilbert",
+        "dimensionality": "[current]",
+        "base_units_value": 0.7957747154594768,
+        "unit_string": "gilbert",
+        "formatted_string": "Gb"
+    },
+    {
+        "unit_name": "mean_international_ampere",
+        "dimensionality": "[current]",
+        "base_units_value": 0.9998500734640026,
+        "unit_string": "mean_international_ampere",
+        "formatted_string": "A_it"
+    },
+    {
+        "unit_name": "planck_current",
+        "dimensionality": "[current]",
+        "base_units_value": 3.478872753744379e+25,
+        "unit_string": "planck_current",
+        "formatted_string": "planck_current"
+    }
+]

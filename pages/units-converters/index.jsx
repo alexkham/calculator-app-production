@@ -4,14 +4,10 @@ import React from 'react'
 import '../pages.css'
 import '../../app/globals.css'
 import ButtonGroup from '@/app/components/button-group/ButtonGroup'
+import links from '../../app/api/db/calculations/unit_converters/units_converters.json'
 
 export default function page() {
-  const links=
-  [
-    {"title":"units of length converter","key_word":"length"},
-    {"title":"units of weight converter","key_word":"weight"}
-   
-  ]
+  
 
   return (
     <>
@@ -25,7 +21,7 @@ export default function page() {
      directory={'units-converters'}
       data={links}
       buttonClass={'button-target'} 
-      containerClass={'button-group-container'}
+      containerClass={'button-group-container-vertical'}
       groupTitle={"Units  Converters"}></ButtonGroup>
       </div>
     <br></br>

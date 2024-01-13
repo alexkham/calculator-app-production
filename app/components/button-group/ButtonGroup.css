@@ -29,16 +29,16 @@
         /* align-items: center;
         margin: 30px;
         padding-left: 30px;  */
-        display: flex;
+        /* display: flex;
         flex-direction: row;
-        justify-content: space-around; /* This can be space-between, space-around, or center */
+        justify-content: center; 
+        align-items: center; */
         gap: -5px; /* Optional: Adds space between buttons */
         border:none;
-        padding: 20px;
+        padding: 10px;
         border-radius: 5px;
-        max-width: 500px;
         max-height: 200px;
-        margin-left: 30px;
+        
     }
         
     
@@ -59,7 +59,7 @@
         display: table-cell;
         border-radius: 5px;
         max-width: 250px;
-        min-width: 100px;
+        min-width: 150px;
         padding: 10px;
         
         flex-grow: 1;
@@ -72,8 +72,9 @@
     }
 
     .group-title{
-        margin-bottom: 30px;
-        margin-top: 30px;
+        
+       
+        
     }
     
     

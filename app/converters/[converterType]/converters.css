@@ -27,3 +27,9 @@ body{
     padding: -25px;
     font-size: medium;
 }
+.button-group-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

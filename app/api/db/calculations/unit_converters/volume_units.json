@@ -1,0 +1,377 @@
+[
+    {
+        "unit_string": "cubic_meter",
+        "formatted_string": "m^3",
+        "base_units_value": 1.0
+    },
+    {
+        "unit_string": "cubic_kilometer",
+        "formatted_string": "km^3",
+        "base_units_value": 999999999.9999999
+    },
+    {
+        "unit_string": "cubic_centimeter",
+        "formatted_string": "cm^3",
+        "base_units_value": 1e-06
+    },
+    {
+        "unit_string": "cubic_millimeter",
+        "formatted_string": "mm^3",
+        "base_units_value": 1e-09
+    },
+    {
+        "unit_string": "liter",
+        "formatted_string": "L, l",
+        "base_units_value": 0.001
+    },
+    {
+        "unit_string": "milliliter",
+        "formatted_string": "mL",
+        "base_units_value": 1e-06
+    },
+    {
+        "unit_string": "gallon_US",
+        "formatted_string": "gal_US",
+        "base_units_value": 0.003785411783973468
+    },
+    {
+        "unit_string": "quart_US",
+        "formatted_string": "qt_US",
+        "base_units_value": 0.0009463529460291903
+    },
+    {
+        "unit_string": "pint_US",
+        "formatted_string": "pt_US",
+        "base_units_value": 0.00047317647299220563
+    },
+    {
+        "unit_string": "cup_US",
+        "formatted_string": "_",
+        "base_units_value": 0.0002365882365017002
+    },
+    {
+        "unit_string": "tablespoon_US",
+        "formatted_string": "_",
+        "base_units_value": 1.4786764781181342e-05
+    },
+    {
+        "unit_string": "teaspoon_US",
+        "formatted_string": "_",
+        "base_units_value": 4.928921593775703e-06
+    },
+    {
+        "unit_string": "cubic_mile",
+        "formatted_string": "mi^3",
+        "base_units_value": 4168181826.8118496
+    },
+    {
+        "unit_string": "cubic_yard",
+        "formatted_string": "yd^3",
+        "base_units_value": 0.764554857992413
+    },
+    {
+        "unit_string": "cubic_foot",
+        "formatted_string": "ft^3",
+        "base_units_value": 0.02831684659239177
+    },
+    {
+        "unit_string": "cubic_inch",
+        "formatted_string": "in^3",
+        "base_units_value": 1.638706399992811e-05
+    },
+    {
+        "unit_string": "cubic_decimeter",
+        "formatted_string": "dm^3",
+        "base_units_value": 0.001
+    },
+    {
+        "unit_string": "exaliter",
+        "formatted_string": "EL",
+        "base_units_value": 999999999999999.9
+    },
+    {
+        "unit_string": "petaliter",
+        "formatted_string": "PL",
+        "base_units_value": 1000000000000.0
+    },
+    {
+        "unit_string": "teraliter",
+        "formatted_string": "TL",
+        "base_units_value": 999999999.9999999
+    },
+    {
+        "unit_string": "gigaliter",
+        "formatted_string": "GL",
+        "base_units_value": 1000000.0
+    },
+    {
+        "unit_string": "megaliter",
+        "formatted_string": "ML",
+        "base_units_value": 1000.0
+    },
+    {
+        "unit_string": "kiloliter",
+        "formatted_string": "kL",
+        "base_units_value": 1.0
+    },
+    {
+        "unit_string": "hectoliter",
+        "formatted_string": "hL",
+        "base_units_value": 0.1
+    },
+    {
+        "unit_string": "dekaliter",
+        "formatted_string": "daL",
+        "base_units_value": 0.01
+    },
+    {
+        "unit_string": "deciliter",
+        "formatted_string": "dL",
+        "base_units_value": 0.0001
+    },
+    {
+        "unit_string": "centiliter",
+        "formatted_string": "cL",
+        "base_units_value": 1e-05
+    },
+    {
+        "unit_string": "microliter",
+        "formatted_string": "\u00b5L",
+        "base_units_value": 1e-09
+    },
+    {
+        "unit_string": "nanoliter",
+        "formatted_string": "nL",
+        "base_units_value": 1e-12
+    },
+    {
+        "unit_string": "picoliter",
+        "formatted_string": "pL",
+        "base_units_value": 1e-15
+    },
+    {
+        "unit_string": "femtoliter",
+        "formatted_string": "fL",
+        "base_units_value": 1e-18
+    },
+    {
+        "unit_string": "attoliter",
+        "formatted_string": "aL",
+        "base_units_value": 1e-21
+    },
+    {
+        "unit_string": "cc",
+        "formatted_string": "cc",
+        "base_units_value": 1e-06
+    },
+    {
+        "unit_string": "drop",
+        "formatted_string": "_",
+        "base_units_value": 5e-08
+    },
+    {
+        "unit_string": "barrel_oil",
+        "formatted_string": "bbl_oil",
+        "base_units_value": 0.15898729492881153
+    },
+    {
+        "unit_string": "barrel_US",
+        "formatted_string": "bbl_US",
+        "base_units_value": 0.11924047119566075
+    },
+    {
+        "unit_string": "barrel_UK",
+        "formatted_string": "bbl_UK",
+        "base_units_value": 0.1636592399999165
+    },
+    {
+        "unit_string": "gallon_UK",
+        "formatted_string": "gal_UK",
+        "base_units_value": 0.004546089999981147
+    },
+    {
+        "unit_string": "quart_UK",
+        "formatted_string": "qt_UK",
+        "base_units_value": 0.0011365224999952868
+    },
+    {
+        "unit_string": "pint_UK",
+        "formatted_string": "pt_UK",
+        "base_units_value": 0.0005682612499976434
+    },
+    {
+        "unit_string": "cup_metric",
+        "formatted_string": "_",
+        "base_units_value": 0.00025
+    },
+    {
+        "unit_string": "cup_UK",
+        "formatted_string": "_",
+        "base_units_value": 0.0002841306249988217
+    },
+    {
+        "unit_string": "fluid_ounce_US",
+        "formatted_string": "fl_oz US",
+        "base_units_value": 2.9573529562362684e-05
+    },
+    {
+        "unit_string": "fluid_ounce_UK",
+        "formatted_string": "fl_oz_UK",
+        "base_units_value": 2.8413062499882172e-05
+    },
+    {
+        "unit_string": "tablespoon_metric",
+        "formatted_string": "_",
+        "base_units_value": 1.4999999999925e-05
+    },
+    {
+        "unit_string": "tablespoon_UK",
+        "formatted_string": "_",
+        "base_units_value": 1.7758164062363286e-05
+    },
+    {
+        "unit_string": "dessertspoon_US",
+        "formatted_string": "_",
+        "base_units_value": 9.85784318706552e-06
+    },
+    {
+        "unit_string": "dessertspoon_UK",
+        "formatted_string": "_",
+        "base_units_value": 1.1838776041645603e-05
+    },
+    {
+        "unit_string": "teaspoon_metric",
+        "formatted_string": "_",
+        "base_units_value": 5e-06
+    },
+    {
+        "unit_string": "teaspoon_UK",
+        "formatted_string": "_",
+        "base_units_value": 5.919388020962958e-06
+    },
+    {
+        "unit_string": "gill_US",
+        "formatted_string": "gi",
+        "base_units_value": 0.00011829411824945073
+    },
+    {
+        "unit_string": "gill_UK",
+        "formatted_string": "gi_UK",
+        "base_units_value": 0.00014206531249941085
+    },
+    {
+        "unit_string": "minim_US",
+        "formatted_string": "_",
+        "base_units_value": 6.161151992143709e-08
+    },
+    {
+        "unit_string": "minim_UK",
+        "formatted_string": "_",
+        "base_units_value": 5.919388020962957e-08
+    },
+    {
+        "unit_string": "ton_register",
+        "formatted_string": "ton_reg",
+        "base_units_value": 2.831684659319362
+    },
+    {
+        "unit_string": "ccf",
+        "formatted_string": "_",
+        "base_units_value": 2.831684659319362
+    },
+    {
+        "unit_string": "hundred-cubic_foot",
+        "formatted_string": "_",
+        "base_units_value": 2.831684659319362
+    },
+    {
+        "unit_string": "acre-foot",
+        "formatted_string": "ac_ft",
+        "base_units_value": 1233.481828099012
+    },
+    {
+        "unit_string": "acre-foot_US_survey",
+        "formatted_string": "_",
+        "base_units_value": 1233.4892833834315
+    },
+    {
+        "unit_string": "acre-inch",
+        "formatted_string": "ac_in",
+        "base_units_value": 102.79015339816588
+    },
+    {
+        "unit_string": "dekastere",
+        "formatted_string": "_",
+        "base_units_value": 10.0
+    },
+    {
+        "unit_string": "stere",
+        "formatted_string": "st",
+        "base_units_value": 1.0
+    },
+    {
+        "unit_string": "decistere",
+        "formatted_string": "_",
+        "base_units_value": 0.1
+    },
+    {
+        "unit_string": "cord",
+        "formatted_string": "cd",
+        "base_units_value": 3.6245563632719127
+    },
+    {
+        "unit_string": "tun",
+        "formatted_string": "_",
+        "base_units_value": 0.9539237695425368
+    },
+    {
+        "unit_string": "hogshead",
+        "formatted_string": "_",
+        "base_units_value": 0.2384809423913215
+    },
+    {
+        "unit_string": "board_foot",
+        "formatted_string": "_",
+        "base_units_value": 0.002359737215988101
+    },
+    {
+        "unit_string": "dram",
+        "formatted_string": "dr",
+        "base_units_value": 3.6966911953773287e-06
+    },
+    {
+        "unit_string": "cor_Biblical",
+        "formatted_string": "_",
+        "base_units_value": 0.21999999999779998
+    },
+    {
+        "unit_string": "homer_Biblical",
+        "formatted_string": "_",
+        "base_units_value": 0.21999999999779998
+    },
+    {
+        "unit_string": "bath_Biblical",
+        "formatted_string": "_",
+        "base_units_value": 0.021999999999779998
+    },
+    {
+        "unit_string": "hin_Biblical",
+        "formatted_string": "_",
+        "base_units_value": 0.00366666666663
+    },
+    {
+        "unit_string": "cab_Biblical",
+        "formatted_string": "_",
+        "base_units_value": 0.0012222222222249381
+    },
+    {
+        "unit_string": "log_Biblical",
+        "formatted_string": "_",
+        "base_units_value": 0.00030555555555810185
+    },
+    {
+        "unit_string": "Earth's_volume",
+        "formatted_string": "_",
+        "base_units_value": 1.0830000000754852e+21
+    }
+]

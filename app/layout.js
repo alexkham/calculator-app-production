@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
         <MyNavbar></MyNavbar>
         {children}
         </div>
-        <ScrollUpButton></ScrollUpButton>
+        <ScrollUpButton className={'nav-button'}></ScrollUpButton>
        </body>
       
     </html>

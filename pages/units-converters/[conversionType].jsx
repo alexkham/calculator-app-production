@@ -4,6 +4,8 @@ import React from 'react'
 import '../pages.css'
 import { capitalizeWords } from '@/app/utils/utils-functions';
 import ScrollUpButton from '@/app/components/scroll-up-button/ScrollUpButton';
+import ButtonGroup from '@/app/components/button-group/ButtonGroup';
+import links from '../../app/api/db/calculations/unit_converters/units_converters.json'
 
 
 // Function to generate static paths for each category and table
@@ -51,16 +53,27 @@ return {
 
 export default function page({conversionType}) {
   
+  
   return (
     <>
     <MyNavbar></MyNavbar>
     <div  className='main'>
-      
-      
-    <div className='page-container'>
-    <h2 className='page-title'>  {capitalizeWords(conversionType)} Converter</h2>
+      <br></br>
+      <br></br>
+      <br></br>
+    <h2 className='page-title'>  {capitalizeWords(conversionType)} Converter</h2> 
+    <div className='horizontal-container '>
+    <div className='converter-container'>    
     
     <UnitsConverter conversionType={conversionType}></UnitsConverter>
+    </div>
+    <ButtonGroup
+     directory={'units-converters'}
+     data={links}
+    //  buttonClass={'button-target'} 
+     containerClass={'button-group-container-vertical'}
+     buttonClass={'button-target'}
+     ></ButtonGroup>
     </div>
     <br></br>
     <br></br>

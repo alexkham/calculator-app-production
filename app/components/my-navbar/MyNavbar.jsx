@@ -31,18 +31,39 @@ function fixNav(){
     {/* <h1 class="logo"><a href="#">My website</a></h1> */}
     <ul>
       <li><Link href="/">Home</Link></li>
-      <li><Link href="/units-converters">Units Converters</Link></li>
+      <li className="dropdown">
+        <a href='/converters'>Visual Converters</a>
+        <ul className="dropdown-content">
+            <li><Link href="/converters/binary">Binary Converter</Link></li>
+            <li><Link href="/converters/hexadecimal">Hexadecimal Converter</Link></li>
+            <li><Link href="/converters/octal">Octal Converter</Link></li>                                
+         </ul>
+        
+        </li>
+      <li  >
+        <a href="/units-converters">Units Converters</a>      
+        
+        </li>
       <li onClick={navigateBack} style={{cursor:'pointer'}}><a>GoBack</a></li>
-     
-      
+     {/* <li className="dropdown">
+         <a href="/main-page">More Options</a> 
+         <ul className="dropdown-content">
+            <li><Link href="/option1">Option 1</Link></li>
+            <li><Link href="/option2">Option 2</Link></li>
+            <li><Link href="/option3">Option 3</Link></li>
+                                
+         </ul>
+      </li> */}
 
     </ul>
   </div>
 </nav>
-
 
     </>
   )
 }
 
 export default MyNavbar
+
+
+

@@ -1,0 +1,167 @@
+[
+    {
+        "unit_string": "newton",
+        "formatted_string": "N",
+        "base_units_value": 1.0
+    },
+    {
+        "unit_string": "kilonewton",
+        "formatted_string": "kN",
+        "base_units_value": 1000.0
+    },
+    {
+        "unit_string": "gram-force",
+        "formatted_string": "gf",
+        "base_units_value": 0.009806649999787736
+    },
+    {
+        "unit_string": "kilogram-force",
+        "formatted_string": "kgf",
+        "base_units_value": 9.806649999787735
+    },
+    {
+        "unit_string": "ton-force_metric",
+        "formatted_string": "tf",
+        "base_units_value": 9806.652048217346
+    },
+    {
+        "unit_string": "exanewton",
+        "formatted_string": "EN",
+        "base_units_value": 1.0e+17
+    },
+    {
+        "unit_string": "petanewton",
+        "formatted_string": "PT",
+        "base_units_value": 1.0e+15
+    },
+    {
+        "unit_string": "teranewton",
+        "formatted_string": "TN",
+        "base_units_value": 1000000000000.0
+    },
+    {
+        "unit_string": "giganewton",
+        "formatted_string": "GN",
+        "base_units_value": 1.0e+9
+    },
+    {
+        "unit_string": "meganewton",
+        "formatted_string": "MN",
+        "base_units_value": 1000000.0
+    },
+    {
+        "unit_string": "hectonewton",
+        "formatted_string": "hN",
+        "base_units_value": 100.0
+    },
+    {
+        "unit_string": "dekanewton",
+        "formatted_string": "daN",
+        "base_units_value": 10.0
+    },
+    {
+        "unit_string": "decinewton",
+        "formatted_string": "dN",
+        "base_units_value": 0.1
+    },
+    {
+        "unit_string": "centinewton",
+        "formatted_string": "cN",
+        "base_units_value": 0.01
+    },
+    {
+        "unit_string": "millinewton",
+        "formatted_string": "mN",
+        "base_units_value": 0.001
+    },
+    {
+        "unit_string": "micronewton",
+        "formatted_string": "\u00b5N",
+        "base_units_value": 1e-06
+    },
+    {
+        "unit_string": "nanonewton",
+        "formatted_string": "nN",
+        "base_units_value": 1e-09
+    },
+    {
+        "unit_string": "piconewton",
+        "formatted_string": "pN",
+        "base_units_value": 1e-12
+    },
+    {
+        "unit_string": "femtonewton",
+        "formatted_string": "fN",
+        "base_units_value": 1e-15
+    },
+    {
+        "unit_string": "attonewton",
+        "formatted_string": "aN",
+        "base_units_value": 1e-18
+    },
+    {
+        "unit_string": "dyne",
+        "formatted_string": "dyn",
+        "base_units_value": 100000
+    },
+    {
+        "unit_string": "joule/meter",
+        "formatted_string": "J/m",
+        "base_units_value": 1.0
+    },
+    {
+        "unit_string": "joule/centimeter",
+        "formatted_string": "J/cm",
+        "base_units_value": 0.01
+    },
+    {
+        "unit_string": "ton-force_short",
+        "formatted_string": "",
+        "base_units_value": 8896.440978786437
+    },
+    {
+        "unit_string": "ton-force_long",
+        "formatted_string": "tonf_UK",
+        "base_units_value": 9964.01992405424
+    },
+    {
+        "unit_string": "kip-force",
+        "formatted_string": "kipf",
+        "base_units_value": 4448.2224680606505
+    },
+    {
+        "unit_string": "kilopound-force",
+        "formatted_string": "kipf",
+        "base_units_value": 4448.2224680606505
+    },
+    {
+        "unit_string": "pound-force",
+        "formatted_string": "lbf",
+        "base_units_value": 4.448221615254772
+    },
+    {
+        "unit_string": "ounce-force",
+        "formatted_string": "ozf",
+        "base_units_value": 0.27801385095342324
+    },
+    {
+        "unit_string": "poundal",
+        "formatted_string": "pdl",
+        "base_units_value": 0.13825495437618912
+    },
+    {
+        "unit_string": "pound_foot/square",
+        "formatted_string": " ",
+        "base_units_value": 0.13825495437618912
+    },
+    {
+        "unit_string": "pond",
+        "formatted_string": "p",
+        "base_units_value": 0.009806649999787736
+    },
+    {
+        "unit_string": "kilopond",
+        "formatted_string": "kp",
+        "base_units_value": 9.806649999787735
+    }
+]

@@ -26,11 +26,12 @@ function ButtonGroup({data,buttonClass,containerClass,groupTitle,directory}) {
    
   return (
     < >
+    
     <h2 className='group-title'>{groupTitle}</h2>
-   
+      <div  className={containerClass}>
      {data.map((item,index)=>{
         return (
-         <div className={containerClass} key={index}>
+         <div  key={index}>
          
         <Link  key={index} href={`/${directory}/${item.key_word}`}>
         <button
@@ -40,6 +41,7 @@ function ButtonGroup({data,buttonClass,containerClass,groupTitle,directory}) {
         </div>
         )}
      )}
+     </div>
       
     </>
   )
