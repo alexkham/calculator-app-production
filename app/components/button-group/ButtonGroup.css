@@ -78,7 +78,8 @@
     }
     
     .button-target, .button-target a, .button-target a:visited, .button-target a:focus, .button-target a:active {
-        text-decoration: none;
+        text-decoration: none !important;
+        text-decoration-line: none !important;
          /* Removes underline */
         color: white; /* Keeps the text color consistent */
         /* Your other styling properties */
