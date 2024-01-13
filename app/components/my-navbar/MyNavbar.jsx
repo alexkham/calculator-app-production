@@ -32,7 +32,7 @@ function fixNav(){
     <ul>
       <li><Link href="/">Home</Link></li>
       <li className="dropdown">
-        <a href='/converters'>Visual Converters</a>
+        <Link href='/converters'>Visual Converters</Link>
         <ul className="dropdown-content">
             <li><Link href="/converters/binary">Binary Converter</Link></li>
             <li><Link href="/converters/hexadecimal">Hexadecimal Converter</Link></li>
@@ -41,7 +41,7 @@ function fixNav(){
         
         </li>
       <li  >
-        <a href="/units-converters">Units Converters</a>      
+        <Link href="/units-converters">Units Converters</Link>      
         
         </li>
       <li onClick={navigateBack} style={{cursor:'pointer'}}><a>GoBack</a></li>

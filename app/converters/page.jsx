@@ -18,7 +18,7 @@ export default function page() {
    <ButtonGroup data={buttonData}
     buttonClass={'button-target'} 
     containerClass={'button-group-container'}
-    groupTitle={"Decimal Numbers Converters"}
+    groupTitle={"Decimal Numbers Visual Converters"}
     directory={'converters'}></ButtonGroup>
     <br></br>
     <br></br>
