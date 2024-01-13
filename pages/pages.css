@@ -256,6 +256,7 @@ div a .button-target{
 
 .button-target, .button-target a, .button-target a:visited, .button-target a:focus, .button-target a:active {
     text-decoration: none; /* Removes underline */
+    text-decoration-line: none;
     color: white; /* Keeps the text color consistent */
     /* Your other styling properties */
 }
