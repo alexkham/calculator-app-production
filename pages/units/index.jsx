@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function index() {
   return (
-    <div>Prefixes Page</div>
+    <div>General Units Page</div>
   )
 }

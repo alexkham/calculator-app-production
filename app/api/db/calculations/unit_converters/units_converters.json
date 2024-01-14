@@ -4,6 +4,7 @@
     {"title":"time converter","key_word":"time"},
     {"title":"current converter","key_word":"current"},
     {"title":"force converter","key_word":"force"},
-    {"title":"volume converter","key_word":"volume"}
+    {"title":"volume converter","key_word":"volume"},
+    {"title":"area converter","key_word":"area"}
    
   ]

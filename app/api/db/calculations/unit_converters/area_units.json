@@ -1,0 +1,205 @@
+[
+    {
+        "unit_name": "acre",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 4046.8726098742513,
+        "unit_string": "acre",
+        "formatted_string": "acre"
+    },
+    {
+        "unit_name": "are",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 100,
+        "unit_string": "are",
+        "formatted_string": "are"
+    },
+    {
+        "unit_name": "b",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 1e-28,
+        "unit_string": "barn",
+        "formatted_string": "b"
+    },
+    {
+        "unit_name": "barn",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 1e-28,
+        "unit_string": "barn",
+        "formatted_string": "b"
+    },
+    {
+        "unit_name": "circular_mil",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 5.067074790974977e-10,
+        "unit_string": "circular_mil",
+        "formatted_string": "cmil"
+    },
+    {
+        "unit_name": "cmil",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 5.067074790974977e-10,
+        "unit_string": "circular_mil",
+        "formatted_string": "cmil"
+    },
+    {
+        "unit_name": "darcy",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 9.86923266716013e-13,
+        "unit_string": "darcy",
+        "formatted_string": "darcy"
+    },
+    {
+        "unit_name": "ha",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 10000,
+        "unit_string": "hectare",
+        "formatted_string": "ha"
+    },
+    {
+        "unit_name": "hectare",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 10000,
+        "unit_string": "hectare",
+        "formatted_string": "ha"
+    },
+    {
+        "unit_name": "section",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 2589998.4703195207,
+        "unit_string": "square_survey_mile",
+        "formatted_string": "square_survey_mile"
+    },
+    {
+        "unit_name": "sigma_e",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 6.652458732226516e-29,
+        "unit_string": "thomson_cross_section",
+        "formatted_string": "\u03c3_e"
+    },
+    {
+        "unit_name": "sq_ft",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 0.09290303999999999,
+        "unit_string": "square_foot",
+        "formatted_string": "sq_ft"
+    },
+    {
+        "unit_name": "sq_in",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 0.00064516,
+        "unit_string": "square_inch",
+        "formatted_string": "sq_in"
+    },
+    {
+        "unit_name": "sq_mi",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 2589988.110336,
+        "unit_string": "square_mile",
+        "formatted_string": "sq_mi"
+    },
+    {
+        "unit_name": "sq_perch",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 25.29295381171407,
+        "unit_string": "square_rod",
+        "formatted_string": "sq_rod"
+    },
+    {
+        "unit_name": "sq_pole",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 25.29295381171407,
+        "unit_string": "square_rod",
+        "formatted_string": "sq_rod"
+    },
+    {
+        "unit_name": "sq_rod",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 25.29295381171407,
+        "unit_string": "square_rod",
+        "formatted_string": "sq_rod"
+    },
+    {
+        "unit_name": "sq_yd",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 0.83612736,
+        "unit_string": "square_yard",
+        "formatted_string": "sq_yd"
+    },
+    {
+        "unit_name": "square_feet",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 0.09290303999999999,
+        "unit_string": "square_foot",
+        "formatted_string": "sq_ft"
+    },
+    {
+        "unit_name": "square_foot",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 0.09290303999999999,
+        "unit_string": "square_foot",
+        "formatted_string": "sq_ft"
+    },
+    {
+        "unit_name": "square_inch",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 0.00064516,
+        "unit_string": "square_inch",
+        "formatted_string": "sq_in"
+    },
+    {
+        "unit_name": "square_inches",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 0.00064516,
+        "unit_string": "square_inch",
+        "formatted_string": "sq_in"
+    },
+    {
+        "unit_name": "square_league",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 23309986.232875686,
+        "unit_string": "square_league",
+        "formatted_string": "square_league"
+    },
+    {
+        "unit_name": "square_mile",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 2589988.110336,
+        "unit_string": "square_mile",
+        "formatted_string": "sq_mi"
+    },
+    {
+        "unit_name": "square_rod",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 25.29295381171407,
+        "unit_string": "square_rod",
+        "formatted_string": "sq_rod"
+    },
+    {
+        "unit_name": "square_survey_mile",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 2589998.4703195207,
+        "unit_string": "square_survey_mile",
+        "formatted_string": "square_survey_mile"
+    },
+    {
+        "unit_name": "square_yard",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 0.83612736,
+        "unit_string": "square_yard",
+        "formatted_string": "sq_yd"
+    },
+    {
+        "unit_name": "thomson_cross_section",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 6.652458732226516e-29,
+        "unit_string": "thomson_cross_section",
+        "formatted_string": "\u03c3_e"
+    },
+    {
+        "unit_name": "\u03c3_e",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 6.652458732226516e-29,
+        "unit_string": "thomson_cross_section",
+        "formatted_string": "\u03c3_e"
+    }
+]
