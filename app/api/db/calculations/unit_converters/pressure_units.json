@@ -1,0 +1,194 @@
+[
+    {
+       "unit_string":"atmosphere-standard",
+       "formated_string":"atm",
+       "base_units":"101325.0 pascal",
+       "base_units_value":101325.0,
+       "dimensionality":"pressure",
+       "unit_name":"atmosphere-standard"
+    },
+    {
+       "unit_string":"atmosphere-technical",
+       "formated_string":"at",
+       "base_units":"98066.5 pascal",
+       "base_units_value":98066.5,
+       "dimensionality":"pressure",
+       "unit_name":"atmosphere-technical"
+    },
+    {
+       "unit_string":"bar",
+       "formated_string":"bar",
+       "base_units":"100000.0 pascal",
+       "base_units_value":100000.0,
+       "dimensionality":"pressure",
+       "unit_name":"bar"
+    },
+    {
+       "unit_string":"decibar",
+       "formated_string":"dbar",
+       "base_units":"1000.0 pascal",
+       "base_units_value":1000.0,
+       "dimensionality":"pressure",
+       "unit_name":"decibar"
+    },
+    {
+       "unit_string":"millibar",
+       "formated_string":"mbar",
+       "base_units":"100.0 pascal",
+       "base_units_value":100.0,
+       "dimensionality":"pressure",
+       "unit_name":"millibar"
+    },
+    {
+       "unit_string":"barye_(cgs_unit)",
+       "formated_string":"barye",
+       "base_units":"0.1 pascal",
+       "base_units_value":0.1,
+       "dimensionality":"pressure",
+       "unit_name":"barye_(cgs_unit)"
+    },
+    {
+       "unit_string":"centimeter_of_mercury",
+       "formated_string":"cmHg",
+       "base_units":"1333.22 pascal",
+       "base_units_value":1333.22,
+       "dimensionality":"pressure",
+       "unit_name":"centimeter_of_mercury"
+    },
+    {
+       "unit_string":"centimeter_of_water_(4_\u00b0C)",
+       "formated_string":"cmH2O",
+       "base_units":"98.0638 pascal",
+       "base_units_value":98.0638,
+       "dimensionality":"pressure",
+       "unit_name":"centimeter_of_water_(4_\u00b0C)"
+    },
+    {
+       "unit_string":"foot_of_mercury_(conventional)",
+       "formated_string":"ftHg",
+       "base_units":"40636.66 pascal",
+       "base_units_value":40636.66,
+       "dimensionality":"pressure",
+       "unit_name":"foot_of_mercury_(conventional)"
+    },
+    {
+       "unit_string":"foot_of_water_(39.2_\u00b0F)",
+       "formated_string":"ftH2O",
+       "base_units":"2988.98 pascal",
+       "base_units_value":2988.98,
+       "dimensionality":"pressure",
+       "unit_name":"foot_of_water_(39.2_\u00b0F)"
+    },
+    {
+       "unit_string":"inch_of_mercury_(conventional)",
+       "formated_string":"inHg",
+       "base_units":"3386.389 pascal",
+       "base_units_value":3386.389,
+       "dimensionality":"pressure",
+       "unit_name":"inch_of_mercury_(conventional)"
+    },
+    {
+       "unit_string":"inch_of_water_(39.2_\u00b0F)",
+       "formated_string":"inH2O",
+       "base_units":"248.082 pascal",
+       "base_units_value":248.082,
+       "dimensionality":"pressure",
+       "unit_name":"inch_of_water_(39.2_\u00b0F)"
+    },
+    {
+       "unit_string":"kilogram-force_per_square_millimeter",
+       "formated_string":"kgf\/mm2",
+       "base_units":"9806650.0 pascal",
+       "base_units_value":9806650.0,
+       "dimensionality":"pressure",
+       "unit_name":"kilogram-force_per_square_millimeter"
+    },
+    {
+       "unit_string":"kip_per_square_inch",
+       "formated_string":"kip\/in2",
+       "base_units":"6894757.0 pascal",
+       "base_units_value":6894757.0,
+       "dimensionality":"pressure",
+       "unit_name":"kip_per_square_inch"
+    },
+    {
+       "unit_string":"millimeter_of_mercury",
+       "formated_string":"mmHg",
+       "base_units":"133.3224 pascal",
+       "base_units_value":133.3224,
+       "dimensionality":"pressure",
+       "unit_name":"millimeter_of_mercury"
+    },
+    {
+       "unit_string":"millimeter_of_water_(3.98_\u00b0C)",
+       "formated_string":"mmH2O",
+       "base_units":"9.80638 pascal",
+       "base_units_value":9.80638,
+       "dimensionality":"pressure",
+       "unit_name":"millimeter_of_water_(3.98_\u00b0C)"
+    },
+    {
+       "unit_string":"pascal",
+       "formated_string":"Pa",
+       "base_units":"1.0 pascal",
+       "base_units_value":1.0,
+       "dimensionality":"pressure",
+       "unit_name":"pascal"
+    },
+    {
+       "unit_string":"hectopascal",
+       "formated_string":"hPa",
+       "base_units":"100.0 pascal",
+       "base_units_value":100.0,
+       "dimensionality":"pressure",
+       "unit_name":"hectopascal"
+    },
+    {
+       "unit_string":"kilopascal",
+       "formated_string":"kPa",
+       "base_units":"1000.0 pascal",
+       "base_units_value":1000.0,
+       "dimensionality":"pressure",
+       "unit_name":"kilopascal"
+    },
+    {
+       "unit_string":"pound_per_square_foot",
+       "formated_string":"lb\/ft2",
+       "base_units":"47.88025 pascal",
+       "base_units_value":47.88025,
+       "dimensionality":"pressure",
+       "unit_name":"pound_per_square_foot"
+    },
+    {
+       "unit_string":"pound_per_square_inch",
+       "formated_string":"lb\/in2 or psi",
+       "base_units":"6894.757 pascal",
+       "base_units_value":6894.757,
+       "dimensionality":"pressure",
+       "unit_name":"pound_per_square_inch"
+    },
+    {
+       "unit_string":"poundal_per_square_foot",
+       "formated_string":"pdl\/ft2",
+       "base_units":"1.488164 pascal",
+       "base_units_value":1.488164,
+       "dimensionality":"pressure",
+       "unit_name":"poundal_per_square_foot"
+    },
+    {
+       "unit_string":"short_ton_per_square_foot",
+       "formated_string":"sh tn\/ft2",
+       "base_units":"95760.518 pascal",
+       "base_units_value":95760.518,
+       "dimensionality":"pressure",
+       "unit_name":"short_ton_per_square_foot"
+    },
+    {
+       "unit_string":"torr",
+       "formated_string":"torr",
+       "base_units":"133.3224 pascal",
+       "base_units_value":133.3224,
+       "dimensionality":"pressure",
+       "unit_name":"torr"
+    }
+ ]

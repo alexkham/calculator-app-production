@@ -1,0 +1,191 @@
+[
+{
+    "unit_string":"centimeter_per_minute",
+    "formated_string":"cm\/min",
+    "base_units":"0.0001667 meter_per_second",
+    "base_units_value":0.0001667,
+    "dimensionality":"speed",
+    "unit_name":"centimeter_per_minute"
+ },
+
+ {
+    "unit_string":"centimeter_per_second",
+    "formated_string":"cm\/s",
+    "base_units":"0.01 meter_per_second",
+    "base_units_value":0.01,
+    "dimensionality":"speed",
+    "unit_name":"centimeter_per_second"
+ },
+
+ {
+    "unit_string":"foot_per_hour",
+    "formated_string":"ft\/h",
+    "base_units":"8.46667e-05 meter_per_second",
+    "base_units_value":0.0000846667,
+    "dimensionality":"speed",
+    "unit_name":"foot_per_hour"
+ },
+
+ {
+    "unit_string":"foot_per_minute",
+    "formated_string":"ft\/min",
+    "base_units":"0.00508 meter_per_second",
+    "base_units_value":0.00508,
+    "dimensionality":"speed",
+    "unit_name":"foot_per_minute"
+ },
+
+ {
+    "unit_string":"foot_per_second",
+    "formated_string":"ft\/s",
+    "base_units":"0.3048 meter_per_second",
+    "base_units_value":0.3048,
+    "dimensionality":"speed",
+    "unit_name":"foot_per_second"
+ },
+
+ {
+    "unit_string":"inch_per_minute",
+    "formated_string":"in\/min",
+    "base_units":"0.000423333 meter_per_second",
+    "base_units_value":0.000423333,
+    "dimensionality":"speed",
+    "unit_name":"inch_per_minute"
+ },
+
+ {
+    "unit_string":"inch_per_second",
+    "formated_string":"in\/s",
+    "base_units":"0.0254 meter_per_second",
+    "base_units_value":0.0254,
+    "dimensionality":"speed",
+    "unit_name":"inch_per_second"
+ },
+
+ {
+    "unit_string":"kilometer_per_hour",
+    "formated_string":"km\/h (kph)",
+    "base_units":"0.2777778 meter_per_second",
+    "base_units_value":0.2777778,
+    "dimensionality":"speed",
+    "unit_name":"kilometer_per_hour"
+ },
+
+ {
+    "unit_string":"kilometer_per_second",
+    "formated_string":"km\/s",
+    "base_units":"1000.0 meter_per_second",
+    "base_units_value":1000.0,
+    "dimensionality":"speed",
+    "unit_name":"kilometer_per_second"
+ },
+
+ {
+    "unit_string":"knot_(nautical_mi\/h)",
+    "formated_string":"kn",
+    "base_units":"0.5144444 meter_per_second",
+    "base_units_value":0.5144444,
+    "dimensionality":"speed",
+    "unit_name":"knot_(nautical_mi\/h)"
+ },
+
+ {
+    "unit_string":"knot_(UK)",
+    "formated_string":"kn",
+    "base_units":"0.5148 meter_per_second",
+    "base_units_value":0.5148,
+    "dimensionality":"speed",
+    "unit_name":"knot_(UK)"
+ },
+
+ {
+    "unit_string":"meter_per_hour",
+    "formated_string":"m\/h",
+    "base_units":"0.0002777778 meter_per_second",
+    "base_units_value":0.0002777778,
+    "dimensionality":"speed",
+    "unit_name":"meter_per_hour"
+ },
+
+ {
+    "unit_string":"meter_per_minute",
+    "formated_string":"m\/min",
+    "base_units":"0.01667 meter_per_second",
+    "base_units_value":0.01667,
+    "dimensionality":"speed",
+    "unit_name":"meter_per_minute"
+ },
+
+ {
+    "unit_string":"meter_per_second",
+    "formated_string":"m\/s",
+    "base_units":"1.0 meter_per_second",
+    "base_units_value":1.0,
+    "dimensionality":"speed",
+    "unit_name":"meter_per_second"
+ },
+
+ {
+    "unit_string":"mile_per_hour",
+    "formated_string":"mi\/h (mph)",
+    "base_units":"0.44704 meter_per_second",
+    "base_units_value":0.44704,
+    "dimensionality":"speed",
+    "unit_name":"mile_per_hour"
+ },
+
+ {
+    "unit_string":"mile_per_minute",
+    "formated_string":"mi\/min",
+    "base_units":"26.8224 meter_per_second",
+    "base_units_value":26.8224,
+    "dimensionality":"speed",
+    "unit_name":"mile_per_minute"
+ },
+
+ {
+    "unit_string":"mile_per_second",
+    "formated_string":"mi\/s",
+    "base_units":"1609.344 meter_per_second",
+    "base_units_value":1609.344,
+    "dimensionality":"speed",
+    "unit_name":"mile_per_second"
+ },
+
+ {
+    "unit_string":"speed-of-light_(vacuum)",
+    "formated_string":"c",
+    "base_units":"299792458.0 meter_per_second",
+    "base_units_value":299792458.0,
+    "dimensionality":"speed",
+    "unit_name":"speed-of-light_(vacuum)"
+ },
+
+ {
+    "unit_string":"yard_per_hour",
+    "formated_string":"yd\/h",
+    "base_units":"0.000254 meter_per_second",
+    "base_units_value":0.000254,
+    "dimensionality":"speed",
+    "unit_name":"yard_per_hour"
+ },
+
+ {
+    "unit_string":"yard_per_minute",
+    "formated_string":"yd\/min",
+    "base_units":"0.01524 meter_per_second",
+    "base_units_value":0.01524,
+    "dimensionality":"speed",
+    "unit_name":"yard_per_minute"
+ },
+
+ {
+    "unit_string":"yard_per_second",
+    "formated_string":"yd\/s",
+    "base_units":"0.9144 meter_per_second",
+    "base_units_value":0.9144,
+    "dimensionality":"speed",
+    "unit_name":"yard_per_second"
+ }
+]
+

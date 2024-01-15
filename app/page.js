@@ -5,6 +5,7 @@ import tabsData from './api/db/tabs-data/tabsData.js'
 import DecimalToAnyBaseConverter from './components/decimal-to-any/DecimalToAnyDemo'
 import ButtonGroup from './components/button-group/ButtonGroup'
 import buttonData from './api/db/calculations/converters/converters.json'
+import buttonData2 from './api/db/calculations/unit_converters/units_converters.json'
 import styles from './page.module.css'
 import Tooltip2 from './components/tooltip/Tooltip2'
 import Tooltip from './components/tooltip/Tooltip2'
@@ -30,7 +31,11 @@ export default function Home() {
         directory={'converters'}></ButtonGroup>
         <br></br>
         <br></br>
-       
+        <ButtonGroup data={buttonData2}
+        buttonClass={'button-target'} 
+        containerClass={'button-group-container-vertical'}
+        groupTitle={"Decimal Numbers Converters"}
+        directory={'converters'}></ButtonGroup>
         <br></br>
         <br></br>
         <br></br>

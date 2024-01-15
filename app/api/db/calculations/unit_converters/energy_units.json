@@ -1,0 +1,250 @@
+[
+    {
+       "unit_string":"British_thermal_unit_[IT]",
+       "formated_string":"BTUIT",
+       "base_units":"1055.056 joule",
+       "base_units_value":1055.056,
+       "dimensionality":"energy",
+       "unit_name":"British_thermal_unit_[IT]"
+    },
+    {
+       "unit_string":"British_thermal_unit_[th]",
+       "formated_string":"BTUth",
+       "base_units":"1054.35 joule",
+       "base_units_value":1054.35,
+       "dimensionality":"energy",
+       "unit_name":"British_thermal_unit_[th]"
+    },
+    {
+       "unit_string":"British_thermal_unit_[mean]",
+       "formated_string":"BTUmean",
+       "base_units":"1055.87 joule",
+       "base_units_value":1055.87,
+       "dimensionality":"energy",
+       "unit_name":"British_thermal_unit_[mean]"
+    },
+    {
+       "unit_string":"British_thermal_unit_[39\u00b0F]",
+       "formated_string":"BTU39\u00b0F",
+       "base_units":"1059.67 joule",
+       "base_units_value":1059.67,
+       "dimensionality":"energy",
+       "unit_name":"British_thermal_unit_[39\u00b0F]"
+    },
+    {
+       "unit_string":"British_thermal_unit_[59\u00b0F]",
+       "formated_string":"BTU59\u00b0F",
+       "base_units":"1054.8 joule",
+       "base_units_value":1054.8,
+       "dimensionality":"energy",
+       "unit_name":"British_thermal_unit_[59\u00b0F]"
+    },
+    {
+       "unit_string":"British_thermal_unit_[60\u00b0F]",
+       "formated_string":"BTU60\u00b0F",
+       "base_units":"1054.68 joule",
+       "base_units_value":1054.68,
+       "dimensionality":"energy",
+       "unit_name":"British_thermal_unit_[60\u00b0F]"
+    },
+    {
+       "unit_string":"calorie_[IT]",
+       "formated_string":"calIT",
+       "base_units":"4.1868 joule",
+       "base_units_value":4.1868,
+       "dimensionality":"energy",
+       "unit_name":"calorie_[IT]"
+    },
+    {
+       "unit_string":"calorie_[th]",
+       "formated_string":"calth",
+       "base_units":"4.184 joule",
+       "base_units_value":4.184,
+       "dimensionality":"energy",
+       "unit_name":"calorie_[th]"
+    },
+    {
+       "unit_string":"calorie_[mean]",
+       "formated_string":"calmean",
+       "base_units":"4.19002 joule",
+       "base_units_value":4.19002,
+       "dimensionality":"energy",
+       "unit_name":"calorie_[mean]"
+    },
+    {
+       "unit_string":"calorie_[15\u00b0C]",
+       "formated_string":"cal15\u00b0C",
+       "base_units":"4.1858 joule",
+       "base_units_value":4.1858,
+       "dimensionality":"energy",
+       "unit_name":"calorie_[15\u00b0C]"
+    },
+    {
+       "unit_string":"calorie_[20\u00b0C]",
+       "formated_string":"cal20\u00b0C",
+       "base_units":"4.1819 joule",
+       "base_units_value":4.1819,
+       "dimensionality":"energy",
+       "unit_name":"calorie_[20\u00b0C]"
+    },
+    {
+       "unit_string":"electronvolt",
+       "formated_string":"eV",
+       "base_units":"1.60218e-19 joule",
+       "base_units_value":1.60218e-19,
+       "dimensionality":"energy",
+       "unit_name":"electronvolt"
+    },
+    {
+       "unit_string":"erg",
+       "formated_string":"erg",
+       "base_units":"1e-07 joule",
+       "base_units_value":0.0000001,
+       "dimensionality":"energy",
+       "unit_name":"erg"
+    },
+    {
+       "unit_string":"foot-poundal",
+       "formated_string":"ft\u00b7pdl",
+       "base_units":"0.04214011 joule",
+       "base_units_value":0.04214011,
+       "dimensionality":"energy",
+       "unit_name":"foot-poundal"
+    },
+    {
+       "unit_string":"foot-pound-force",
+       "formated_string":"ft\u00b7lbf",
+       "base_units":"1.355818 joule",
+       "base_units_value":1.355818,
+       "dimensionality":"energy",
+       "unit_name":"foot-pound-force"
+    },
+    {
+       "unit_string":"inch-pound-force",
+       "formated_string":"in\u00b7lbf",
+       "base_units":"0.112984829 joule",
+       "base_units_value":0.112984829,
+       "dimensionality":"energy",
+       "unit_name":"inch-pound-force"
+    },
+    {
+       "unit_string":"joule",
+       "formated_string":"J",
+       "base_units":"1.0 joule",
+       "base_units_value":1.0,
+       "dimensionality":"energy",
+       "unit_name":"joule"
+    },
+    {
+       "unit_string":"kilojoule",
+       "formated_string":"kJ",
+       "base_units":"1000.0 joule",
+       "base_units_value":1000.0,
+       "dimensionality":"energy",
+       "unit_name":"kilojoule"
+    },
+    {
+       "unit_string":"megajoule",
+       "formated_string":"MJ",
+       "base_units":"1000000.0 joule",
+       "base_units_value":1000000.0,
+       "dimensionality":"energy",
+       "unit_name":"megajoule"
+    },
+    {
+       "unit_string":"kilocalorie_[IT]",
+       "formated_string":"kcalIT",
+       "base_units":"4186.8 joule",
+       "base_units_value":4186.8,
+       "dimensionality":"energy",
+       "unit_name":"kilocalorie_[IT]"
+    },
+    {
+       "unit_string":"kilocalorie_[th]",
+       "formated_string":"kcalth",
+       "base_units":"4184.0 joule",
+       "base_units_value":4184.0,
+       "dimensionality":"energy",
+       "unit_name":"kilocalorie_[th]"
+    },
+    {
+       "unit_string":"kilocalorie_[mean]",
+       "formated_string":"kcalmean",
+       "base_units":"4190.02 joule",
+       "base_units_value":4190.02,
+       "dimensionality":"energy",
+       "unit_name":"kilocalorie_[mean]"
+    },
+    {
+       "unit_string":"kilowatt-hour",
+       "formated_string":"kW\u00b7h",
+       "base_units":"3600000.0 joule",
+       "base_units_value":3600000.0,
+       "dimensionality":"energy",
+       "unit_name":"kilowatt-hour"
+    },
+    {
+       "unit_string":"quad_(IT)",
+       "formated_string":"quad",
+       "base_units":"1.05506e+18 joule",
+       "base_units_value":1.05506e+18,
+       "dimensionality":"energy",
+       "unit_name":"quad_(IT)"
+    },
+    {
+       "unit_string":"therm_(EC)",
+       "formated_string":"therm",
+       "base_units":"105506000.0 joule",
+       "base_units_value":105506000.0,
+       "dimensionality":"energy",
+       "unit_name":"therm_(EC)"
+    },
+    {
+       "unit_string":"therm_(U.S.)",
+       "formated_string":"therm",
+       "base_units":"105480400.0 joule",
+       "base_units_value":105480400.0,
+       "dimensionality":"energy",
+       "unit_name":"therm_(U.S.)"
+    },
+    {
+       "unit_string":"ton-of-coal-equivalent",
+       "formated_string":"TOC",
+       "base_units":"29307600000.0 joule",
+       "base_units_value":29307600000.0,
+       "dimensionality":"energy",
+       "unit_name":"ton-of-coal-equivalent"
+    },
+    {
+       "unit_string":"ton-of-oil-equivalent",
+       "formated_string":"TOE",
+       "base_units":"41868000000.0 joule",
+       "base_units_value":41868000000.0,
+       "dimensionality":"energy",
+       "unit_name":"ton-of-oil-equivalent"
+    },
+    {
+       "unit_string":"ton-of-TNT-equivalent",
+       "formated_string":"tTNT",
+       "base_units":"4184000000.0 joule",
+       "base_units_value":4184000000.0,
+       "dimensionality":"energy",
+       "unit_name":"ton-of-TNT-equivalent"
+    },
+    {
+       "unit_string":"watt-hour",
+       "formated_string":"W\u00b7h",
+       "base_units":"3600.0 joule",
+       "base_units_value":3600.0,
+       "dimensionality":"energy",
+       "unit_name":"watt-hour"
+    },
+    {
+       "unit_string":"watt-second",
+       "formated_string":"W\u00b7s",
+       "base_units":"1.0 joule",
+       "base_units_value":1.0,
+       "dimensionality":"energy",
+       "unit_name":"watt-second"
+    }
+ ]

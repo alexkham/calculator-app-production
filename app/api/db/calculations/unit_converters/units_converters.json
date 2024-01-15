@@ -5,6 +5,9 @@
     {"title":"current converter","key_word":"current"},
     {"title":"force converter","key_word":"force"},
     {"title":"volume converter","key_word":"volume"},
-    {"title":"area converter","key_word":"area"}
+    {"title":"area converter","key_word":"area"},
+    {"title":"speed converter","key_word":"speed"},
+    {"title":"energy converter","key_word":"energy"},
+    {"title":"pressure converter","key_word":"pressure"}
    
   ]

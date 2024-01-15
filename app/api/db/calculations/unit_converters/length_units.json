@@ -164,7 +164,7 @@
         "dimensionality": "[length]",
         "base_units": "1.920155716e-10 meter",
         "base_units_value": 1.920155716e-10,
-        "unit_string": "lattice_spacing_of_Si",
+        "unit_string": "lattice_spacing_of_si",
         "formatted_string": "d_220"
     },
     {

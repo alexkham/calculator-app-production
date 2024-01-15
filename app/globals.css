@@ -178,3 +178,16 @@ a {
   justify-content: center;
 }
 
+.button-group-container-vertical {
+  flex-grow: 1;
+  padding: 20px;
+  border-radius: 5px;
+  /* max-width: 500px; */
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: space-between; /* Center grid items */
+  /* Removed margin-left: auto; */
+  margin-left: 20px;
+}
