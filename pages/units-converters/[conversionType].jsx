@@ -6,6 +6,7 @@ import { capitalizeWords } from '@/app/utils/utils-functions';
 import ScrollUpButton from '@/app/components/scroll-up-button/ScrollUpButton';
 import ButtonGroup from '@/app/components/button-group/ButtonGroup';
 import links from '../../app/api/db/calculations/unit_converters/units_converters.json'
+import MyAccordion from '@/app/components/my-accordion/MyAccordion';
 
 
 // Function to generate static paths for each category and table
@@ -67,13 +68,23 @@ export default function page({conversionType}) {
     
     <UnitsConverter conversionType={conversionType}></UnitsConverter>
     </div>
-    <ButtonGroup
+    <div style={{maxWidth:'400px',marginRight:'50px'}}>
+    <MyAccordion title={'All Units Converters'}
+    content={<ButtonGroup
+      directory={'units-converters'}
+      data={links}
+     //  buttonClass={'button-target'} 
+      containerClass={'button-group-container-vertical'}
+      buttonClass={'button-target'}
+      ></ButtonGroup>}></MyAccordion>
+      </div>
+    {/* <ButtonGroup
      directory={'units-converters'}
      data={links}
     //  buttonClass={'button-target'} 
      containerClass={'button-group-container-vertical'}
      buttonClass={'button-target'}
-     ></ButtonGroup>
+     ></ButtonGroup> */}
     </div>
     <br></br>
     <br></br>
