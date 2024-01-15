@@ -18,12 +18,13 @@
   
   .accordion-content {
     border: none;
-    background-color: #cccc;
+    
     border-radius: 5px;
     padding: 20px;
     width: 100%;
     font-size: small;
     font-weight: 200;
+    background-color: inherit;
 
   }
 

@@ -1,0 +1,146 @@
+[
+    {
+       "unit_string":"gram_per_cubic_centimeter",
+       "formated_string":"g\/cm3",
+       "base_units":"1000.0 kilogram_per_cubic_meter",
+       "base_units_value":1000.0,
+       "dimensionality":"density",
+       "unit_name":"gram_per_cubic_centimeter"
+    },
+    {
+       "unit_string":"kilogram_per_cubic_centimeter",
+       "formated_string":"kg\/cm3",
+       "base_units":"1000000.0 kilogram_per_cubic_meter",
+       "base_units_value":1000000.0,
+       "dimensionality":"density",
+       "unit_name":"kilogram_per_cubic_centimeter"
+    },
+    {
+       "unit_string":"gram_per_cubic_meter",
+       "formated_string":"g\/m3",
+       "base_units":"0.001 kilogram_per_cubic_meter",
+       "base_units_value":0.001,
+       "dimensionality":"density",
+       "unit_name":"gram_per_cubic_meter"
+    },
+    {
+       "unit_string":"kilogram_per_cubic_meter",
+       "formated_string":"kg\/m3",
+       "base_units":"1.0 kilogram_per_cubic_meter",
+       "base_units_value":1.0,
+       "dimensionality":"density",
+       "unit_name":"kilogram_per_cubic_meter"
+    },
+    {
+       "unit_string":"gram_per_milliliter",
+       "formated_string":"g\/mL",
+       "base_units":"1000.0 kilogram_per_cubic_meter",
+       "base_units_value":1000.0,
+       "dimensionality":"density",
+       "unit_name":"gram_per_milliliter"
+    },
+    {
+       "unit_string":"gram_per_liter",
+       "formated_string":"g\/L",
+       "base_units":"1.0 kilogram_per_cubic_meter",
+       "base_units_value":1.0,
+       "dimensionality":"density",
+       "unit_name":"gram_per_liter"
+    },
+    {
+       "unit_string":"kilogram_per_liter",
+       "formated_string":"kg\/L",
+       "base_units":"1000.0 kilogram_per_cubic_meter",
+       "base_units_value":1000.0,
+       "dimensionality":"density",
+       "unit_name":"kilogram_per_liter"
+    },
+    {
+       "unit_string":"ounce_per_cubic_inch",
+       "formated_string":"oz\/in3",
+       "base_units":"1729.994 kilogram_per_cubic_meter",
+       "base_units_value":1729.994,
+       "dimensionality":"density",
+       "unit_name":"ounce_per_cubic_inch"
+    },
+    {
+       "unit_string":"ounce_per_cubic_foot",
+       "formated_string":"oz\/ft3",
+       "base_units":"1.001153 kilogram_per_cubic_meter",
+       "base_units_value":1.001153,
+       "dimensionality":"density",
+       "unit_name":"ounce_per_cubic_foot"
+    },
+    {
+       "unit_string":"pound_per_cubic_inch",
+       "formated_string":"lb\/in3",
+       "base_units":"27679.90471 kilogram_per_cubic_meter",
+       "base_units_value":27679.90471,
+       "dimensionality":"density",
+       "unit_name":"pound_per_cubic_inch"
+    },
+    {
+       "unit_string":"pound_per_cubic_foot",
+       "formated_string":"lb\/ft3",
+       "base_units":"16.018463 kilogram_per_cubic_meter",
+       "base_units_value":16.018463,
+       "dimensionality":"density",
+       "unit_name":"pound_per_cubic_foot"
+    },
+    {
+       "unit_string":"ounce_per_gallon_(Imperial)",
+       "formated_string":"oz\/gal",
+       "base_units":"6.236023 kilogram_per_cubic_meter",
+       "base_units_value":6.236023,
+       "dimensionality":"density",
+       "unit_name":"ounce_per_gallon_(Imperial)"
+    },
+    {
+       "unit_string":"ounce_per_gallon_(U.S._fluid)",
+       "formated_string":"oz\/gal",
+       "base_units":"7.489151 kilogram_per_cubic_meter",
+       "base_units_value":7.489151,
+       "dimensionality":"density",
+       "unit_name":"ounce_per_gallon_(U.S._fluid)"
+    },
+    {
+       "unit_string":"pound_per_gallon_(Imperial)",
+       "formated_string":"lb\/gal",
+       "base_units":"99.776372 kilogram_per_cubic_meter",
+       "base_units_value":99.776372,
+       "dimensionality":"density",
+       "unit_name":"pound_per_gallon_(Imperial)"
+    },
+    {
+       "unit_string":"pound_per_gallon_(U.S._fluid)",
+       "formated_string":"lb\/gal",
+       "base_units":"119.826 kilogram_per_cubic_meter",
+       "base_units_value":119.826,
+       "dimensionality":"density",
+       "unit_name":"pound_per_gallon_(U.S._fluid)"
+    },
+    {
+       "unit_string":"slug_per_cubic_foot",
+       "formated_string":"slug\/ft3",
+       "base_units":"515.3788184 kilogram_per_cubic_meter",
+       "base_units_value":515.3788184,
+       "dimensionality":"density",
+       "unit_name":"slug_per_cubic_foot"
+    },
+    {
+       "unit_string":"ton_per_cubic_yard_(long)",
+       "formated_string":"l ton\/yd3",
+       "base_units":"1328.939 kilogram_per_cubic_meter",
+       "base_units_value":1328.939,
+       "dimensionality":"density",
+       "unit_name":"ton_per_cubic_yard_long"
+    },
+    {
+       "unit_string":"ton_per_cubic_yard_(short)",
+       "formated_string":"sh ton\/yd3",
+       "base_units":"1186.553 kilogram_per_cubic_meter",
+       "base_units_value":1186.553,
+       "dimensionality":"density",
+       "unit_name":"ton_per_cubic_yard_(short)"
+    }
+ ]

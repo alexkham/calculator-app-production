@@ -12,11 +12,11 @@ const MyAccordion = ({ title, content }) => {
   return (
     <div className="accordion">
       <div className="accordion-header" onClick={toggleAccordion}>
-        <h4>{isOpen ?  '▼' :  '▶'}{title}</h4>
+        <h4>{isOpen ?  '▼  ' :  '▶  '}{title}</h4>
       </div>
        
         <div className={isOpen?"accordion-content":"accordion-content-invisible"}>
-          <p>{content}</p>
+          <div>{content}</div>
         </div>
       
     </div>

@@ -8,6 +8,9 @@
     {"title":"area converter","key_word":"area"},
     {"title":"speed converter","key_word":"speed"},
     {"title":"energy converter","key_word":"energy"},
-    {"title":"pressure converter","key_word":"pressure"}
+    {"title":"pressure converter","key_word":"pressure"},
+    {"title":"density converter","key_word":"density"},
+    {"title":"acceleration converter","key_word":"acceleration"}
+
    
   ]

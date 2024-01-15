@@ -10,6 +10,7 @@ import styles from './page.module.css'
 import Tooltip2 from './components/tooltip/Tooltip2'
 import Tooltip from './components/tooltip/Tooltip2'
 import MyAccordion from './components/my-accordion/MyAccordion'
+import './globals.css'
 
 
 
@@ -18,27 +19,40 @@ export default function Home() {
   return (
 
    
-    <div className={styles.main}>
+    <div className='main'>
      
         <br></br>
         <br></br>
         <br></br>
+        <br></br>
+        <br></br>
         
-       <ButtonGroup data={buttonData}
+       {/* <ButtonGroup data={buttonData}
         buttonClass={'button-target'} 
         containerClass={'button-group-container'}
         groupTitle={"Decimal Numbers Converters"}
-        directory={'converters'}></ButtonGroup>
-        <br></br>
-        <br></br>
-        <ButtonGroup data={buttonData2}
+        directory={'converters'}></ButtonGroup> */}
+       
+       <MyAccordion title={"Decimal Numbers Converters"}
+       content={<ButtonGroup data={buttonData}
+       buttonClass={'button-target'} 
+       containerClass={'button-group-container'}
+      //  groupTitle={"Decimal Numbers Converters"}
+       directory={'converters'}></ButtonGroup>}
+       
+       ></MyAccordion>
+        {/* <ButtonGroup data={buttonData2}
         buttonClass={'button-target'} 
         containerClass={'button-group-container-vertical'}
         groupTitle={"Decimal Numbers Converters"}
-        directory={'converters'}></ButtonGroup>
-        <br></br>
-        <br></br>
-        <br></br>
+        directory={'converters'}></ButtonGroup> */}
+       
+        
+        <MyAccordion title={"Units Converters"} content={<ButtonGroup data={buttonData2}
+        buttonClass={'button-target'} 
+        containerClass={'button-group-container-vertical'}
+        // groupTitle={"Decimal Numbers Converters"}
+        directory={'units-converters'}></ButtonGroup>}></MyAccordion>
         <br></br>
         <br></br>
         {/* <Tooltip2 text={'Tooltip'}>

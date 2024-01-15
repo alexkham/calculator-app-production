@@ -1,0 +1,114 @@
+[
+    {
+       "unit_string":"centimeter_per_second_squared",
+       "formated_string":"cm\/s2",
+       "base_units":"0.01 meter_per_second_squared",
+       "base_units_value":0.01,
+       "dimensionality":"acceleration",
+       "unit_name":"centimeter_per_second_squared"
+    },
+    {
+       "unit_string":"foot_per_hour_per_second",
+       "formated_string":"ft\/(h\u00b7s)",
+       "base_units":"8.46667e-05 meter_per_second_squared",
+       "base_units_value":0.0000846667,
+       "dimensionality":"acceleration",
+       "unit_name":"foot_per_hour_per_second"
+    },
+    {
+       "unit_string":"foot_per_minute_per_second",
+       "formated_string":"ft\/(min\u00b7s)",
+       "base_units":"0.00508 meter_per_second_squared",
+       "base_units_value":0.00508,
+       "dimensionality":"acceleration",
+       "unit_name":"foot_per_minute_per_second"
+    },
+    {
+       "unit_string":"foot_per_second_squared",
+       "formated_string":"ft\/s2",
+       "base_units":"0.3048 meter_per_second_squared",
+       "base_units_value":0.3048,
+       "dimensionality":"acceleration",
+       "unit_name":"foot_per_second_squared"
+    },
+    {
+       "unit_string":"galileo",
+       "formated_string":"Gal",
+       "base_units":"0.01 meter_per_second_squared",
+       "base_units_value":0.01,
+       "dimensionality":"acceleration",
+       "unit_name":"galileo"
+    },
+    {
+       "unit_string":"gravity_(standard)",
+       "formated_string":"gn",
+       "base_units":"9.80665 meter_per_second_squared",
+       "base_units_value":9.80665,
+       "dimensionality":"acceleration",
+       "unit_name":"gravity_(standard)"
+    },
+    {
+       "unit_string":"inch_per_hour_per_second",
+       "formated_string":"in\/(h\u00b7s)",
+       "base_units":"7.05556e-06 meter_per_second_squared",
+       "base_units_value":0.0000070556,
+       "dimensionality":"acceleration",
+       "unit_name":"inch_per_hour_per_second"
+    },
+    {
+       "unit_string":"inch_per_minute_per_second",
+       "formated_string":"in\/(min\u00b7s)",
+       "base_units":"0.000423333 meter_per_second_squared",
+       "base_units_value":0.000423333,
+       "dimensionality":"acceleration",
+       "unit_name":"inch_per_minute_per_second"
+    },
+    {
+       "unit_string":"inch_per_second_squared",
+       "formated_string":"in\/s2",
+       "base_units":"0.0254 meter_per_second_squared",
+       "base_units_value":0.0254,
+       "dimensionality":"acceleration",
+       "unit_name":"inch_per_second_squared"
+    },
+    {
+       "unit_string":"meter_per_second_squared",
+       "formated_string":" m\/s2",
+       "base_units":"1.0 meter_per_second_squared",
+       "base_units_value":1.0,
+       "dimensionality":"acceleration",
+       "unit_name":"meter_per_second_squared"
+    },
+    {
+       "unit_string":"knot_per_second",
+       "formated_string":"kn\/s",
+       "base_units":"0.5144444 meter_per_second_squared",
+       "base_units_value":0.5144444,
+       "dimensionality":"acceleration",
+       "unit_name":"knot_per_second"
+    },
+    {
+       "unit_string":"mile_per_hour_per_second",
+       "formated_string":"mi\/(h\u00b7s)",
+       "base_units":"0.44704 meter_per_second_squared",
+       "base_units_value":0.44704,
+       "dimensionality":"acceleration",
+       "unit_name":"mile_per_hour_per_second"
+    },
+    {
+       "unit_string":"mile_per_minute_per_second",
+       "formated_string":"mi\/(min\u00b7s)",
+       "base_units":"26.8244 meter_per_second_squared",
+       "base_units_value":26.8244,
+       "dimensionality":"acceleration",
+       "unit_name":"mile_per_minute_per_second"
+    },
+    {
+       "unit_string":"mile_per_second_squared",
+       "formated_string":"mi\/s2",
+       "base_units":"1609.344 meter_per_second_squared",
+       "base_units_value":1609.344,
+       "dimensionality":"acceleration",
+       "unit_name":"mile_per_second_squared"
+    }
+ ]
