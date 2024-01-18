@@ -35,7 +35,7 @@ export default function page({params}) {
                 
          <ButtonGroup data={buttonData}
           
-            buttonClass={'button-target'} 
+            buttonClass={'button-target-horizontal'} 
             containerClass={'button-group-container'}
             groupTitle={""}
             directory={'converters'}></ButtonGroup> 
@@ -45,7 +45,7 @@ export default function page({params}) {
         
     <DecimalToAnyBaseConverter base={decodedConverterType}
      n={converter?.base} 
-     sanitizedLength={converter.max_value}></DecimalToAnyBaseConverter>
+     sanitizedLength={converter?.max_value}></DecimalToAnyBaseConverter>
        
      <br></br>
      <br></br>

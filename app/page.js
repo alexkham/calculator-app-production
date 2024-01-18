@@ -11,6 +11,7 @@ import Tooltip2 from './components/tooltip/Tooltip2'
 import Tooltip from './components/tooltip/Tooltip2'
 import MyAccordion from './components/my-accordion/MyAccordion'
 import './globals.css'
+import NumberConverter from './components/number-converter/NumberConverter'
 
 
 
@@ -24,8 +25,6 @@ export default function Home() {
         <br></br>
         <br></br>
         <br></br>
-        <br></br>
-        <br></br>
         
        {/* <ButtonGroup data={buttonData}
         buttonClass={'button-target'} 
@@ -35,12 +34,19 @@ export default function Home() {
        
        <MyAccordion title={"Decimal Numbers Converters"}
        content={<ButtonGroup data={buttonData}
-       buttonClass={'button-target'} 
+       buttonClass={'button-target-horizontal'} 
        containerClass={'button-group-container'}
       //  groupTitle={"Decimal Numbers Converters"}
        directory={'converters'}></ButtonGroup>}
+
+       
        
        ></MyAccordion>
+
+        <br></br>
+        <br></br>
+        
+        
         {/* <ButtonGroup data={buttonData2}
         buttonClass={'button-target'} 
         containerClass={'button-group-container-vertical'}
@@ -76,7 +82,8 @@ export default function Home() {
     <br></br>   
     <br></br>   
     <br></br>   
-    <br></br>   
+    <br></br>  
+    {/* <NumberConverter styles={{bodyClass:'body-class',headerClass:'header-class'}}></NumberConverter>  */}
     <br></br>   
     <br></br>   
     <br></br>   

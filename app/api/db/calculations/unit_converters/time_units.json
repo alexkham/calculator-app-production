@@ -4,258 +4,258 @@
         "dimensionality": "[time]",
         "base_units_value": 31557600.0,
         "unit_string": "year",
-        "formatted_string": "a"
+        "formated_string": "a"
     },
     {
         "unit_name": "a_u_time",
         "dimensionality": "[time]",
         "base_units_value": 2.4188843265856806e-17,
         "unit_string": "atomic_unit_of_time",
-        "formatted_string": "a_u_time"
+        "formated_string": "a_u_time"
     },
     {
         "unit_name": "atomic_unit_of_time",
         "dimensionality": "[time]",
         "base_units_value": 2.4188843265856806e-17,
         "unit_string": "atomic_unit_of_time",
-        "formatted_string": "a_u_time"
+        "formated_string": "a_u_time"
     },
     {
         "unit_name": "centuries",
         "dimensionality": "[time]",
         "base_units_value": 3155760000.0,
         "unit_string": "century",
-        "formatted_string": "century"
+        "formated_string": "century"
     },
     {
         "unit_name": "century",
         "dimensionality": "[time]",
         "base_units_value": 3155760000.0,
         "unit_string": "century",
-        "formatted_string": "century"
+        "formated_string": "century"
     },
     {
         "unit_name": "common_year",
         "dimensionality": "[time]",
         "base_units_value": 31536000,
         "unit_string": "common_year",
-        "formatted_string": "common_year"
+        "formated_string": "common_year"
     },
     {
         "unit_name": "d",
         "dimensionality": "[time]",
         "base_units_value": 86400,
         "unit_string": "day",
-        "formatted_string": "d"
+        "formated_string": "d"
     },
     {
         "unit_name": "day",
         "dimensionality": "[time]",
         "base_units_value": 86400,
         "unit_string": "day",
-        "formatted_string": "d"
+        "formated_string": "d"
     },
     {
         "unit_name": "eon",
         "dimensionality": "[time]",
         "base_units_value": 3.15576e+16,
         "unit_string": "eon",
-        "formatted_string": "eon"
+        "formated_string": "eon"
     },
     {
         "unit_name": "fortnight",
         "dimensionality": "[time]",
         "base_units_value": 1209600,
         "unit_string": "fortnight",
-        "formatted_string": "fortnight"
+        "formated_string": "fortnight"
     },
     {
         "unit_name": "gregorian_year",
         "dimensionality": "[time]",
         "base_units_value": 31556951.999999996,
         "unit_string": "gregorian_year",
-        "formatted_string": "gregorian_year"
+        "formated_string": "gregorian_year"
     },
     {
         "unit_name": "h",
         "dimensionality": "[time]",
         "base_units_value": 3600,
         "unit_string": "hour",
-        "formatted_string": "h"
+        "formated_string": "h"
     },
     {
         "unit_name": "hour",
         "dimensionality": "[time]",
         "base_units_value": 3600,
         "unit_string": "hour",
-        "formatted_string": "h"
+        "formated_string": "h"
     },
     {
         "unit_name": "hr",
         "dimensionality": "[time]",
         "base_units_value": 3600,
         "unit_string": "hour",
-        "formatted_string": "h"
+        "formated_string": "h"
     },
     {
         "unit_name": "julian_year",
         "dimensionality": "[time]",
         "base_units_value": 31557600.0,
         "unit_string": "year",
-        "formatted_string": "a"
+        "formated_string": "a"
     },
     {
         "unit_name": "leap_year",
         "dimensionality": "[time]",
         "base_units_value": 31622400,
         "unit_string": "leap_year",
-        "formatted_string": "leap_year"
+        "formated_string": "leap_year"
     },
     {
         "unit_name": "lunar_month",
         "dimensionality": "[time]",
         "base_units_value": 2551442.8896000003,
         "unit_string": "synodic_month",
-        "formatted_string": "synodic_month"
+        "formated_string": "synodic_month"
     },
     {
         "unit_name": "millennia",
         "dimensionality": "[time]",
         "base_units_value": 31557600000.0,
         "unit_string": "millennium",
-        "formatted_string": "millennium"
+        "formated_string": "millennium"
     },
     {
         "unit_name": "millennium",
         "dimensionality": "[time]",
         "base_units_value": 31557600000.0,
         "unit_string": "millennium",
-        "formatted_string": "millennium"
+        "formated_string": "millennium"
     },
     {
         "unit_name": "min",
         "dimensionality": "[time]",
         "base_units_value": 60,
         "unit_string": "minute",
-        "formatted_string": "min"
+        "formated_string": "min"
     },
     {
         "unit_name": "minute",
         "dimensionality": "[time]",
         "base_units_value": 60,
         "unit_string": "minute",
-        "formatted_string": "min"
+        "formated_string": "min"
     },
     {
         "unit_name": "month",
         "dimensionality": "[time]",
         "base_units_value": 2629800.0,
         "unit_string": "month",
-        "formatted_string": "month"
+        "formated_string": "month"
     },
     {
         "unit_name": "planck_time",
         "dimensionality": "[time]",
         "base_units_value": 5.391246448313604e-44,
         "unit_string": "planck_time",
-        "formatted_string": "planck_time"
+        "formated_string": "planck_time"
     },
     {
         "unit_name": "s",
         "dimensionality": "[time]",
         "base_units_value": 1,
         "unit_string": "second",
-        "formatted_string": "s"
+        "formated_string": "s"
     },
     {
         "unit_name": "sec",
         "dimensionality": "[time]",
         "base_units_value": 1,
         "unit_string": "second",
-        "formatted_string": "s"
+        "formated_string": "s"
     },
     {
         "unit_name": "second",
         "dimensionality": "[time]",
         "base_units_value": 1,
         "unit_string": "second",
-        "formatted_string": "s"
+        "formated_string": "s"
     },
     {
         "unit_name": "shake",
         "dimensionality": "[time]",
         "base_units_value": 1e-08,
         "unit_string": "shake",
-        "formatted_string": "shake"
+        "formated_string": "shake"
     },
     {
         "unit_name": "sidereal_day",
         "dimensionality": "[time]",
         "base_units_value": 86164.09053083287,
         "unit_string": "sidereal_day",
-        "formatted_string": "sidereal_day"
+        "formated_string": "sidereal_day"
     },
     {
         "unit_name": "sidereal_month",
         "dimensionality": "[time]",
         "base_units_value": 2360591.5579200005,
         "unit_string": "sidereal_month",
-        "formatted_string": "sidereal_month"
+        "formated_string": "sidereal_month"
     },
     {
         "unit_name": "sidereal_year",
         "dimensionality": "[time]",
         "base_units_value": 31558149.763545603,
         "unit_string": "sidereal_year",
-        "formatted_string": "sidereal_year"
+        "formated_string": "sidereal_year"
     },
     {
         "unit_name": "svedberg",
         "dimensionality": "[time]",
         "base_units_value": 1e-13,
         "unit_string": "svedberg",
-        "formatted_string": "svedberg"
+        "formated_string": "svedberg"
     },
     {
         "unit_name": "synodic_month",
         "dimensionality": "[time]",
         "base_units_value": 2551442.8896000003,
         "unit_string": "synodic_month",
-        "formatted_string": "synodic_month"
+        "formated_string": "synodic_month"
     },
     {
         "unit_name": "tropical_month",
         "dimensionality": "[time]",
         "base_units_value": 2360584.6847999995,
         "unit_string": "tropical_month",
-        "formatted_string": "tropical_month"
+        "formated_string": "tropical_month"
     },
     {
         "unit_name": "tropical_year",
         "dimensionality": "[time]",
         "base_units_value": 31556925.2507328,
         "unit_string": "tropical_year",
-        "formatted_string": "tropical_year"
+        "formated_string": "tropical_year"
     },
     {
         "unit_name": "week",
         "dimensionality": "[time]",
         "base_units_value": 604800,
         "unit_string": "week",
-        "formatted_string": "week"
+        "formated_string": "week"
     },
     {
         "unit_name": "year",
         "dimensionality": "[time]",
         "base_units_value": 31557600.0,
         "unit_string": "year",
-        "formatted_string": "a"
+        "formated_string": "a"
     },
     {
         "unit_name": "yr",
         "dimensionality": "[time]",
         "base_units_value": 31557600.0,
         "unit_string": "year",
-        "formatted_string": "a"
+        "formated_string": "a"
     }
 ]

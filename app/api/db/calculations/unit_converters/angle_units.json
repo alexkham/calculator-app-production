@@ -1,0 +1,82 @@
+[
+    {
+       "unit_string":"radian",
+       "formated_string":"rad",
+       "base_units":"1 radian",
+       "base_units_value":1,
+       "dimensionality":"angle",
+       "unit_name":"radian"
+    },
+    {
+       "unit_string":"degree",
+       "formated_string":"\u00b0",
+       "base_units":"\u03c0\/180 radian",
+       "base_units_value":0.01745329,
+       "dimensionality":"angle",
+       "unit_name":"degree"
+    },
+    {
+       "unit_string":"minutes",
+       "formated_string":"'",
+       "base_units":"(\u03c0\/180)\/ 60 radian",
+       "base_units_value":2.908882E-04,
+       "dimensionality":"angle",
+       "unit_name":"minutes"
+    },
+    {
+       "unit_string":"seconds",
+       "formated_string":"\"",
+       "base_units":"(\u03c0\/180)\/ 3600 radian",
+       "base_units_value":4.848137e-06,
+       "dimensionality":"angle",
+       "unit_name":"seconds"
+    },
+    {
+       "unit_string":"octant",
+       "formated_string":"octant",
+       "base_units":"2\u03c0\/8 radian",
+       "base_units_value":0.7853982,
+       "dimensionality":"angle",
+       "unit_name":"octant"
+    },
+    {
+       "unit_string":"sextant",
+       "formated_string":"sextant",
+       "base_units":"2\u03c0\/6 radian",
+       "base_units_value":1.047196,
+       "dimensionality":"angle",
+       "unit_name":"sextant"
+    },
+    {
+       "unit_string":"quadrant",
+       "formated_string":"quadrant",
+       "base_units":"2\u03c0\/4 radian",
+       "base_units_value":1.570796,
+       "dimensionality":"angle",
+       "unit_name":"quadrant"
+    },
+    {
+       "unit_string":"revolution",
+       "formated_string":"r",
+       "base_units":"2\u03c0 radian",
+       "base_units_value":6.283185,
+       "dimensionality":"angle",
+       "unit_name":"revolution"
+    },
+    {
+       "unit_string":"gon",
+       "formated_string":"gon",
+       "base_units":"2\u03c0\/ 400 radian",
+       "base_units_value":0.01570796,
+       "dimensionality":"angle",
+       "unit_name":"gon"
+    },
+    {
+       "unit_string":"mil",
+       "formated_string":"mil",
+       "base_units":"2\u03c0\/ 6400 radian",
+       "base_units_value":9.817477e-4,
+       "dimensionality":"angle",
+       "unit_name":"mil"
+    }
+ ]

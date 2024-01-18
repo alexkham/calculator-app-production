@@ -16,7 +16,7 @@ export default function page() {
        <br></br>  
     
    <ButtonGroup data={buttonData}
-    buttonClass={'button-target'} 
+    buttonClass={'button-target-horizontal'} 
     containerClass={'button-group-container'}
     groupTitle={"Decimal Numbers Visual Converters"}
     directory={'converters'}></ButtonGroup>

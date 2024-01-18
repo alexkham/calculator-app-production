@@ -15,20 +15,26 @@
 .outer-container{
   
     border: solid 1px blue;
-    padding: 30px;
+    padding: 5px;
     padding-bottom: 60px;
-    width: 100%;
+    width: 80%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     border-radius: 5px;
+    min-width: 630px;
+    background-color: #f2f2f2;
+    padding-left: 30px;
+    margin-left: -30px;
+    
     
 }
 
 .title{
     padding: 10px;
-    margin: 10px;
+    margin: 5px;
+    width: 50%;
 }
 .error-message{
     color: red;
@@ -38,3 +44,20 @@
 .select span{
     padding-bottom: 10px;
 }
+
+.units {
+    min-height: 30px;
+    min-width: 50px;
+    width: 50px;
+    background-color: white;
+    padding: 5px;
+}
+.units {
+    display: inline-block;
+    width: 100px; /* Adjust the width as needed */
+    vertical-align: top;
+    white-space: normal;
+    overflow-wrap: break-word;
+    background-color: inherit;
+  }
+  

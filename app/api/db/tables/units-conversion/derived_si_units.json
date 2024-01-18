@@ -1,0 +1,73 @@
+{
+    "tableTitle": "SI Derived Units Expressed in Terms of SI Base Units",
+    "rows": [
+      {
+        "derivedQuantity": "Area",
+        "name": "Square Meter",
+        "symbol": "m²",
+        "base_units": "meter * meter"
+      },
+      {
+        "derivedQuantity": "Volume",
+        "name": "Cubic Meter",
+        "symbol": "m³",
+        "base_units": "meter * meter * meter"
+      },
+      {
+        "derivedQuantity": "Speed, Velocity",
+        "name": "Meter per Second",
+        "symbol": "m/s",
+        "base_units": "meter / second"
+      },
+      {
+        "derivedQuantity": "Acceleration",
+        "name": "Meter per Second Squared",
+        "symbol": "m/s²",
+        "base_units": "meter / second²"
+      },
+      {
+        "derivedQuantity": "Wavenumber",
+        "name": "Reciprocal Meter",
+        "symbol": "m⁻¹",
+        "base_units": "1 / meter"
+      },
+      {
+        "derivedQuantity": "Density, Mass Density",
+        "name": "Kilogram per Cubic Meter",
+        "symbol": "kg/m³",
+        "base_units": "kilogram / meter³"
+      },
+      {
+        "derivedQuantity": "Specific Volume",
+        "name": "Cubic Meter per Kilogram",
+        "symbol": "m³/kg",
+        "base_units": "meter³ / kilogram"
+      },
+      {
+        "derivedQuantity": "Current Density",
+        "name": "Ampere per Square Meter",
+        "symbol": "A/m²",
+        "base_units": "ampere / meter²"
+      },
+      {
+        "derivedQuantity": "Magnetic Field Strength",
+        "name": "Ampere per Meter",
+        "symbol": "A/m",
+        "base_units": "ampere / meter"
+      },
+      {
+        "derivedQuantity": "Luminance",
+        "name": "Candela per Square Meter",
+        "symbol": "cd/m²",
+        "base_units": "candela / meter²"
+      },
+      
+      {
+        "derivedQuantity": "Amount Concentration, Concentration",
+        "name": "Mole per Cubic Meter",
+        "symbol": "mol/m³",
+        "base_units": "mole / meter³"
+      }
+    ]
+  }
+  

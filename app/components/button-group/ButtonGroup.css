@@ -49,28 +49,52 @@
 
     .button-target {
         white-space: nowrap;
-        /* padding: 0.5rem 1rem;  */
+        
         margin: 3px;
         border: solid 1px gray;
         background-color: blue;
         color: white;
-        font-weight: 400;
+        font-weight: 200;
         cursor: pointer;
         display: table-cell;
         border-radius: 5px;
-        max-width: 250px;
+        max-width: 150px;
         min-width: 150px;
         padding: 10px;
+        font-size: smaller;
+        height: 40px;
         
         flex-grow: 1;
-        /* flex-basis: 0; */
-         /* Ensures equal distribution */
-        /* Other styles remain the same */
+       
        
        flex-basis: calc(50% - 20px);
         
     }
+   
 
+    .button-target-horizontal {
+        white-space: nowrap;
+        
+        margin: 3px;
+        border: solid 1px gray;
+        background-color: blue;
+        color: white;
+        font-weight: 200;
+        cursor: pointer;
+        display: table-cell;
+        border-radius: 5px;
+       
+        min-width: 250px;
+        padding: 10px;
+        font-size: 200;
+        height: 40px;
+        
+        flex-grow: 1;
+       
+       
+       flex-basis: calc(50% - 20px);
+        
+    }
     .group-title{
         
        

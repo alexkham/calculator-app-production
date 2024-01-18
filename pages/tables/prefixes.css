@@ -27,3 +27,17 @@ body{
     cursor: pointer;
 
 }
+
+.on-page-nav{
+    display: flex;
+    flex-direction: column;
+    border:solid black 0.5px;
+    border-radius: 3px;
+    width: 50%;
+}
+
+.on-page-nav a{
+    text-decoration: none;
+    margin:5px
+    
+}

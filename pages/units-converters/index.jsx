@@ -2,7 +2,7 @@ import MyNavbar from '@/app/components/my-navbar/MyNavbar'
 import ScrollUpButton from '@/app/components/scroll-up-button/ScrollUpButton'
 import React from 'react'
 import '../pages.css'
-import '../../app/globals.css'
+// import '../../app/globals.css'
 import ButtonGroup from '@/app/components/button-group/ButtonGroup'
 import links from '../../app/api/db/calculations/unit_converters/units_converters.json'
 

@@ -35,7 +35,7 @@ function ButtonGroup({data,buttonClass,containerClass,groupTitle,directory}) {
          
         <Link  key={index} href={`/${directory}/${item.key_word}`}>
         <button
-         className={buttonClass} 
+          className={buttonClass} 
           key={index}>{capitalizeWords(item?.title)}</button>
         </Link>
         </div>

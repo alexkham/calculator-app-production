@@ -1,0 +1,27 @@
+[
+    {
+        "unit_string": "celsius",
+        "dimensionality": "temperature",
+        "formated_string": "°C"
+    },
+    {
+        "unit_string": "fahrenheit",
+        "dimensionality": "temperature",
+        "formated_string": "°F"
+    },
+    {
+        "unit_string": "kelvin",
+        "dimensionality": "temperature",
+        "formated_string": "K"
+    },
+    {
+        "unit_string": "rankine",
+        "dimensionality": "temperature",
+        "formated_string": "°R"
+    },
+    {
+        "unit_string": "réaumur",
+        "dimensionality": "temperature",
+        "formated_string": "°Ré"
+    }
+]

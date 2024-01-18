@@ -1,0 +1,274 @@
+[
+    {
+       "unit_string":"btu_it_per_hour",
+       "formated_string":"BTUIT\/h",
+       "base_units":"0.2930711 watt",
+       "base_units_value":0.2930711,
+       "dimensionality":"power",
+       "unit_name":"BTU_[IT]_per_hour"
+    },
+    {
+       "unit_string":"BTU_it_per_minute",
+       "formated_string":"BTUIT\/min",
+       "base_units":"0.2930711*60 watt",
+       "base_units_value":17.584266,
+       "dimensionality":"power",
+       "unit_name":"BTU_[IT]_per_minute"
+    },
+    {
+       "unit_string":"BTU_[IT]_per_second",
+       "formated_string":"BTUIT\/s",
+       "base_units":"0.2930711*60*60 watt",
+       "base_units_value":"0.2930711*60*60",
+       "dimensionality":"power",
+       "unit_name":"BTU_[IT]_per_second"
+    },
+    {
+       "unit_string":"calorie_[IT]_per_hour",
+       "formated_string":"calIT\/h",
+       "base_units":"4.1868\/60\/60 watt",
+       "base_units_value":"4.1868\/60\/60",
+       "dimensionality":"power",
+       "unit_name":"calorie_[IT]_per_hour"
+    },
+    {
+       "unit_string":"calorie_[IT]_per_minute",
+       "formated_string":"calIT\/min",
+       "base_units":"4.1868\/60 watt",
+       "base_units_value":"4.1868\/60",
+       "dimensionality":"power",
+       "unit_name":"calorie_[IT]_per_minute"
+    },
+    {
+       "unit_string":"calorie_[IT]_per_second",
+       "formated_string":"calIT\/sec",
+       "base_units":"4.1868 watt",
+       "base_units_value":4.1868,
+       "dimensionality":"power",
+       "unit_name":"calorie_[IT]_per_second"
+    },
+    {
+       "unit_string":"BTU_[th]_per_hour",
+       "formated_string":"BTUth\/h",
+       "base_units":"0.2928751 watt",
+       "base_units_value":0.2928751,
+       "dimensionality":"power",
+       "unit_name":"BTU_[th]_per_hour"
+    },
+    {
+       "unit_string":"BTU_[th]_per_minute",
+       "formated_string":"BTUth\/min",
+       "base_units":"0.2928751*60 watt",
+       "base_units_value":"0.2928751*60",
+       "dimensionality":"power",
+       "unit_name":"BTU_[th]_per_minute"
+    },
+    {
+       "unit_string":"BTU_[th]_per_second",
+       "formated_string":"BTUth\/s",
+       "base_units":"0.2928751*60*60 watt",
+       "base_units_value":"0.2928751*60*60",
+       "dimensionality":"power",
+       "unit_name":"BTU_[th]_per_second"
+    },
+    {
+       "unit_string":"calorie_[th]_per_hour",
+       "formated_string":"calth\/h",
+       "base_units":"4.184\/60\/60 watt",
+       "base_units_value":"4.184\/60\/60",
+       "dimensionality":"power",
+       "unit_name":"calorie_[th]_per_hour"
+    },
+    {
+       "unit_string":"calorie_[th]_per_minute",
+       "formated_string":"calth\/min",
+       "base_units":"4.184\/60 watt",
+       "base_units_value":"4.184\/60",
+       "dimensionality":"power",
+       "unit_name":"calorie_[th]_per_minute"
+    },
+    {
+       "unit_string":"calorie_[th]_per_second",
+       "formated_string":"calth\/s",
+       "base_units":"4.184 watt",
+       "base_units_value":4.184,
+       "dimensionality":"power",
+       "unit_name":"calorie_[th]_per_second"
+    },
+    {
+       "unit_string":"cheval-vapeur",
+       "formated_string":"cv",
+       "base_units":"735.49875 watt",
+       "base_units_value":735.49875,
+       "dimensionality":"power",
+       "unit_name":"cheval-vapeur"
+    },
+    {
+       "unit_string":"erg_per_hour",
+       "formated_string":"erg\/h",
+       "base_units":"0.0000001\/60\/60 watt",
+       "base_units_value":"0.0000001\/60\/60",
+       "dimensionality":"power",
+       "unit_name":"erg_per_hour"
+    },
+    {
+       "unit_string":"erg_per_minute",
+       "formated_string":"erg\/min",
+       "base_units":"0.0000001\/60 watt",
+       "base_units_value":"0.0000001\/60",
+       "dimensionality":"power",
+       "unit_name":"erg_per_minute"
+    },
+    {
+       "unit_string":"erg_per_second",
+       "formated_string":"erg\/s",
+       "base_units":"1e-07 watt",
+       "base_units_value":0.0000001,
+       "dimensionality":"power",
+       "unit_name":"erg_per_second"
+    },
+    {
+       "unit_string":"foot-pound-force_per_hour",
+       "formated_string":"ft\u00b7lbf\/h",
+       "base_units":"1.355818\/60\/60 watt",
+       "base_units_value":"1.355818\/60\/60",
+       "dimensionality":"power",
+       "unit_name":"foot-pound-force_per_hour"
+    },
+    {
+       "unit_string":"foot-pound-force_per_minute",
+       "formated_string":"ft\u00b7lbf\/min",
+       "base_units":"1.355818\/60 watt",
+       "base_units_value":"1.355818\/60",
+       "dimensionality":"power",
+       "unit_name":"foot-pound-force_per_minute"
+    },
+    {
+       "unit_string":"foot-pound-force_per_second",
+       "formated_string":"ft\u00b7lbf\/s",
+       "base_units":"1.355818 watt",
+       "base_units_value":1.355818,
+       "dimensionality":"power",
+       "unit_name":"foot-pound-force_per_second"
+    },
+    {
+       "unit_string":"foot-poundal_per_hour",
+       "formated_string":"ft\u00b7pdl\/h",
+       "base_units":"0.04214011\/60\/60 watt",
+       "base_units_value":"0.04214011\/60\/60",
+       "dimensionality":"power",
+       "unit_name":"foot-poundal_per_hour"
+    },
+    {
+       "unit_string":"foot-poundal_per_minute",
+       "formated_string":"ft\u00b7pdl\/min",
+       "base_units":"0.04214011\/60 watt",
+       "base_units_value":"0.04214011\/60",
+       "dimensionality":"power",
+       "unit_name":"foot-poundal_per_minute"
+    },
+    {
+       "unit_string":"foot-poundal_per_second",
+       "formated_string":"ft\u00b7pdl\/s",
+       "base_units":"0.04214011 watt",
+       "base_units_value":0.04214011,
+       "dimensionality":"power",
+       "unit_name":"foot-poundal_per_second"
+    },
+    {
+       "unit_string":"horsepower_(550_ft_\u00b7_lbf\/s)",
+       "formated_string":"hp",
+       "base_units":"745.6999 watt",
+       "base_units_value":745.6999,
+       "dimensionality":"power",
+       "unit_name":"horsepower_(550_ft_\u00b7_lbf\/s)"
+    },
+    {
+       "unit_string":"horsepower_(boiler)",
+       "formated_string":"hp",
+       "base_units":"9809.5 watt",
+       "base_units_value":9809.5,
+       "dimensionality":"power",
+       "unit_name":"horsepower_(boiler)"
+    },
+    {
+       "unit_string":"horsepower_(electric)",
+       "formated_string":"hp",
+       "base_units":"746 watt",
+       "base_units_value":746,
+       "dimensionality":"power",
+       "unit_name":"horsepower_(electric)"
+    },
+    {
+       "unit_string":"horsepower_(metric)",
+       "formated_string":"hp",
+       "base_units":"735.49875 watt",
+       "base_units_value":735.49875,
+       "dimensionality":"power",
+       "unit_name":"horsepower_(metric)"
+    },
+    {
+       "unit_string":"horsepower_(mechanical)",
+       "formated_string":"hp",
+       "base_units":"745.7 watt",
+       "base_units_value":745.7,
+       "dimensionality":"power",
+       "unit_name":"horsepower_(mechanical)"
+    },
+    {
+       "unit_string":"horsepower_(water)",
+       "formated_string":"hp",
+       "base_units":"746.043 watt",
+       "base_units_value":746.043,
+       "dimensionality":"power",
+       "unit_name":"horsepower_(water)"
+    },
+    {
+       "unit_string":"joule_per_hour",
+       "formated_string":"J\/h",
+       "base_units":"1\/60\/60 watt",
+       "base_units_value":"1\/60\/60",
+       "dimensionality":"power",
+       "unit_name":"joule_per_hour"
+    },
+    {
+       "unit_string":"joule_per_minute",
+       "formated_string":"J\/min",
+       "base_units":"1960-01-01 00:00:00 watt",
+       "base_units_value":-315619200000,
+       "dimensionality":"power",
+       "unit_name":"joule_per_minute"
+    },
+    {
+       "unit_string":"joule_per_second",
+       "formated_string":"J\/s",
+       "base_units":"1 watt",
+       "base_units_value":1,
+       "dimensionality":"power",
+       "unit_name":"joule_per_second"
+    },
+    {
+       "unit_string":"kilowatt",
+       "formated_string":"kW",
+       "base_units":"1000 watt",
+       "base_units_value":1000,
+       "dimensionality":"power",
+       "unit_name":"kilowatt"
+    },
+    {
+       "unit_string":"pferdestarke",
+       "formated_string":"PS",
+       "base_units":"735.49875 watt",
+       "base_units_value":735.49875,
+       "dimensionality":"power",
+       "unit_name":"pferdestarke"
+    },
+    {
+       "unit_string":"_watt",
+       "formated_string":" W",
+       "base_units":"1 _watt",
+       "base_units_value":1,
+       "dimensionality":"power",
+       "unit_name":"_watt"
+    }
+ ]

@@ -44,7 +44,7 @@ function fixNav(){
         Units Conversion  
         <ul className="dropdown-content">
             <li><Link href="/units-converters">Units Converters</Link></li>
-            <li><Link href="/prefixes">Metric Prefixes</Link></li>                                           
+            <li><Link href="/tables">Conversion Tables</Link></li>                                           
          </ul>   
         
         </li>

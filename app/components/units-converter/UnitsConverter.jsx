@@ -8,9 +8,23 @@ function UnitsConverter({conversionType}) {
   const [number,setNumber]=useState('')
   const [result,setResult]=useState('')
   const [from,setFrom]=useState('')
+  const [fromAbr,setFromAbr]=useState('')
   const [to,setTo]=useState('')
+  const [toAbr,setToAbr]=useState('')
   const [isInputValid,setIsInputValid]=useState(true)
   const [data,setData]=useState(null)
+
+
+  const loadDataFromAPI = async () => {
+    try {
+      const response = await fetch(`localhost:8001/${conversionType}/${number}/${from}/${to}`); 
+      const data = await response.json();
+      setResult(data.result);
+    } catch (error) {
+      console.error('Failed to load data from API', error);
+      setData(null);
+    }
+  };
 
   useEffect(() => {
     setNumber('');
@@ -22,16 +36,35 @@ function UnitsConverter({conversionType}) {
       try {
         const myModule = await import(`../../api/db/calculations/unit_converters/${conversionType}_units.json`);
         setData(myModule.default);
-        console.log('Use Effect')
-        console.log(data)
-      } catch (error) {
+        setFromAbr(' ')
+        setToAbr(' ')
+        } catch (error) {
         console.error('Failed to load calculation data', error);
-        setData(null);
+        loadDataFromAPI();
       }
     }
 
     loadCalculationData();
-  }, [data,conversionType]);  
+  }, [data,conversionType]); 
+  
+  useEffect(() => {
+    if (from && data) {
+      const fromUnit = data.find(unit => unit.unit_string === from.replace(/ /g,'_').toLowerCase());
+      if (fromUnit) {
+        setFromAbr(fromUnit.formated_string?.replace(/_/g,' '));
+      }
+    }
+  }, [from, data]); 
+  
+  useEffect(() => {
+    if (to && data) {
+      const toUnit = data.find(unit => unit.unit_string === to.replace(/ /g,'_').toLowerCase());
+      if (toUnit) {
+        setToAbr(toUnit.formated_string?.replace(/_/g,' '));
+      }
+    }
+  }, [to, data]); 
+  
   
   
   const validateInput = (e) => {
@@ -58,17 +91,45 @@ function UnitsConverter({conversionType}) {
 
  }
 
-//  const calculateConversion = () => {
-//   const fromUnit = data.find(unit => unit.unit_string === from.replace(/ /g,'_').toLowerCase());
-//   const toUnit = data.find(unit => unit.unit_string === to.replace(/ /g,'_').toLowerCase());
+ const unitMapping = {
+  'Celsius': 'degC',
+  'Fahrenheit': 'degF',
+  'Kelvin': 'degK',
+  'Rankine': 'degR',
+  'Réaumur': 'degRe',
 
-//   if (fromUnit && toUnit) {
-//     const convertedValue = (number * fromUnit.base_units_value) / toUnit.base_units_value;
-//     setResult(convertedValue);
-//   }
-// };
+ }
 
-const calculateConversion = useCallback(() => {
+
+ const convertTemperature = async () => {
+  if (number && from && to) {
+    const pintFromUnit = unitMapping[from];
+    const pintToUnit = unitMapping[to];
+    console.log(pintFromUnit)
+    console.log(pintToUnit)
+    try {
+      const response = await fetch(`http://localhost:8001/temperature/?value=${number}&from_unit=${pintFromUnit}&to_unit=${pintToUnit}`);
+     
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+      const temp = await response.json();
+      console.log(temp.result)
+      setResult(temp.result.toString()); // Assuming 'calculatedValue' is the key in your JSON response
+    } catch (error) {
+      console.error('Failed to fetch temperature conversion', error);
+      // Handle error (e.g., update state to show an error message to the user)
+    }
+  }
+};
+
+const calculateConversion = useCallback(async() => {
+
+  if (conversionType === 'temperature') {
+    // Call the convertTemperature function for temperature conversions
+    const temp=await convertTemperature();
+    }
+  else{ 
   const fromUnit = data.find(unit => unit.unit_string === from.replace(/ /g,'_').toLowerCase());
   const toUnit = data.find(unit => unit.unit_string === to.replace(/ /g,'_').toLowerCase());
 
@@ -76,7 +137,7 @@ const calculateConversion = useCallback(() => {
       const convertedValue = (number * fromUnit.base_units_value) / toUnit.base_units_value;
       setResult(convertedValue);
   }
-}, [number, from, to, data]);
+}}, [number, from, to, data]);
 
 useEffect(() => {
   if (number && from && to) {
@@ -85,15 +146,15 @@ useEffect(() => {
 }, [number, from, to, data,calculateConversion]);
 
 
-// const options=data?.map(unit=>capitalizeWords(unit.unit_string.replace(/_/g,' ')))
-// const options = [...new Set(data?.map(unit => capitalizeWords(unit.unit_string.replace(/_/g, ' '))))];
-const options = [...new Set(data?.map(unit => capitalizeWords(unit.unit_string.replace(/_/g, ' '))))].sort();
 
+const options = [...new Set(data?.map(unit => capitalizeWords(unit.unit_string.replace(/_/g, ' '))))].sort();
 
   return (
    
     <>
-    
+    {/* <span>{from}</span>
+    <span>{to}</span>
+    <span>{result}</span> */}
     
     <div className='outer-container'>
       
@@ -117,16 +178,18 @@ const options = [...new Set(data?.map(unit => capitalizeWords(unit.unit_string.r
       label={'units'} 
       onChange={e => setFrom(e.target.value)}
       value={from}/>
+      <span className='units'>{fromAbr}</span>
       </div>
       </div>
       <div className='group-block'>
       <h4 className='title'>To</h4>
       <div className='inputs-box'>
-      <span className='select' > {result}</span>
+      <span className='select'> {result}</span>
       <SelectComponent label={'units'}  
       options={options} 
       onChange={e => setTo(e.target.value)}
       value={to}/>
+      <span className='units'>{toAbr}</span>
       </div>
       </div>
 

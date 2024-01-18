@@ -1,0 +1,41 @@
+{
+    "tableTitle": "SI Base Units",
+    "rows": [
+      {
+        "dimension": "length",
+        "name": "Meter",
+        "symbol": "m"
+      },
+      {
+        "dimension": "mass",
+        "name": "Kilogram",
+        "symbol": "kg"
+      },
+      {
+        "dimension": "time",
+        "name": "Second",
+        "symbol": "s"
+      },
+      {
+        "dimension": "electric current",
+        "name": "Ampere",
+        "symbol": "A"
+      },
+      {
+        "dimension": "thermodynamic temperature",
+        "name": "Kelvin",
+        "symbol": "K"
+      },
+      {
+        "dimension": "amount of substance",
+        "name": "Mole",
+        "symbol": "mol"
+      },
+      {
+        "dimension": "luminous intensity",
+        "name": "Candela",
+        "symbol": "cd"
+      }
+    ]
+  }
+  

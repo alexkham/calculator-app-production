@@ -216,3 +216,14 @@ a {
  flex-basis: calc(50% - 20px);
   
 }
+
+.body-class{
+  background-color: red;
+  height: 100px;
+  color: blue;
+}
+
+.header-class{
+  background-color: greenyellow;
+  height: 50px;
+}

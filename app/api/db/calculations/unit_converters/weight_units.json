@@ -5,7 +5,7 @@
         "base_units": "1.6605390666e-27 kilogram",
         "base_units_value": 1.6605390666e-27,
         "unit_string": "dalton",
-        "formatted_string": "Da"
+        "formated_string": "Da"
     },
     {
         "unit_name": "UK_cwt",
@@ -13,7 +13,7 @@
         "base_units": "50.80234544 kilogram",
         "base_units_value": 50.80234544,
         "unit_string": "UK_hundredweight",
-        "formatted_string": "UK_cwt"
+        "formated_string": "UK_cwt"
     },
     {
         "unit_name": "UK_hundredweight",
@@ -21,7 +21,7 @@
         "base_units": "50.80234544 kilogram",
         "base_units_value": 50.80234544,
         "unit_string": "UK_hundredweight",
-        "formatted_string": "UK_cwt"
+        "formated_string": "UK_cwt"
     },
     {
         "unit_name": "UK_ton",
@@ -29,7 +29,7 @@
         "base_units": "1016.0469088000001 kilogram",
         "base_units_value": 1016.0469088000001,
         "unit_string": "UK_ton",
-        "formatted_string": "UK_ton"
+        "formated_string": "UK_ton"
     },
     {
         "unit_name": "US_cwt",
@@ -37,7 +37,7 @@
         "base_units": "45.35923700000001 kilogram",
         "base_units_value": 45.35923700000001,
         "unit_string": "US_hundredweight",
-        "formatted_string": "US_cwt"
+        "formated_string": "US_cwt"
     },
     {
         "unit_name": "US_hundredweight",
@@ -45,7 +45,7 @@
         "base_units": "45.35923700000001 kilogram",
         "base_units_value": 45.35923700000001,
         "unit_string": "US_hundredweight",
-        "formatted_string": "US_cwt"
+        "formated_string": "US_cwt"
     },
     {
         "unit_name": "US_ton",
@@ -53,7 +53,7 @@
         "base_units": "907.1847400000001 kilogram",
         "base_units_value": 907.1847400000001,
         "unit_string": "US_ton",
-        "formatted_string": "US_ton"
+        "formated_string": "US_ton"
     },
     {
         "unit_name": "a_u_mass",
@@ -61,7 +61,7 @@
         "base_units": "9.1093837015e-31 kilogram",
         "base_units_value": 9.1093837015e-31,
         "unit_string": "electron_mass",
-        "formatted_string": "m_e"
+        "formated_string": "m_e"
     },
     {
         "unit_name": "amu",
@@ -69,7 +69,7 @@
         "base_units": "1.6605390666e-27 kilogram",
         "base_units_value": 1.6605390666e-27,
         "unit_string": "unified_atomic_mass_unit",
-        "formatted_string": "u"
+        "formated_string": "u"
     },
     {
         "unit_name": "ap_dr",
@@ -77,7 +77,7 @@
         "base_units": "0.003887934600000001 kilogram",
         "base_units_value": 0.003887934600000001,
         "unit_string": "apothecary_dram",
-        "formatted_string": "ap_dr"
+        "formated_string": "ap_dr"
     },
     {
         "unit_name": "ap_lb",
@@ -85,7 +85,7 @@
         "base_units": "0.3732417216000001 kilogram",
         "base_units_value": 0.3732417216000001,
         "unit_string": "apothecary_pound",
-        "formatted_string": "ap_lb"
+        "formated_string": "ap_lb"
     },
     {
         "unit_name": "ap_oz",
@@ -93,7 +93,7 @@
         "base_units": "0.03110347680000001 kilogram",
         "base_units_value": 0.03110347680000001,
         "unit_string": "apothecary_ounce",
-        "formatted_string": "ap_oz"
+        "formated_string": "ap_oz"
     },
     {
         "unit_name": "apothecary_dram",
@@ -101,7 +101,7 @@
         "base_units": "0.003887934600000001 kilogram",
         "base_units_value": 0.003887934600000001,
         "unit_string": "apothecary_dram",
-        "formatted_string": "ap_dr"
+        "formated_string": "ap_dr"
     },
     {
         "unit_name": "apothecary_ounce",
@@ -109,7 +109,7 @@
         "base_units": "0.03110347680000001 kilogram",
         "base_units_value": 0.03110347680000001,
         "unit_string": "apothecary_ounce",
-        "formatted_string": "ap_oz"
+        "formated_string": "ap_oz"
     },
     {
         "unit_name": "apothecary_pound",
@@ -117,7 +117,7 @@
         "base_units": "0.3732417216000001 kilogram",
         "base_units_value": 0.3732417216000001,
         "unit_string": "apothecary_pound",
-        "formatted_string": "ap_lb"
+        "formated_string": "ap_lb"
     },
     {
         "unit_name": "atomic_mass_constant",
@@ -125,7 +125,7 @@
         "base_units": "1.6605390666e-27 kilogram",
         "base_units_value": 1.6605390666e-27,
         "unit_string": "atomic_mass_constant",
-        "formatted_string": "m_u"
+        "formated_string": "m_u"
     },
     {
         "unit_name": "atomic_unit_of_mass",
@@ -133,7 +133,7 @@
         "base_units": "9.1093837015e-31 kilogram",
         "base_units_value": 9.1093837015e-31,
         "unit_string": "electron_mass",
-        "formatted_string": "m_e"
+        "formated_string": "m_e"
     },
     {
         "unit_name": "avdp_dram",
@@ -141,7 +141,7 @@
         "base_units": "0.0017718451953125003 kilogram",
         "base_units_value": 0.0017718451953125003,
         "unit_string": "dram",
-        "formatted_string": "dr"
+        "formated_string": "dr"
     },
     {
         "unit_name": "avdp_ounce",
@@ -149,7 +149,7 @@
         "base_units": "0.028349523125000005 kilogram",
         "base_units_value": 0.028349523125000005,
         "unit_string": "ounce",
-        "formatted_string": "oz"
+        "formated_string": "oz"
     },
     {
         "unit_name": "avdp_pound",
@@ -157,7 +157,7 @@
         "base_units": "0.4535923700000001 kilogram",
         "base_units_value": 0.4535923700000001,
         "unit_string": "pound",
-        "formatted_string": "lb"
+        "formated_string": "lb"
     },
     {
         "unit_name": "avoirdupois_dram",
@@ -165,7 +165,7 @@
         "base_units": "0.0017718451953125003 kilogram",
         "base_units_value": 0.0017718451953125003,
         "unit_string": "dram",
-        "formatted_string": "dr"
+        "formated_string": "dr"
     },
     {
         "unit_name": "avoirdupois_ounce",
@@ -173,7 +173,7 @@
         "base_units": "0.028349523125000005 kilogram",
         "base_units_value": 0.028349523125000005,
         "unit_string": "ounce",
-        "formatted_string": "oz"
+        "formated_string": "oz"
     },
     {
         "unit_name": "avoirdupois_pound",
@@ -181,7 +181,7 @@
         "base_units": "0.4535923700000001 kilogram",
         "base_units_value": 0.4535923700000001,
         "unit_string": "pound",
-        "formatted_string": "lb"
+        "formated_string": "lb"
     },
     {
         "unit_name": "bag",
@@ -189,7 +189,7 @@
         "base_units": "42.637682780000006 kilogram",
         "base_units_value": 42.637682780000006,
         "unit_string": "bag",
-        "formatted_string": "bag"
+        "formated_string": "bag"
     },
     {
         "unit_name": "blob",
@@ -197,7 +197,7 @@
         "base_units": "175.12683524647645 kilogram",
         "base_units_value": 175.12683524647645,
         "unit_string": "slinch",
-        "formatted_string": "blob"
+        "formated_string": "blob"
     },
     {
         "unit_name": "carat",
@@ -205,7 +205,7 @@
         "base_units": "0.0002 kilogram",
         "base_units_value": 0.0002,
         "unit_string": "carat",
-        "formatted_string": "ct"
+        "formated_string": "ct"
     },
     {
         "unit_name": "ct",
@@ -213,7 +213,7 @@
         "base_units": "0.0002 kilogram",
         "base_units_value": 0.0002,
         "unit_string": "carat",
-        "formatted_string": "ct"
+        "formated_string": "ct"
     },
     {
         "unit_name": "cwt",
@@ -221,7 +221,7 @@
         "base_units": "45.35923700000001 kilogram",
         "base_units_value": 45.35923700000001,
         "unit_string": "hundredweight",
-        "formatted_string": "cwt"
+        "formated_string": "cwt"
     },
     {
         "unit_name": "dalton",
@@ -229,7 +229,7 @@
         "base_units": "1.6605390666e-27 kilogram",
         "base_units_value": 1.6605390666e-27,
         "unit_string": "dalton",
-        "formatted_string": "Da"
+        "formated_string": "Da"
     },
     {
         "unit_name": "dr",
@@ -237,7 +237,7 @@
         "base_units": "0.0017718451953125003 kilogram",
         "base_units_value": 0.0017718451953125003,
         "unit_string": "dram",
-        "formatted_string": "dr"
+        "formated_string": "dr"
     },
     {
         "unit_name": "drachm",
@@ -245,7 +245,7 @@
         "base_units": "0.0017718451953125003 kilogram",
         "base_units_value": 0.0017718451953125003,
         "unit_string": "dram",
-        "formatted_string": "dr"
+        "formated_string": "dr"
     },
     {
         "unit_name": "dram",
@@ -253,7 +253,7 @@
         "base_units": "0.0017718451953125003 kilogram",
         "base_units_value": 0.0017718451953125003,
         "unit_string": "dram",
-        "formatted_string": "dr"
+        "formated_string": "dr"
     },
     {
         "unit_name": "dwt",
@@ -261,7 +261,7 @@
         "base_units": "0.00155517384 kilogram",
         "base_units_value": 0.00155517384,
         "unit_string": "pennyweight",
-        "formatted_string": "dwt"
+        "formated_string": "dwt"
     },
     {
         "unit_name": "electron_mass",
@@ -269,7 +269,7 @@
         "base_units": "9.1093837015e-31 kilogram",
         "base_units_value": 9.1093837015e-31,
         "unit_string": "electron_mass",
-        "formatted_string": "m_e"
+        "formated_string": "m_e"
     },
     {
         "unit_name": "g",
@@ -277,7 +277,7 @@
         "base_units": "0.001 kilogram",
         "base_units_value": 0.001,
         "unit_string": "gram",
-        "formatted_string": "g"
+        "formated_string": "g"
     },
     {
         "unit_name": "gamma_mass",
@@ -285,7 +285,7 @@
         "base_units": "1e-09 kilogram",
         "base_units_value": 1e-09,
         "unit_string": "gamma_mass",
-        "formatted_string": "gamma_mass"
+        "formated_string": "gamma_mass"
     },
     {
         "unit_name": "gr",
@@ -293,7 +293,7 @@
         "base_units": "6.479891000000001e-05 kilogram",
         "base_units_value": 6.479891000000001e-05,
         "unit_string": "grain",
-        "formatted_string": "gr"
+        "formated_string": "gr"
     },
     {
         "unit_name": "grain",
@@ -301,7 +301,7 @@
         "base_units": "6.479891000000001e-05 kilogram",
         "base_units_value": 6.479891000000001e-05,
         "unit_string": "grain",
-        "formatted_string": "gr"
+        "formated_string": "gr"
     },
     {
         "unit_name": "gram",
@@ -309,7 +309,7 @@
         "base_units": "0.001 kilogram",
         "base_units_value": 0.001,
         "unit_string": "gram",
-        "formatted_string": "g"
+        "formated_string": "g"
     },
     {
         "unit_name": "hundredweight",
@@ -317,7 +317,7 @@
         "base_units": "45.35923700000001 kilogram",
         "base_units_value": 45.35923700000001,
         "unit_string": "hundredweight",
-        "formatted_string": "cwt"
+        "formated_string": "cwt"
     },
     {
         "unit_name": "karat",
@@ -325,7 +325,7 @@
         "base_units": "0.0002 kilogram",
         "base_units_value": 0.0002,
         "unit_string": "carat",
-        "formatted_string": "ct"
+        "formated_string": "ct"
     },
     {
         "unit_name": "kilogram",
@@ -333,7 +333,7 @@
         "base_units": "1 kilogram",
         "base_units_value": 1,
         "unit_string": "kilogram",
-        "formatted_string": "kg"
+        "formated_string": "kg"
     },
     {
         "unit_name": "lb",
@@ -341,7 +341,7 @@
         "base_units": "0.4535923700000001 kilogram",
         "base_units_value": 0.4535923700000001,
         "unit_string": "pound",
-        "formatted_string": "lb"
+        "formated_string": "lb"
     },
     {
         "unit_name": "lbt",
@@ -349,7 +349,7 @@
         "base_units": "0.3732417216000001 kilogram",
         "base_units_value": 0.3732417216000001,
         "unit_string": "troy_pound",
-        "formatted_string": "tlb"
+        "formated_string": "tlb"
     },
     {
         "unit_name": "long_hundredweight",
@@ -357,7 +357,7 @@
         "base_units": "50.80234544 kilogram",
         "base_units_value": 50.80234544,
         "unit_string": "long_hundredweight",
-        "formatted_string": "long_hundredweight"
+        "formated_string": "long_hundredweight"
     },
     {
         "unit_name": "long_ton",
@@ -365,7 +365,7 @@
         "base_units": "1016.0469088000001 kilogram",
         "base_units_value": 1016.0469088000001,
         "unit_string": "long_ton",
-        "formatted_string": "long_ton"
+        "formated_string": "long_ton"
     },
     {
         "unit_name": "m_e",
@@ -373,7 +373,7 @@
         "base_units": "9.1093837015e-31 kilogram",
         "base_units_value": 9.1093837015e-31,
         "unit_string": "electron_mass",
-        "formatted_string": "m_e"
+        "formated_string": "m_e"
     },
     {
         "unit_name": "m_n",
@@ -381,7 +381,7 @@
         "base_units": "1.67492749804e-27 kilogram",
         "base_units_value": 1.67492749804e-27,
         "unit_string": "neutron_mass",
-        "formatted_string": "m_n"
+        "formated_string": "m_n"
     },
     {
         "unit_name": "m_p",
@@ -389,7 +389,7 @@
         "base_units": "1.67262192369e-27 kilogram",
         "base_units_value": 1.67262192369e-27,
         "unit_string": "proton_mass",
-        "formatted_string": "m_p"
+        "formated_string": "m_p"
     },
     {
         "unit_name": "m_u",
@@ -397,7 +397,7 @@
         "base_units": "1.6605390666e-27 kilogram",
         "base_units_value": 1.6605390666e-27,
         "unit_string": "atomic_mass_constant",
-        "formatted_string": "m_u"
+        "formated_string": "m_u"
     },
     {
         "unit_name": "metric_ton",
@@ -405,7 +405,7 @@
         "base_units": "1000.0 kilogram",
         "base_units_value": 1000.0,
         "unit_string": "metric_ton",
-        "formatted_string": "t"
+        "formated_string": "t"
     },
     {
         "unit_name": "microgram",
@@ -413,7 +413,7 @@
         "base_units": "1e-09 kilogram",
         "base_units_value": 1e-09,
         "unit_string": "microgram",
-        "formatted_string": "\u00b5g"
+        "formated_string": "\u00b5g"
     },
     {
         "unit_name": "milligram",
@@ -421,7 +421,7 @@
         "base_units": "1e-06 kilogram",
         "base_units_value": 1e-06,
         "unit_string": "milligram",
-        "formatted_string": "mg"
+        "formated_string": "mg"
     },
     {
         "unit_name": "neutron_mass",
@@ -429,7 +429,7 @@
         "base_units": "1.67492749804e-27 kilogram",
         "base_units_value": 1.67492749804e-27,
         "unit_string": "neutron_mass",
-        "formatted_string": "m_n"
+        "formated_string": "m_n"
     },
     {
         "unit_name": "ounce",
@@ -437,7 +437,7 @@
         "base_units": "0.028349523125000005 kilogram",
         "base_units_value": 0.028349523125000005,
         "unit_string": "ounce",
-        "formatted_string": "oz"
+        "formated_string": "oz"
     },
     {
         "unit_name": "oz",
@@ -445,7 +445,7 @@
         "base_units": "0.028349523125000005 kilogram",
         "base_units_value": 0.028349523125000005,
         "unit_string": "ounce",
-        "formatted_string": "oz"
+        "formated_string": "oz"
     },
     {
         "unit_name": "ozt",
@@ -453,7 +453,7 @@
         "base_units": "0.03110347680000001 kilogram",
         "base_units_value": 0.03110347680000001,
         "unit_string": "troy_ounce",
-        "formatted_string": "toz"
+        "formated_string": "toz"
     },
     {
         "unit_name": "pennyweight",
@@ -461,7 +461,7 @@
         "base_units": "0.00155517384 kilogram",
         "base_units_value": 0.00155517384,
         "unit_string": "pennyweight",
-        "formatted_string": "dwt"
+        "formated_string": "dwt"
     },
     {
         "unit_name": "planck_mass",
@@ -469,7 +469,7 @@
         "base_units": "2.1764343427178987e-08 kilogram",
         "base_units_value": 2.1764343427178987e-08,
         "unit_string": "planck_mass",
-        "formatted_string": "planck_mass"
+        "formated_string": "planck_mass"
     },
     {
         "unit_name": "pound",
@@ -477,7 +477,7 @@
         "base_units": "0.4535923700000001 kilogram",
         "base_units_value": 0.4535923700000001,
         "unit_string": "pound",
-        "formatted_string": "lb"
+        "formated_string": "lb"
     },
     {
         "unit_name": "proton_mass",
@@ -485,7 +485,7 @@
         "base_units": "1.67262192369e-27 kilogram",
         "base_units_value": 1.67262192369e-27,
         "unit_string": "proton_mass",
-        "formatted_string": "m_p"
+        "formated_string": "m_p"
     },
     {
         "unit_name": "quarter",
@@ -493,7 +493,7 @@
         "base_units": "177.80820904 kilogram",
         "base_units_value": 177.80820904,
         "unit_string": "quarter",
-        "formatted_string": "quarter"
+        "formated_string": "quarter"
     },
     {
         "unit_name": "scruple",
@@ -501,7 +501,7 @@
         "base_units": "0.0012959782 kilogram",
         "base_units_value": 0.0012959782,
         "unit_string": "scruple",
-        "formatted_string": "scruple"
+        "formated_string": "scruple"
     },
     {
         "unit_name": "short_hundredweight",
@@ -509,7 +509,7 @@
         "base_units": "45.35923700000001 kilogram",
         "base_units_value": 45.35923700000001,
         "unit_string": "hundredweight",
-        "formatted_string": "cwt"
+        "formated_string": "cwt"
     },
     {
         "unit_name": "short_ton",
@@ -517,7 +517,7 @@
         "base_units": "907.1847400000001 kilogram",
         "base_units_value": 907.1847400000001,
         "unit_string": "ton",
-        "formatted_string": "ton"
+        "formated_string": "ton"
     },
     {
         "unit_name": "slinch",
@@ -525,7 +525,7 @@
         "base_units": "175.12683524647645 kilogram",
         "base_units_value": 175.12683524647645,
         "unit_string": "slinch",
-        "formatted_string": "blob"
+        "formated_string": "blob"
     },
     {
         "unit_name": "slug",
@@ -533,7 +533,7 @@
         "base_units": "14.59390293720637 kilogram",
         "base_units_value": 14.59390293720637,
         "unit_string": "slug",
-        "formatted_string": "slug"
+        "formated_string": "slug"
     },
     {
         "unit_name": "slugette",
@@ -541,7 +541,7 @@
         "base_units": "175.12683524647645 kilogram",
         "base_units_value": 175.12683524647645,
         "unit_string": "slinch",
-        "formatted_string": "blob"
+        "formated_string": "blob"
     },
     {
         "unit_name": "stone",
@@ -549,7 +549,7 @@
         "base_units": "6.35029318 kilogram",
         "base_units_value": 6.35029318,
         "unit_string": "stone",
-        "formatted_string": "stone"
+        "formated_string": "stone"
     },
     {
         "unit_name": "t",
@@ -557,7 +557,7 @@
         "base_units": "1000.0 kilogram",
         "base_units_value": 1000.0,
         "unit_string": "metric_ton",
-        "formatted_string": "t"
+        "formated_string": "t"
     },
     {
         "unit_name": "tlb",
@@ -565,7 +565,7 @@
         "base_units": "0.3732417216000001 kilogram",
         "base_units_value": 0.3732417216000001,
         "unit_string": "troy_pound",
-        "formatted_string": "tlb"
+        "formated_string": "tlb"
     },
     {
         "unit_name": "ton",
@@ -573,7 +573,7 @@
         "base_units": "907.1847400000001 kilogram",
         "base_units_value": 907.1847400000001,
         "unit_string": "ton",
-        "formatted_string": "ton"
+        "formated_string": "ton"
     },
     {
         "unit_name": "tonne",
@@ -581,7 +581,7 @@
         "base_units": "1000.0 kilogram",
         "base_units_value": 1000.0,
         "unit_string": "metric_ton",
-        "formatted_string": "t"
+        "formated_string": "t"
     },
     {
         "unit_name": "toz",
@@ -589,7 +589,7 @@
         "base_units": "0.03110347680000001 kilogram",
         "base_units_value": 0.03110347680000001,
         "unit_string": "troy_ounce",
-        "formatted_string": "toz"
+        "formated_string": "toz"
     },
     {
         "unit_name": "troy_ounce",
@@ -597,7 +597,7 @@
         "base_units": "0.03110347680000001 kilogram",
         "base_units_value": 0.03110347680000001,
         "unit_string": "troy_ounce",
-        "formatted_string": "toz"
+        "formated_string": "toz"
     },
     {
         "unit_name": "troy_pound",
@@ -605,7 +605,7 @@
         "base_units": "0.3732417216000001 kilogram",
         "base_units_value": 0.3732417216000001,
         "unit_string": "troy_pound",
-        "formatted_string": "tlb"
+        "formated_string": "tlb"
     },
     {
         "unit_name": "u",
@@ -613,7 +613,7 @@
         "base_units": "1.6605390666e-27 kilogram",
         "base_units_value": 1.6605390666e-27,
         "unit_string": "unified_atomic_mass_unit",
-        "formatted_string": "u"
+        "formated_string": "u"
     },
     {
         "unit_name": "unified_atomic_mass_unit",
@@ -621,6 +621,6 @@
         "base_units": "1.6605390666e-27 kilogram",
         "base_units_value": 1.6605390666e-27,
         "unit_string": "unified_atomic_mass_unit",
-        "formatted_string": "u"
+        "formated_string": "u"
     }
 ]

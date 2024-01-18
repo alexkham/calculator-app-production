@@ -1,0 +1,3622 @@
+{
+    "tableTitle":"All SI Units",
+    "rows":[
+    {
+       "Header":"A",
+       "To convert from":"abampere",
+       "to":"ampere (A)",
+       "Multiply by":1.0,
+       "Multiply by2":1.0,
+       "Factor":10.0
+    },
+    {
+       "Header":"A",
+       "To convert from":"abcoulomb",
+       "to":"coulomb (C)",
+       "Multiply by":1.0,
+       "Multiply by2":1.0,
+       "Factor":10.0
+    },
+    {
+       "Header":"A",
+       "To convert from":"abfarad",
+       "to":"farad (F)",
+       "Multiply by":1.0,
+       "Multiply by2":9.0,
+       "Factor":1000000000.0
+    },
+    {
+       "Header":"A",
+       "To convert from":"abhenry",
+       "to":"henry (H)",
+       "Multiply by":1.0,
+       "Multiply by2":-9.0,
+       "Factor":0.000000001
+    },
+    {
+       "Header":"A",
+       "To convert from":"abmho",
+       "to":"siemens (S)",
+       "Multiply by":1.0,
+       "Multiply by2":9.0,
+       "Factor":1000000000.0
+    },
+    {
+       "Header":"A",
+       "To convert from":"abohm",
+       "to":"ohm (\u03a9)",
+       "Multiply by":1.0,
+       "Multiply by2":-9.0,
+       "Factor":0.000000001
+    },
+    {
+       "Header":"A",
+       "To convert from":"abvolt",
+       "to":"volt (V)",
+       "Multiply by":1.0,
+       "Multiply by2":-8.0,
+       "Factor":0.00000001
+    },
+    {
+       "Header":"A",
+       "To convert from":"acceleration of free fall, standard (gn)",
+       "to":"meter per second squared (m \/ s)",
+       "Multiply by":9.80665,
+       "Multiply by2":0.0,
+       "Factor":9.80665
+    },
+    {
+       "Header":"A",
+       "To convert from":"acre (based on U.S. survey foot)",
+       "to":"square meter (m)",
+       "Multiply by":4.046873,
+       "Multiply by2":3.0,
+       "Factor":4046.873
+    },
+    {
+       "Header":"A",
+       "To convert from":"acre foot (based on U.S. survey foot) 7",
+       "to":"cubic meter (m)",
+       "Multiply by":1.233489,
+       "Multiply by2":3.0,
+       "Factor":1233.489
+    },
+    {
+       "Header":"A",
+       "To convert from":"ampere hour (A \u00b7 h)",
+       "to":"coulomb (C)",
+       "Multiply by":3.6,
+       "Multiply by2":3.0,
+       "Factor":3600.0
+    },
+    {
+       "Header":"A",
+       "To convert from":"\u00e5ngstr\u00f6m (\u00c5)",
+       "to":"meter (m)",
+       "Multiply by":1.0,
+       "Multiply by2":-10.0,
+       "Factor":0.0000000001
+    },
+    {
+       "Header":"A",
+       "To convert from":"\u00e5ngstr\u00f6m (\u00c5)",
+       "to":"nanometer (nm)",
+       "Multiply by":1.0,
+       "Multiply by2":-1.0,
+       "Factor":0.1
+    },
+    {
+       "Header":"A",
+       "To convert from":"are (a)",
+       "to":"square meter (m)",
+       "Multiply by":1.0,
+       "Multiply by2":2.0,
+       "Factor":100.0
+    },
+    {
+       "Header":"A",
+       "To convert from":"astronomical unit (au)",
+       "to":"meter (m)",
+       "Multiply by":1.495979,
+       "Multiply by2":11.0,
+       "Factor":149597900000.0
+    },
+    {
+       "Header":"A",
+       "To convert from":"atmosphere, standard (atm)",
+       "to":"pascal (Pa)",
+       "Multiply by":1.01325,
+       "Multiply by2":5.0,
+       "Factor":101325.0
+    },
+    {
+       "Header":"A",
+       "To convert from":"atmosphere, standard (atm)",
+       "to":"kilopascal (kPa)",
+       "Multiply by":1.01325,
+       "Multiply by2":2.0,
+       "Factor":101.325
+    },
+    {
+       "Header":"A",
+       "To convert from":"atmosphere, technical (at) 8",
+       "to":"pascal (Pa)",
+       "Multiply by":9.80665,
+       "Multiply by2":4.0,
+       "Factor":98066.5
+    },
+    {
+       "Header":"A",
+       "To convert from":"atmosphere, technical (at) 8",
+       "to":"kilopascal (kPa)",
+       "Multiply by":9.80665,
+       "Multiply by2":1.0,
+       "Factor":98.0665
+    },
+    {
+       "Header":"B",
+       "To convert from":"bar (bar)",
+       "to":"pascal (Pa)",
+       "Multiply by":1.0,
+       "Multiply by2":5.0,
+       "Factor":100000.0
+    },
+    {
+       "Header":"B",
+       "To convert from":"bar (bar)",
+       "to":"kilopascal (kPa)",
+       "Multiply by":1.0,
+       "Multiply by2":2.0,
+       "Factor":100.0
+    },
+    {
+       "Header":"B",
+       "To convert from":"barn (b)",
+       "to":"square meter (m)",
+       "Multiply by":1.0,
+       "Multiply by2":-28.0,
+       "Factor":1e-28
+    },
+    {
+       "Header":"B",
+       "To convert from":"barrel [for petroleum, 42 gallons (U.S.)] (bbl)",
+       "to":"cubic meter (m3)",
+       "Multiply by":1.589873,
+       "Multiply by2":-1.0,
+       "Factor":0.1589873
+    },
+    {
+       "Header":"B",
+       "To convert from":"barrel [for petroleum, 42 gallons (U.S.)] (bbl)",
+       "to":"liter (L)",
+       "Multiply by":1.589873,
+       "Multiply by2":2.0,
+       "Factor":158.9873
+    },
+    {
+       "Header":"B",
+       "To convert from":"biot (Bi)",
+       "to":"ampere (A)",
+       "Multiply by":1.0,
+       "Multiply by2":1.0,
+       "Factor":10.0
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT(BtuIT)9",
+       "to":"joule (J)",
+       "Multiply by":1.055056,
+       "Multiply by2":3.0,
+       "Factor":1055.056
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth(Btuth) 9",
+       "to":"joule (J)",
+       "Multiply by":1.05435,
+       "Multiply by2":3.0,
+       "Factor":1054.35
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unit (mean) (Btu)",
+       "to":"joule (J)",
+       "Multiply by":1.05587,
+       "Multiply by2":3.0,
+       "Factor":1055.87
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unit (39 \u00b0F) (Btu)",
+       "to":"joule (J)",
+       "Multiply by":1.05967,
+       "Multiply by2":3.0,
+       "Factor":1059.67
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unit (59 \u00b0F) (Btu)",
+       "to":"joule (J)",
+       "Multiply by":1.0548,
+       "Multiply by2":3.0,
+       "Factor":1054.8
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unit (60 \u00b0F) (Btu)",
+       "to":"joule (J)",
+       "Multiply by":1.05468,
+       "Multiply by2":3.0,
+       "Factor":1054.68
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT foot per\u00a0hour square\u00a0foot degree\u00a0Fahrenheit [BtuIT \u00b7 ft\/(h \u00b7 ft2 \u00b7 \u00b0F)]",
+       "to":"watt per meter kelvin [W\/(m \u00b7 K)]",
+       "Multiply by":1.730735,
+       "Multiply by2":0.0,
+       "Factor":1.730735
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth foot per\u00a0hour square\u00a0foot degree\u00a0Fahrenheit [Btuth \u00b7 ft\/(h \u00b7 ft2 \u00b7 \u00b0F)]",
+       "to":"watt per meter kelvin [W\/(m \u00b7 K)]",
+       "Multiply by":1.729577,
+       "Multiply by2":0.0,
+       "Factor":1.729577
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT inch per\u00a0hour square\u00a0foot degree\u00a0Fahrenheit [BtuIT \u00b7 in\/(h \u00b7 ft2 \u00b7 \u00b0F)]",
+       "to":"watt per meter kelvin [W\/(m \u00b7 K)]",
+       "Multiply by":1.442279,
+       "Multiply by2":-1.0,
+       "Factor":0.1442279
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth inch per\u00a0hour square\u00a0foot degree\u00a0Fahrenheit [Btuth \u00b7 in\/(h \u00b7 ft2 \u00b7 \u00b0F)]",
+       "to":"watt per meter kelvin [W \/ (m \u00b7 K)]",
+       "Multiply by":1.441314,
+       "Multiply by2":-1.0,
+       "Factor":0.1441314
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT inch per\u00a0second square\u00a0foot degree\u00a0Fahrenheit [BtuIT \u00b7 in \/(s \u00b7 ft2 \u00b7 \u00b0F)]",
+       "to":"watt per meter kelvin [W\/(m \u00b7 K)]",
+       "Multiply by":5.192204,
+       "Multiply by2":2.0,
+       "Factor":519.2204
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth inch per\u00a0second square\u00a0foot degree\u00a0Fahrenheit [Btuth \u00b7 in \/(s \u00b7 ft2 \u00b7 \u00b0F)]",
+       "to":"watt per meter kelvin [W\/(m \u00b7 K)]",
+       "Multiply by":5.188732,
+       "Multiply by2":2.0,
+       "Factor":518.8732
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per cubic\u00a0foot (BtuIT\/ft3)",
+       "to":"joule per cubic meter (J\/m3)",
+       "Multiply by":3.725895,
+       "Multiply by2":4.0,
+       "Factor":37258.95
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per cubic foot (Btuth\/ft3)",
+       "to":"joule per cubic meter (J\/m3)",
+       "Multiply by":3.723403,
+       "Multiply by2":4.0,
+       "Factor":37234.03
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per degree Fahrenheit (BtuIT\/\u00b0F)",
+       "to":"joule per kelvin (J\/K)",
+       "Multiply by":1.899101,
+       "Multiply by2":3.0,
+       "Factor":1899.101
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per degree Fahrenheit (Btuth\/\u00b0F)",
+       "to":"joule per kelvin (J\/K)",
+       "Multiply by":1.89783,
+       "Multiply by2":3.0,
+       "Factor":1897.83
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per degree Rankine (BtuIT\/\u00b0R)",
+       "to":"joule per kelvin (J\/K)",
+       "Multiply by":1.899101,
+       "Multiply by2":3.0,
+       "Factor":1899.101
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per degree Rankine (Btuth\/\u00b0R)",
+       "to":"joule per kelvin (J\/K)",
+       "Multiply by":1.89783,
+       "Multiply by2":3.0,
+       "Factor":1897.83
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per\u00a0hour (BtuIT\/h)",
+       "to":"watt (W)",
+       "Multiply by":2.930711,
+       "Multiply by2":-1.0,
+       "Factor":0.2930711
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per\u00a0hour (Btuth\/h)",
+       "to":"watt (W)",
+       "Multiply by":2.928751,
+       "Multiply by2":-1.0,
+       "Factor":0.2928751
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per\u00a0hour square\u00a0foot degree\u00a0Fahrenheit [BtuIT\/(h \u00b7 ft2 \u00b7 \u00b0F)]",
+       "to":"watt per square\u00a0meter kelvin [W\/(m2 \u00b7 K)]",
+       "Multiply by":5.678263,
+       "Multiply by2":0.0,
+       "Factor":5.678263
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per\u00a0hour square\u00a0foot degree\u00a0Fahrenheit [Btuth\/(h \u00b7 ft2 \u00b7 \u00b0F)]",
+       "to":"watt per square meter kelvin [W\/(m2 \u00b7 K)]",
+       "Multiply by":5.674466,
+       "Multiply by2":0.0,
+       "Factor":5.674466
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per minute (Btuth\/min)",
+       "to":"watt (W)",
+       "Multiply by":1.75725,
+       "Multiply by2":1.0,
+       "Factor":17.5725
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per pound (BtuIT\/lb)",
+       "to":"joule per kilogram (J\/kg)",
+       "Multiply by":2.326,
+       "Multiply by2":3.0,
+       "Factor":2326.0
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per pound (Btuth\/lb)",
+       "to":"joule per kilogram (J\/kg)",
+       "Multiply by":2.324444,
+       "Multiply by2":3.0,
+       "Factor":2324.444
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per pound degree Fahrenheit [BtuIT\/(lb \u00b7 \u00b0F)]",
+       "to":"joule per kilogram kelvin [J\/(kg \u00b7 K)]",
+       "Multiply by":4.1868,
+       "Multiply by2":3.0,
+       "Factor":4186.8
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per pound degree Fahrenheit [Btuth\/(lb \u00b7 \u00b0F)]",
+       "to":"joule per kilogram kelvin [J\/(kg \u00b7 K)]",
+       "Multiply by":4.184,
+       "Multiply by2":3.0,
+       "Factor":4184.0
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per pound degree Rankine [BtuIT\/(lb \u00b7 \u00b0R)]",
+       "to":"joule per kilogram kelvin [J\/(kg \u00b7 K)]",
+       "Multiply by":4.1868,
+       "Multiply by2":3.0,
+       "Factor":4186.8
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per pound degree Rankine [Btuth\/(lb \u00b7 \u00b0R)]",
+       "to":"joule per kilogram kelvin [J\/(kg \u00b7 K)]",
+       "Multiply by":4.184,
+       "Multiply by2":3.0,
+       "Factor":4184.0
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per second (BtuIT\/s)",
+       "to":"watt (W)",
+       "Multiply by":1.055056,
+       "Multiply by2":3.0,
+       "Factor":1055.056
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per second (Btuth\/s)",
+       "to":"watt (W)",
+       "Multiply by":1.05435,
+       "Multiply by2":3.0,
+       "Factor":1054.35
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per\u00a0second square\u00a0foot degree\u00a0Fahrenheit [BtuIT\/(s \u00b7 ft2 \u00b7 \u00b0F)]",
+       "to":"watt per square\u00a0meter kelvin [W\/(m2 \u00b7 K)]",
+       "Multiply by":2.044175,
+       "Multiply by2":4.0,
+       "Factor":20441.75
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per\u00a0second square\u00a0foot degree\u00a0Fahrenheit [Btuth\/(s \u00b7 ft2 \u00b7 \u00b0F)]",
+       "to":"watt per\u00a0square meter kelvin [W\/(m2 \u00b7 K)]",
+       "Multiply by":2.042808,
+       "Multiply by2":4.0,
+       "Factor":20428.08
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per square\u00a0foot (BtuIT\/ft2)",
+       "to":"joule per square\u00a0meter (J\/m2)",
+       "Multiply by":1.135653,
+       "Multiply by2":4.0,
+       "Factor":11356.53
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per square\u00a0foot (Btuth\/ft2)",
+       "to":"joule per square\u00a0meter (J\/m2)",
+       "Multiply by":1.134893,
+       "Multiply by2":4.0,
+       "Factor":11348.93
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per square\u00a0foot hour [BtuIT\/(ft2 \u00b7 h)]",
+       "to":"watt per square meter (W\/m2)",
+       "Multiply by":3.154591,
+       "Multiply by2":0.0,
+       "Factor":3.154591
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per square\u00a0foot hour [Btuth\/(ft2 \u00b7 h)]",
+       "to":"watt per square meter (W\/m2)",
+       "Multiply by":3.152481,
+       "Multiply by2":0.0,
+       "Factor":3.152481
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per square\u00a0foot minute [Btuth\/(ft2 \u00b7 min)]",
+       "to":"watt per square meter (W\/m2)",
+       "Multiply by":1.891489,
+       "Multiply by2":2.0,
+       "Factor":189.1489
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitIT per square\u00a0foot second [BtuIT\/(ft2 \u00b7 s)]",
+       "to":"watt per square meter (W\/m2)",
+       "Multiply by":1.135653,
+       "Multiply by2":4.0,
+       "Factor":11356.53
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per square foot second [Btuth\/(ft2 \u00b7 s)]",
+       "to":"watt per square meter (W\/m2)",
+       "Multiply by":1.134893,
+       "Multiply by2":4.0,
+       "Factor":11348.93
+    },
+    {
+       "Header":"B",
+       "To convert from":"British thermal unitth per square inch second [Btuth\/(in2 \u00b7 s)]",
+       "to":"watt per square meter (W\/m2)",
+       "Multiply by":1.634246,
+       "Multiply by2":6.0,
+       "Factor":1634246.0
+    },
+    {
+       "Header":"B",
+       "To convert from":"bushel (U.S.) (bu)",
+       "to":"cubic meter (m3)",
+       "Multiply by":3.523907,
+       "Multiply by2":-2.0,
+       "Factor":0.03523907
+    },
+    {
+       "Header":"B",
+       "To convert from":"bushel (U.S.) (bu)",
+       "to":"liter (L)",
+       "Multiply by":3.523907,
+       "Multiply by2":1.0,
+       "Factor":35.23907
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieIT (calIT) 10",
+       "to":"joule (J)",
+       "Multiply by":4.1868,
+       "Multiply by2":0.0,
+       "Factor":4.1868
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieth (calth) 10",
+       "to":"joule (J)",
+       "Multiply by":4.184,
+       "Multiply by2":0.0,
+       "Factor":4.184
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorie (cal) (mean)",
+       "to":"joule (J)",
+       "Multiply by":4.19002,
+       "Multiply by2":0.0,
+       "Factor":4.19002
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorie (15 \u00b0C) (cal15)",
+       "to":"joule (J)",
+       "Multiply by":4.1858,
+       "Multiply by2":0.0,
+       "Factor":4.1858
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorie (20 \u00b0C) (cal20)",
+       "to":"joule (J)",
+       "Multiply by":4.1819,
+       "Multiply by2":0.0,
+       "Factor":4.1819
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieIT, kilogram (nutrition) 11",
+       "to":"joule (J)",
+       "Multiply by":4.1868,
+       "Multiply by2":3.0,
+       "Factor":4186.8
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieth , kilogram (nutrition) 11",
+       "to":"joule (J)",
+       "Multiply by":4.184,
+       "Multiply by2":3.0,
+       "Factor":4184.0
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorie (mean), kilogram (nutrition) 11",
+       "to":"joule (J)",
+       "Multiply by":4.19002,
+       "Multiply by2":3.0,
+       "Factor":4190.02
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieth per centimeter second degree Celsius [calth\/(cm \u00b7 s \u00b7 \u00b0C)]",
+       "to":"watt per meter kelvin [W\/(m \u00b7 K)]",
+       "Multiply by":4.184,
+       "Multiply by2":2.0,
+       "Factor":418.4
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieIT per gram (calIT\/g)",
+       "to":"joule per kilogram (J\/kg)",
+       "Multiply by":4.1868,
+       "Multiply by2":3.0,
+       "Factor":4186.8
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieth per gram (calth\/g)",
+       "to":"joule per kilogram (J\/kg)",
+       "Multiply by":4.184,
+       "Multiply by2":3.0,
+       "Factor":4184.0
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieIT per gram degree Celsius [calIT\/(g \u00b7 \u00b0C)]",
+       "to":"joule per kilogram kelvin [J\/(kg \u00b7 K)]",
+       "Multiply by":4.1868,
+       "Multiply by2":3.0,
+       "Factor":4186.8
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieth per gram degree Celsius [calth\/(g \u00b7 \u00b0C)]",
+       "to":"joule per kilogram kelvin [J\/(kg \u00b7 K)]",
+       "Multiply by":4.184,
+       "Multiply by2":3.0,
+       "Factor":4184.0
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieIT per gram kelvin [calIT\/(g \u00b7 K)]",
+       "to":"joule per kilogram kelvin [J\/(kg \u00b7 K)]",
+       "Multiply by":4.1868,
+       "Multiply by2":3.0,
+       "Factor":4186.8
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieth per gram kelvin [calth\/(g\u00b7 K)]",
+       "to":"joule per kilogram kelvin [J\/(kg \u00b7 K)]",
+       "Multiply by":4.184,
+       "Multiply by2":3.0,
+       "Factor":4184.0
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieth per minute (calth\/min)",
+       "to":"watt (W)",
+       "Multiply by":6.973333,
+       "Multiply by2":-2.0,
+       "Factor":0.06973333
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieth per second (calth\/s)",
+       "to":"watt (W)",
+       "Multiply by":4.184,
+       "Multiply by2":0.0,
+       "Factor":4.184
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieth per square centimeter (calth\/cm2)",
+       "to":"joule per square meter (J\/m2)",
+       "Multiply by":4.184,
+       "Multiply by2":4.0,
+       "Factor":41840.0
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieth per square centimeter minute [calth\/(cm2 \u00b7 min)]",
+       "to":"watt per square meter (W\/m2)",
+       "Multiply by":6.973333,
+       "Multiply by2":2.0,
+       "Factor":697.3333
+    },
+    {
+       "Header":"C",
+       "To convert from":"calorieth per square centimeter second [calth\/(cm2 \u00b7 s)]",
+       "to":"watt per square meter (W\/m2)",
+       "Multiply by":4.184,
+       "Multiply by2":4.0,
+       "Factor":41840.0
+    },
+    {
+       "Header":"C",
+       "To convert from":"candela per square inch (cd\/in2)",
+       "to":"candela per square meter (cd\/m2)",
+       "Multiply by":1.550003,
+       "Multiply by2":3.0,
+       "Factor":1550.003
+    },
+    {
+       "Header":"C",
+       "To convert from":"carat, metric",
+       "to":"kilogram (kg)",
+       "Multiply by":2.0,
+       "Multiply by2":-4.0,
+       "Factor":0.0002
+    },
+    {
+       "Header":"C",
+       "To convert from":"carat, metric",
+       "to":"gram (g)",
+       "Multiply by":2.0,
+       "Multiply by2":-1.0,
+       "Factor":0.2
+    },
+    {
+       "Header":"C",
+       "To convert from":"centimeter of mercury (0 \u00b0C) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":1.33322,
+       "Multiply by2":3.0,
+       "Factor":1333.22
+    },
+    {
+       "Header":"C",
+       "To convert from":"centimeter of mercury (0 \u00b0C) 12",
+       "to":"kilopascal (kPa)",
+       "Multiply by":1.33322,
+       "Multiply by2":0.0,
+       "Factor":1.33322
+    },
+    {
+       "Header":"C",
+       "To convert from":"centimeter of mercury, conventional (cmHg) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":1.333224,
+       "Multiply by2":3.0,
+       "Factor":1333.224
+    },
+    {
+       "Header":"C",
+       "To convert from":"centimeter of mercury, conventional (cmHg) 12",
+       "to":"kilopascal (kPa)",
+       "Multiply by":1.333224,
+       "Multiply by2":0.0,
+       "Factor":1.333224
+    },
+    {
+       "Header":"C",
+       "To convert from":"centimeter of water (4 \u00b0C) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":9.80638,
+       "Multiply by2":1.0,
+       "Factor":98.0638
+    },
+    {
+       "Header":"C",
+       "To convert from":"centimeter of water, conventional (cmH2O)12",
+       "to":"pascal (Pa)",
+       "Multiply by":9.80665,
+       "Multiply by2":1.0,
+       "Factor":98.0665
+    },
+    {
+       "Header":"C",
+       "To convert from":"centipoise (cP)",
+       "to":"pascal second (Pa \u00b7 s)",
+       "Multiply by":1.0,
+       "Multiply by2":-3.0,
+       "Factor":0.001
+    },
+    {
+       "Header":"C",
+       "To convert from":"centistokes (cSt)",
+       "to":"meter squared per second (m\/s)",
+       "Multiply by":1.0,
+       "Multiply by2":-6.0,
+       "Factor":0.000001
+    },
+    {
+       "Header":"C",
+       "To convert from":"chain (based on U.S. survey foot) (ch) 7",
+       "to":"meter (m)",
+       "Multiply by":2.011684,
+       "Multiply by2":1.0,
+       "Factor":20.11684
+    },
+    {
+       "Header":"C",
+       "To convert from":"circular mil",
+       "to":"square meter (m)",
+       "Multiply by":5.067075,
+       "Multiply by2":-10.0,
+       "Factor":0.0000000005
+    },
+    {
+       "Header":"C",
+       "To convert from":"circular mil",
+       "to":"square millimeter (mm)",
+       "Multiply by":5.067075,
+       "Multiply by2":-4.0,
+       "Factor":0.0005067075
+    },
+    {
+       "Header":"C",
+       "To convert from":"clo",
+       "to":"square meter kelvin per watt (m2 \u00b7 K\/W)",
+       "Multiply by":1.55,
+       "Multiply by2":-1.0,
+       "Factor":0.155
+    },
+    {
+       "Header":"C",
+       "To convert from":"cord (128 ft3)",
+       "to":"cubic meter (m)",
+       "Multiply by":3.624556,
+       "Multiply by2":0.0,
+       "Factor":3.624556
+    },
+    {
+       "Header":"C",
+       "To convert from":"cubic foot (ft)",
+       "to":"cubic meter (m)",
+       "Multiply by":2.831685,
+       "Multiply by2":-2.0,
+       "Factor":0.02831685
+    },
+    {
+       "Header":"C",
+       "To convert from":"cubic foot per minute (ft\/min)",
+       "to":"cubic meter per second (m\/s)",
+       "Multiply by":4.719474,
+       "Multiply by2":-4.0,
+       "Factor":0.0004719474
+    },
+    {
+       "Header":"C",
+       "To convert from":"cubic foot per minute (ft3\/min)",
+       "to":"liter per second (L\/s)",
+       "Multiply by":4.719474,
+       "Multiply by2":-1.0,
+       "Factor":0.4719474
+    },
+    {
+       "Header":"C",
+       "To convert from":"cubic foot per second (ft\/s)",
+       "to":"cubic meter per second (m\/s)",
+       "Multiply by":2.831685,
+       "Multiply by2":-2.0,
+       "Factor":0.02831685
+    },
+    {
+       "Header":"C",
+       "To convert from":"cubic inch (in) 13",
+       "to":"cubic meter (m)",
+       "Multiply by":1.638706,
+       "Multiply by2":-5.0,
+       "Factor":0.0000163871
+    },
+    {
+       "Header":"C",
+       "To convert from":"cubic inch per minute (in\/min)",
+       "to":"cubic meter per second (m\/s)",
+       "Multiply by":2.731177,
+       "Multiply by2":-7.0,
+       "Factor":0.0000002731
+    },
+    {
+       "Header":"C",
+       "To convert from":"cubic mile (mi)",
+       "to":"cubic meter (m)",
+       "Multiply by":4.168182,
+       "Multiply by2":9.0,
+       "Factor":4168182000.0
+    },
+    {
+       "Header":"C",
+       "To convert from":"cubic yard (yd)",
+       "to":"cubic meter (m)",
+       "Multiply by":7.645549,
+       "Multiply by2":-1.0,
+       "Factor":0.7645549
+    },
+    {
+       "Header":"C",
+       "To convert from":"cubic yard per minute (yd\/min)",
+       "to":"cubic meter per second (m\/s)",
+       "Multiply by":1.274258,
+       "Multiply by2":-2.0,
+       "Factor":0.01274258
+    },
+    {
+       "Header":"C",
+       "To convert from":"cup (U.S.)",
+       "to":"cubic meter (m)",
+       "Multiply by":2.365882,
+       "Multiply by2":-4.0,
+       "Factor":0.0002365882
+    },
+    {
+       "Header":"C",
+       "To convert from":"cup (U.S.)",
+       "to":"liter (L)",
+       "Multiply by":2.365882,
+       "Multiply by2":-1.0,
+       "Factor":0.2365882
+    },
+    {
+       "Header":"C",
+       "To convert from":"cup (U.S.)",
+       "to":"milliliter (mL)",
+       "Multiply by":2.365882,
+       "Multiply by2":2.0,
+       "Factor":236.5882
+    },
+    {
+       "Header":"C",
+       "To convert from":"curie (Ci)",
+       "to":"becquerel (Bq)",
+       "Multiply by":3.7,
+       "Multiply by2":10.0,
+       "Factor":37000000000.0
+    },
+    {
+       "Header":"D",
+       "To convert from":"darcy 14",
+       "to":"meter squared (m)",
+       "Multiply by":9.869233,
+       "Multiply by2":-13.0,
+       "Factor":0.0
+    },
+    {
+       "Header":"D",
+       "To convert from":"day (d)",
+       "to":"second (s)",
+       "Multiply by":8.64,
+       "Multiply by2":4.0,
+       "Factor":86400.0
+    },
+    {
+       "Header":"D",
+       "To convert from":"day (sidereal)",
+       "to":"second (s)",
+       "Multiply by":8.616409,
+       "Multiply by2":4.0,
+       "Factor":86164.09
+    },
+    {
+       "Header":"D",
+       "To convert from":"debye (D)",
+       "to":"coulomb meter (C \u00b7 m)",
+       "Multiply by":3.335641,
+       "Multiply by2":-30.0,
+       "Factor":3.335641e-30
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree (angle) (\u00b0)",
+       "to":"radian (rad)",
+       "Multiply by":1.745329,
+       "Multiply by2":-2.0,
+       "Factor":0.01745329
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Celsius (temperature) (\u00b0C)",
+       "to":"kelvin (K)",
+       "Multiply by":273.15,
+       "Multiply by2":273.0,
+       "Factor":2.7315e+275
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Celsius (temperature interval) (\u00b0C)",
+       "to":"kelvin (K)",
+       "Multiply by":1.0,
+       "Multiply by2":0.0,
+       "Factor":1.0
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree centigrade (temperature) 15",
+       "to":"degree Celsius (\u00b0C)",
+       "Multiply by":null,
+       "Multiply by2":null,
+       "Factor":null
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree centigrade (temperature interval) 15",
+       "to":"degree Celsius (\u00b0C)",
+       "Multiply by":1.0,
+       "Multiply by2":0.0,
+       "Factor":1.0
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit (temperature) (\u00b0F)",
+       "to":"degree Celsius (\u00b0C)",
+       "Multiply by":-321.8,
+       "Multiply by2":32.0,
+       "Factor":-3.218e+34
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit (temperature) (\u00b0F)",
+       "to":"kelvin (K)",
+       "Multiply by":null,
+       "Multiply by2":459.0,
+       "Factor":null
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit (temperature interval) (\u00b0F)",
+       "to":"degree Celsius (\u00b0C)",
+       "Multiply by":5.555556,
+       "Multiply by2":-1.0,
+       "Factor":0.5555556
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit (temperature interval) (\u00b0F)",
+       "to":"kelvin (K)",
+       "Multiply by":5.555556,
+       "Multiply by2":-1.0,
+       "Factor":0.5555556
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit hour per British thermal unitIT(\u00b0F \u00b7 h\/BtuIT)",
+       "to":"kelvin per watt (K\/W)",
+       "Multiply by":1.895634,
+       "Multiply by2":0.0,
+       "Factor":1.895634
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit hour per British thermal unitth(\u00b0F \u00b7 h\/Btuth)",
+       "to":"kelvin per watt (K\/W)",
+       "Multiply by":1.896903,
+       "Multiply by2":0.0,
+       "Factor":1.896903
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit hour square foot per British thermal unitIT(\u00b0F \u00b7 h \u00b7 ft2\/BtuIT)",
+       "to":"square meter kelvin per watt (m2 \u00b7 K\/W)",
+       "Multiply by":1.761102,
+       "Multiply by2":-1.0,
+       "Factor":0.1761102
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit hour square foot per British thermal unitth(\u00b0F \u00b7 h \u00b7 ft2\/Btuth)",
+       "to":"square meter kelvin per watt (m2 \u00b7 K\/W)",
+       "Multiply by":1.76228,
+       "Multiply by2":-1.0,
+       "Factor":0.176228
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit hour square foot per British thermal unitIT inch [\u00b0F \u00b7 h \u00b7 ft2\/(BtuIT \u00b7 in)]",
+       "to":"meter kelvin per watt (m \u00b7 K\/W)",
+       "Multiply by":6.933472,
+       "Multiply by2":0.0,
+       "Factor":6.933472
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit hour square foot per British thermal unitth inch [\u00b0F \u00b7 h \u00b7 ft2\/(Btuth \u00b7 in)]",
+       "to":"meter kelvin per watt (m \u00b7 K\/W)",
+       "Multiply by":6.938112,
+       "Multiply by2":0.0,
+       "Factor":6.938112
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit second per British thermal unitIT(\u00b0F \u00b7 s\/BtuIT)",
+       "to":"kelvin per watt (K\/W)",
+       "Multiply by":5.265651,
+       "Multiply by2":-4.0,
+       "Factor":0.0005265651
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Fahrenheit second per British thermal unitth(\u00b0F \u00b7 s\/Btuth)",
+       "to":"kelvin per watt (K\/W)",
+       "Multiply by":5.269175,
+       "Multiply by2":-4.0,
+       "Factor":0.0005269175
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Rankine (\u00b0R)",
+       "to":"kelvin (K)",
+       "Multiply by":1.8,
+       "Multiply by2":1.0,
+       "Factor":18.0
+    },
+    {
+       "Header":"D",
+       "To convert from":"degree Rankine (temperature interval) (\u00b0R)",
+       "to":"kelvin (K)",
+       "Multiply by":5.555556,
+       "Multiply by2":-1.0,
+       "Factor":0.5555556
+    },
+    {
+       "Header":"D",
+       "To convert from":"denier",
+       "to":"kilogram per meter (kg\/m)",
+       "Multiply by":1.111111,
+       "Multiply by2":-7.0,
+       "Factor":0.0000001111
+    },
+    {
+       "Header":"D",
+       "To convert from":"denier",
+       "to":"gram per meter (g\/m)",
+       "Multiply by":1.111111,
+       "Multiply by2":-4.0,
+       "Factor":0.0001111111
+    },
+    {
+       "Header":"D",
+       "To convert from":"dyne (dyn)",
+       "to":"newton (N)",
+       "Multiply by":1.0,
+       "Multiply by2":-5.0,
+       "Factor":0.00001
+    },
+    {
+       "Header":"D",
+       "To convert from":"dyne centimeter (dyn \u00b7 cm)",
+       "to":"newton meter (N \u00b7 m)",
+       "Multiply by":1.0,
+       "Multiply by2":-7.0,
+       "Factor":0.0000001
+    },
+    {
+       "Header":"D",
+       "To convert from":"dyne per square centimeter (dyn\/cm)",
+       "to":"pascal (Pa)",
+       "Multiply by":1.0,
+       "Multiply by2":-1.0,
+       "Factor":0.1
+    },
+    {
+       "Header":"E",
+       "To convert from":"electronvolt (eV)",
+       "to":"joule (J)",
+       "Multiply by":1.602177,
+       "Multiply by2":-19.0,
+       "Factor":1.602177e-19
+    },
+    {
+       "Header":"E",
+       "To convert from":"EMU of capacitance (abfarad)",
+       "to":"farad (F)",
+       "Multiply by":1.0,
+       "Multiply by2":9.0,
+       "Factor":1000000000.0
+    },
+    {
+       "Header":"E",
+       "To convert from":"EMU of current (abampere)",
+       "to":"ampere (A)",
+       "Multiply by":1.0,
+       "Multiply by2":1.0,
+       "Factor":10.0
+    },
+    {
+       "Header":"E",
+       "To convert from":"EMU of electric potential (abvolt)",
+       "to":"volt (V)",
+       "Multiply by":1.0,
+       "Multiply by2":-8.0,
+       "Factor":0.00000001
+    },
+    {
+       "Header":"E",
+       "To convert from":"EMU of inductance (abhenry)",
+       "to":"henry (H)",
+       "Multiply by":1.0,
+       "Multiply by2":-9.0,
+       "Factor":0.000000001
+    },
+    {
+       "Header":"E",
+       "To convert from":"EMU of resistance (abohm)",
+       "to":"ohm (\u03a9)",
+       "Multiply by":1.0,
+       "Multiply by2":-9.0,
+       "Factor":0.000000001
+    },
+    {
+       "Header":"E",
+       "To convert from":"erg (erg)",
+       "to":"joule (J)",
+       "Multiply by":1.0,
+       "Multiply by2":-7.0,
+       "Factor":0.0000001
+    },
+    {
+       "Header":"E",
+       "To convert from":"erg per second (erg\/s)",
+       "to":"watt (W)",
+       "Multiply by":1.0,
+       "Multiply by2":-7.0,
+       "Factor":0.0000001
+    },
+    {
+       "Header":"E",
+       "To convert from":"erg per square centimeter second [erg\/(cm2 \u00b7 s)]",
+       "to":"watt per square meter (W\/m2)",
+       "Multiply by":1.0,
+       "Multiply by2":-3.0,
+       "Factor":0.001
+    },
+    {
+       "Header":"E",
+       "To convert from":"ESU of capacitance (statfarad)",
+       "to":"farad (F)",
+       "Multiply by":1.11265,
+       "Multiply by2":-12.0,
+       "Factor":0.0
+    },
+    {
+       "Header":"E",
+       "To convert from":"ESU of current (statampere)",
+       "to":"ampere (A)",
+       "Multiply by":3.335641,
+       "Multiply by2":-10.0,
+       "Factor":0.0000000003
+    },
+    {
+       "Header":"E",
+       "To convert from":"ESU of electric potential (statvolt)",
+       "to":"volt (V)",
+       "Multiply by":2.997925,
+       "Multiply by2":2.0,
+       "Factor":299.7925
+    },
+    {
+       "Header":"E",
+       "To convert from":"ESU of inductance (stathenry)",
+       "to":"henry (H)",
+       "Multiply by":8.987552,
+       "Multiply by2":11.0,
+       "Factor":898755200000.0001220703
+    },
+    {
+       "Header":"E",
+       "To convert from":"ESU of resistance (statohm)",
+       "to":"ohm (\u03a9)",
+       "Multiply by":8.987552,
+       "Multiply by2":11.0,
+       "Factor":898755200000.0001220703
+    },
+    {
+       "Header":"F",
+       "To convert from":"faraday (based on carbon 12)",
+       "to":"coulomb (C)",
+       "Multiply by":9.648531,
+       "Multiply by2":4.0,
+       "Factor":96485.31
+    },
+    {
+       "Header":"F",
+       "To convert from":"fathom (based on U.S. survey foot) 7",
+       "to":"meter (m)",
+       "Multiply by":1.828804,
+       "Multiply by2":0.0,
+       "Factor":1.828804
+    },
+    {
+       "Header":"F",
+       "To convert from":"fermi",
+       "to":"meter (m)",
+       "Multiply by":1.0,
+       "Multiply by2":-15.0,
+       "Factor":0.0
+    },
+    {
+       "Header":"F",
+       "To convert from":"fermi",
+       "to":"femtometer (fm)",
+       "Multiply by":1.0,
+       "Multiply by2":0.0,
+       "Factor":1.0
+    },
+    {
+       "Header":"F",
+       "To convert from":"fluid ounce (U.S.) (fl oz)",
+       "to":"cubic meter (m)",
+       "Multiply by":2.957353,
+       "Multiply by2":-5.0,
+       "Factor":0.0000295735
+    },
+    {
+       "Header":"F",
+       "To convert from":"fluid ounce (U.S.) (fl oz)",
+       "to":"milliliter (mL)",
+       "Multiply by":2.957353,
+       "Multiply by2":1.0,
+       "Factor":29.57353
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot (ft)",
+       "to":"meter (m)",
+       "Multiply by":3.048,
+       "Multiply by2":-1.0,
+       "Factor":0.3048
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot (U.S. survey) (ft) 7",
+       "to":"meter (m)",
+       "Multiply by":3.048006,
+       "Multiply by2":-1.0,
+       "Factor":0.3048006
+    },
+    {
+       "Header":"F",
+       "To convert from":"footcandle",
+       "to":"lux (lx)",
+       "Multiply by":1.076391,
+       "Multiply by2":1.0,
+       "Factor":10.76391
+    },
+    {
+       "Header":"F",
+       "To convert from":"footlambert",
+       "to":"candela per square meter (cd\/m)",
+       "Multiply by":3.426259,
+       "Multiply by2":0.0,
+       "Factor":3.426259
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot of mercury, conventional (ftHg) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":4.063666,
+       "Multiply by2":4.0,
+       "Factor":40636.66
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot of mercury, conventional (ftHg) 12",
+       "to":"kilopascal (kPa)",
+       "Multiply by":4.063666,
+       "Multiply by2":1.0,
+       "Factor":40.63666
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot of water (39.2 \u00b0F) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":2.98898,
+       "Multiply by2":3.0,
+       "Factor":2988.98
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot of water (39.2 \u00b0F) 12",
+       "to":"kilopascal (kPa)",
+       "Multiply by":2.98898,
+       "Multiply by2":0.0,
+       "Factor":2.98898
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot of water, conventional (ftH2O) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":2.989067,
+       "Multiply by2":3.0,
+       "Factor":2989.067
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot of water, conventional (ftH2O) 12",
+       "to":"kilopascal (kPa)",
+       "Multiply by":2.989067,
+       "Multiply by2":0.0,
+       "Factor":2.989067
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot per hour (ft\/h)",
+       "to":"meter per second (m\/s)",
+       "Multiply by":8.466667,
+       "Multiply by2":-5.0,
+       "Factor":0.0000846667
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot per minute (ft\/min)",
+       "to":"meter per second (m\/s)",
+       "Multiply by":5.08,
+       "Multiply by2":-3.0,
+       "Factor":0.00508
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot per second (ft\/s)",
+       "to":"meter per second (m\/s)",
+       "Multiply by":3.048,
+       "Multiply by2":-1.0,
+       "Factor":0.3048
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot per second squared (ft\/s)",
+       "to":"meter per second squared (m\/s)",
+       "Multiply by":3.048,
+       "Multiply by2":-1.0,
+       "Factor":0.3048
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot poundal",
+       "to":"joule (J)",
+       "Multiply by":4.214011,
+       "Multiply by2":-2.0,
+       "Factor":0.04214011
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot pound-force (ft \u00b7 lbf)",
+       "to":"joule (J)",
+       "Multiply by":1.355818,
+       "Multiply by2":0.0,
+       "Factor":1.355818
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot pound-force per hour (ft \u00b7 lbf\/h)",
+       "to":"watt (W)",
+       "Multiply by":3.766161,
+       "Multiply by2":-4.0,
+       "Factor":0.0003766161
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot pound-force per minute (ft \u00b7 lbf\/min)",
+       "to":"watt (W)",
+       "Multiply by":2.259697,
+       "Multiply by2":-2.0,
+       "Factor":0.02259697
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot pound-force per second (ft \u00b7 lbf\/s)",
+       "to":"watt (W)",
+       "Multiply by":1.355818,
+       "Multiply by2":0.0,
+       "Factor":1.355818
+    },
+    {
+       "Header":"F",
+       "To convert from":"foot to the fourth power (ft) 16",
+       "to":"meter to the fourth power (m)",
+       "Multiply by":8.630975,
+       "Multiply by2":-3.0,
+       "Factor":0.008630975
+    },
+    {
+       "Header":"F",
+       "To convert from":"franklin (Fr)",
+       "to":"coulomb (C)",
+       "Multiply by":3.335641,
+       "Multiply by2":-10.0,
+       "Factor":0.0000000003
+    },
+    {
+       "Header":"G",
+       "To convert from":"gal (Gal)",
+       "to":"meter per second squared (m\/s)",
+       "Multiply by":1.0,
+       "Multiply by2":-2.0,
+       "Factor":0.01
+    },
+    {
+       "Header":"G",
+       "To convert from":"gallon [Canadian and U.K. (Imperial)] (gal)",
+       "to":"cubic meter (m)",
+       "Multiply by":4.54609,
+       "Multiply by2":-3.0,
+       "Factor":0.00454609
+    },
+    {
+       "Header":"G",
+       "To convert from":"gallon [Canadian and U.K. (Imperial)] (gal)",
+       "to":"liter (L)",
+       "Multiply by":4.54609,
+       "Multiply by2":0.0,
+       "Factor":4.54609
+    },
+    {
+       "Header":"G",
+       "To convert from":"gallon (U.S.) (gal)",
+       "to":"cubic meter (m)",
+       "Multiply by":3.785412,
+       "Multiply by2":-3.0,
+       "Factor":0.003785412
+    },
+    {
+       "Header":"G",
+       "To convert from":"gallon (U.S.) (gal)",
+       "to":"liter (L)",
+       "Multiply by":3.785412,
+       "Multiply by2":0.0,
+       "Factor":3.785412
+    },
+    {
+       "Header":"G",
+       "To convert from":"gallon (U.S.) per day (gal\/d)",
+       "to":"cubic meter per second (m\/s)",
+       "Multiply by":4.381264,
+       "Multiply by2":-8.0,
+       "Factor":0.0000000438
+    },
+    {
+       "Header":"G",
+       "To convert from":"gallon (U.S.) per day (gal\/d)",
+       "to":"liter per second (L\/s)",
+       "Multiply by":4.381264,
+       "Multiply by2":-5.0,
+       "Factor":0.0000438126
+    },
+    {
+       "Header":"G",
+       "To convert from":"gallon (U.S.) per horsepower hour [gal\/(hp \u00b7 h)]",
+       "to":"cubic meter per joule (m\/J)",
+       "Multiply by":1.410089,
+       "Multiply by2":-9.0,
+       "Factor":0.0000000014
+    },
+    {
+       "Header":"G",
+       "To convert from":"gallon (U.S.) per horsepower hour [gal\/(hp \u00b7 h)]",
+       "to":"liter per joule (L\/J)",
+       "Multiply by":1.410089,
+       "Multiply by2":-6.0,
+       "Factor":0.0000014101
+    },
+    {
+       "Header":"G",
+       "To convert from":"gallon (U.S.) per minute (gpm) (gal\/min)",
+       "to":"cubic meter per second (m\/s)",
+       "Multiply by":6.30902,
+       "Multiply by2":-5.0,
+       "Factor":0.0000630902
+    },
+    {
+       "Header":"G",
+       "To convert from":"gallon (U.S.) per minute (gpm) (gal\/min)",
+       "to":"liter per second (L\/s)",
+       "Multiply by":6.30902,
+       "Multiply by2":-2.0,
+       "Factor":0.0630902
+    },
+    {
+       "Header":"G",
+       "To convert from":"gamma (\u03b3)",
+       "to":"tesla (T)",
+       "Multiply by":1.0,
+       "Multiply by2":-9.0,
+       "Factor":0.000000001
+    },
+    {
+       "Header":"G",
+       "To convert from":"gauss (Gs, G)",
+       "to":"tesla (T)",
+       "Multiply by":1.0,
+       "Multiply by2":-4.0,
+       "Factor":0.0001
+    },
+    {
+       "Header":"G",
+       "To convert from":"gilbert (Gi)",
+       "to":"ampere (A)",
+       "Multiply by":7.957747,
+       "Multiply by2":-1.0,
+       "Factor":0.7957747
+    },
+    {
+       "Header":"G",
+       "To convert from":"gill [Canadian and U.K. (Imperial)] (gi)",
+       "to":"cubic meter (m)",
+       "Multiply by":1.420653,
+       "Multiply by2":-4.0,
+       "Factor":0.0001420653
+    },
+    {
+       "Header":"G",
+       "To convert from":"gill [Canadian and U.K. (Imperial)] (gi)",
+       "to":"liter (L)",
+       "Multiply by":1.420653,
+       "Multiply by2":-1.0,
+       "Factor":0.1420653
+    },
+    {
+       "Header":"G",
+       "To convert from":"gill (U.S.) (gi)",
+       "to":"cubic meter (m)",
+       "Multiply by":1.182941,
+       "Multiply by2":-4.0,
+       "Factor":0.0001182941
+    },
+    {
+       "Header":"G",
+       "To convert from":"gill (U.S.) (gi)",
+       "to":"liter (L)",
+       "Multiply by":1.182941,
+       "Multiply by2":-1.0,
+       "Factor":0.1182941
+    },
+    {
+       "Header":"G",
+       "To convert from":"gon (also called grade) (gon)",
+       "to":"radian (rad)",
+       "Multiply by":1.570796,
+       "Multiply by2":-2.0,
+       "Factor":0.01570796
+    },
+    {
+       "Header":"G",
+       "To convert from":"gon (also called grade) (gon)",
+       "to":"degree (angle) (\u00b0)",
+       "Multiply by":9.0,
+       "Multiply by2":-1.0,
+       "Factor":0.9
+    },
+    {
+       "Header":"G",
+       "To convert from":"grain (gr)",
+       "to":"kilogram (kg)",
+       "Multiply by":6.479891,
+       "Multiply by2":-5.0,
+       "Factor":0.0000647989
+    },
+    {
+       "Header":"G",
+       "To convert from":"grain (gr)",
+       "to":"milligram (mg)",
+       "Multiply by":6.479891,
+       "Multiply by2":1.0,
+       "Factor":64.79891
+    },
+    {
+       "Header":"G",
+       "To convert from":"grain per gallon (U.S.) (gr\/gal)",
+       "to":"kilogram per cubic meter (kg\/m)",
+       "Multiply by":1.711806,
+       "Multiply by2":-2.0,
+       "Factor":0.01711806
+    },
+    {
+       "Header":"G",
+       "To convert from":"grain per gallon (U.S.) (gr\/gal)",
+       "to":"milligram per liter (mg\/L)",
+       "Multiply by":1.711806,
+       "Multiply by2":1.0,
+       "Factor":17.11806
+    },
+    {
+       "Header":"G",
+       "To convert from":"gram-force per square centimeter (gf\/cm)",
+       "to":"pascal (Pa)",
+       "Multiply by":9.80665,
+       "Multiply by2":1.0,
+       "Factor":98.0665
+    },
+    {
+       "Header":"G",
+       "To convert from":"gram per cubic centimeter (g\/cm)",
+       "to":"kilogram per cubic meter (kg\/m)",
+       "Multiply by":1.0,
+       "Multiply by2":3.0,
+       "Factor":1000.0
+    },
+    {
+       "Header":"H",
+       "To convert from":"hectare (ha)",
+       "to":"square meter (m)",
+       "Multiply by":1.0,
+       "Multiply by2":4.0,
+       "Factor":10000.0
+    },
+    {
+       "Header":"H",
+       "To convert from":"horsepower (550 ft \u00b7 lbf\/s) (hp)",
+       "to":"watt (W)",
+       "Multiply by":7.456999,
+       "Multiply by2":2.0,
+       "Factor":745.6999
+    },
+    {
+       "Header":"H",
+       "To convert from":"horsepower (boiler)",
+       "to":"watt (W)",
+       "Multiply by":9.8095,
+       "Multiply by2":3.0,
+       "Factor":9809.5
+    },
+    {
+       "Header":"H",
+       "To convert from":"horsepower (electric)",
+       "to":"watt (W)",
+       "Multiply by":7.46,
+       "Multiply by2":2.0,
+       "Factor":746.0
+    },
+    {
+       "Header":"H",
+       "To convert from":"horsepower (metric)",
+       "to":"watt (W)",
+       "Multiply by":7.354988,
+       "Multiply by2":2.0,
+       "Factor":735.4988
+    },
+    {
+       "Header":"H",
+       "To convert from":"horsepower (U.K.)",
+       "to":"watt (W)",
+       "Multiply by":7.457,
+       "Multiply by2":2.0,
+       "Factor":745.7
+    },
+    {
+       "Header":"H",
+       "To convert from":"horsepower (water)",
+       "to":"watt (W)",
+       "Multiply by":7.46043,
+       "Multiply by2":2.0,
+       "Factor":746.043
+    },
+    {
+       "Header":"H",
+       "To convert from":"hour (h)",
+       "to":"second (s)",
+       "Multiply by":3.6,
+       "Multiply by2":3.0,
+       "Factor":3600.0
+    },
+    {
+       "Header":"H",
+       "To convert from":"hour (sidereal)",
+       "to":"second (s)",
+       "Multiply by":3.59017,
+       "Multiply by2":3.0,
+       "Factor":3590.17
+    },
+    {
+       "Header":"H",
+       "To convert from":"hundredweight (long, 112 lb)",
+       "to":"kilogram (kg)",
+       "Multiply by":5.080235,
+       "Multiply by2":1.0,
+       "Factor":50.80235
+    },
+    {
+       "Header":"H",
+       "To convert from":"hundredweight (short, 100 lb)",
+       "to":"kilogram (kg)",
+       "Multiply by":4.535924,
+       "Multiply by2":1.0,
+       "Factor":45.35924
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch (in)",
+       "to":"meter (m)",
+       "Multiply by":2.54,
+       "Multiply by2":-2.0,
+       "Factor":0.0254
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch (in)",
+       "to":"centimeter (cm)",
+       "Multiply by":2.54,
+       "Multiply by2":0.0,
+       "Factor":2.54
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch of mercury (32 \u00b0F) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":3.38638,
+       "Multiply by2":3.0,
+       "Factor":3386.38
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch of mercury (32 \u00b0F) 12",
+       "to":"kilopascal (kPa)",
+       "Multiply by":3.38638,
+       "Multiply by2":0.0,
+       "Factor":3.38638
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch of mercury (60 \u00b0F) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":3.37685,
+       "Multiply by2":3.0,
+       "Factor":3376.85
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch of mercury (60 \u00b0F) 12",
+       "to":"kilopascal (kPa)",
+       "Multiply by":3.37685,
+       "Multiply by2":0.0,
+       "Factor":3.37685
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch of mercury, conventional (inHg) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":3.386389,
+       "Multiply by2":3.0,
+       "Factor":3386.389
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch of mercury, conventional (inHg) 12",
+       "to":"kilopascal (kPa)",
+       "Multiply by":3.386389,
+       "Multiply by2":0.0,
+       "Factor":3.386389
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch of water (39.2 \u00b0F) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":2.49082,
+       "Multiply by2":2.0,
+       "Factor":249.082
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch of water (60 \u00b0F) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":2.4884,
+       "Multiply by2":2.0,
+       "Factor":248.84
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch of water, conventional (inH2O) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":2.490889,
+       "Multiply by2":2.0,
+       "Factor":249.0889
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch per second (in\/s)",
+       "to":"meter per second (m\/s)",
+       "Multiply by":2.54,
+       "Multiply by2":-2.0,
+       "Factor":0.0254
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch per second squared (in\/s)",
+       "to":"meter per second squared (m\/s)",
+       "Multiply by":2.54,
+       "Multiply by2":-2.0,
+       "Factor":0.0254
+    },
+    {
+       "Header":"I",
+       "To convert from":"inch to the fourth power (in) 16",
+       "to":"meter to the fourth power (m)",
+       "Multiply by":4.162314,
+       "Multiply by2":-7.0,
+       "Factor":0.0000004162
+    },
+    {
+       "Header":"K",
+       "To convert from":"kayser (K)",
+       "to":"reciprocal meter (m)",
+       "Multiply by":1.0,
+       "Multiply by2":2.0,
+       "Factor":100.0
+    },
+    {
+       "Header":"K",
+       "To convert from":"kelvin (K)",
+       "to":"degree Celsius (\u00b0C)",
+       "Multiply by":-273.15,
+       "Multiply by2":273.0,
+       "Factor":-2.7315e+275
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilocalorieIT (kcalIT)",
+       "to":"joule (J)",
+       "Multiply by":4.1868,
+       "Multiply by2":3.0,
+       "Factor":4186.8
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilocalorieth (kcalth)",
+       "to":"joule (J)",
+       "Multiply by":4.184,
+       "Multiply by2":3.0,
+       "Factor":4184.0
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilocalorie (mean) (kcal)",
+       "to":"joule (J)",
+       "Multiply by":4.19002,
+       "Multiply by2":3.0,
+       "Factor":4190.02
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilocalorieth per minute (kcalth\/min)",
+       "to":"watt (W)",
+       "Multiply by":6.973333,
+       "Multiply by2":1.0,
+       "Factor":69.73333
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilocalorieth per second (kcalth\/s)",
+       "to":"watt (W)",
+       "Multiply by":4.184,
+       "Multiply by2":3.0,
+       "Factor":4184.0
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilogram-force (kgf)",
+       "to":"newton (N)",
+       "Multiply by":9.80665,
+       "Multiply by2":0.0,
+       "Factor":9.80665
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilogram-force meter (kgf \u00b7 m)",
+       "to":"newton meter (N \u00b7 m)",
+       "Multiply by":9.80665,
+       "Multiply by2":0.0,
+       "Factor":9.80665
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilogram-force per square centimeter (kgf\/cm)",
+       "to":"pascal (Pa)",
+       "Multiply by":9.80665,
+       "Multiply by2":4.0,
+       "Factor":98066.5
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilogram-force per square centimeter (kgf\/cm)",
+       "to":"kilopascal (kPa)",
+       "Multiply by":9.80665,
+       "Multiply by2":1.0,
+       "Factor":98.0665
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilogram-force per square meter (kgf\/m)",
+       "to":"pascal (Pa)",
+       "Multiply by":9.80665,
+       "Multiply by2":0.0,
+       "Factor":9.80665
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilogram-force per square millimeter (kgf\/mm)",
+       "to":"pascal (Pa)",
+       "Multiply by":9.80665,
+       "Multiply by2":6.0,
+       "Factor":9806650.0
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilogram-force per square millimeter (kgf\/mm)",
+       "to":"megapascal (MPa)",
+       "Multiply by":9.80665,
+       "Multiply by2":0.0,
+       "Factor":9.80665
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilogram-force second squared per meter (kgf \u00b7 s\/m)",
+       "to":"kilogram (kg)",
+       "Multiply by":9.80665,
+       "Multiply by2":0.0,
+       "Factor":9.80665
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilometer per hour (km\/h)",
+       "to":"meter per second (m\/s)",
+       "Multiply by":2.777778,
+       "Multiply by2":-1.0,
+       "Factor":0.2777778
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilopond (kilogram-force) (kp)",
+       "to":"newton (N)",
+       "Multiply by":9.80665,
+       "Multiply by2":0.0,
+       "Factor":9.80665
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilowatt hour (kW \u00b7 h)",
+       "to":"joule (J)",
+       "Multiply by":3.6,
+       "Multiply by2":6.0,
+       "Factor":3600000.0
+    },
+    {
+       "Header":"K",
+       "To convert from":"kilowatt hour (kW \u00b7 h)",
+       "to":"megajoule (MJ)",
+       "Multiply by":3.6,
+       "Multiply by2":0.0,
+       "Factor":3.6
+    },
+    {
+       "Header":"K",
+       "To convert from":"kip (1 kip= 1000 lbf)",
+       "to":"newton (N)",
+       "Multiply by":4.448222,
+       "Multiply by2":3.0,
+       "Factor":4448.222
+    },
+    {
+       "Header":"K",
+       "To convert from":"kip (1 kip= 1000 lbf)",
+       "to":"kilonewton (kN)",
+       "Multiply by":4.448222,
+       "Multiply by2":0.0,
+       "Factor":4.448222
+    },
+    {
+       "Header":"K",
+       "To convert from":"kip per square inch (ksi) (kip\/in)",
+       "to":"pascal (Pa)",
+       "Multiply by":6.894757,
+       "Multiply by2":6.0,
+       "Factor":6894757.0
+    },
+    {
+       "Header":"K",
+       "To convert from":"kip per square inch (ksi) (kip\/in)",
+       "to":"kilopascal (kPa)",
+       "Multiply by":6.894757,
+       "Multiply by2":3.0,
+       "Factor":6894.757
+    },
+    {
+       "Header":"K",
+       "To convert from":"knot (nautical mile per hour)",
+       "to":"meter per second (m\/s)",
+       "Multiply by":5.144444,
+       "Multiply by2":-1.0,
+       "Factor":0.5144444
+    },
+    {
+       "Header":"L",
+       "To convert from":"lambert 17",
+       "to":"candela per square meter (cd\/m)",
+       "Multiply by":3.183099,
+       "Multiply by2":3.0,
+       "Factor":3183.099
+    },
+    {
+       "Header":"L",
+       "To convert from":"langley (calth\/cm)",
+       "to":"joule per square meter (J\/m)",
+       "Multiply by":4.184,
+       "Multiply by2":4.0,
+       "Factor":41840.0
+    },
+    {
+       "Header":"L",
+       "To convert from":"light year (l.y.) 18",
+       "to":"meter (m)",
+       "Multiply by":9.46073,
+       "Multiply by2":15.0,
+       "Factor":9460730000000000.0
+    },
+    {
+       "Header":"L",
+       "To convert from":"liter (L) 19",
+       "to":"cubic meter (m)",
+       "Multiply by":1.0,
+       "Multiply by2":-3.0,
+       "Factor":0.001
+    },
+    {
+       "Header":"L",
+       "To convert from":"lumen per square foot (lm\/ft)",
+       "to":"lux (lx)",
+       "Multiply by":1.076391,
+       "Multiply by2":1.0,
+       "Factor":10.76391
+    },
+    {
+       "Header":"M",
+       "To convert from":"maxwell (Mx)",
+       "to":"weber (Wb)",
+       "Multiply by":1.0,
+       "Multiply by2":-8.0,
+       "Factor":0.00000001
+    },
+    {
+       "Header":"M",
+       "To convert from":"mho",
+       "to":"siemens (S)",
+       "Multiply by":1.0,
+       "Multiply by2":0.0,
+       "Factor":1.0
+    },
+    {
+       "Header":"M",
+       "To convert from":"microinch",
+       "to":"meter (m)",
+       "Multiply by":2.54,
+       "Multiply by2":-8.0,
+       "Factor":0.0000000254
+    },
+    {
+       "Header":"M",
+       "To convert from":"microinch",
+       "to":"micrometer (\u03bcm)",
+       "Multiply by":2.54,
+       "Multiply by2":-2.0,
+       "Factor":0.0254
+    },
+    {
+       "Header":"M",
+       "To convert from":"micron (\u03bc)",
+       "to":"meter (m)",
+       "Multiply by":1.0,
+       "Multiply by2":-6.0,
+       "Factor":0.000001
+    },
+    {
+       "Header":"M",
+       "To convert from":"micron (\u03bc)",
+       "to":"micrometer (\u03bcm)",
+       "Multiply by":1.0,
+       "Multiply by2":0.0,
+       "Factor":1.0
+    },
+    {
+       "Header":"M",
+       "To convert from":"mil (0.001 in)",
+       "to":"meter (m)",
+       "Multiply by":2.54,
+       "Multiply by2":-5.0,
+       "Factor":0.0000254
+    },
+    {
+       "Header":"M",
+       "To convert from":"mil (0.001 in)",
+       "to":"millimeter (mm)",
+       "Multiply by":2.54,
+       "Multiply by2":-2.0,
+       "Factor":0.0254
+    },
+    {
+       "Header":"M",
+       "To convert from":"mil (angle)",
+       "to":"radian (rad)",
+       "Multiply by":9.817477,
+       "Multiply by2":-4.0,
+       "Factor":0.0009817477
+    },
+    {
+       "Header":"M",
+       "To convert from":"mil (angle)",
+       "to":"degree (\u00b0)",
+       "Multiply by":5.625,
+       "Multiply by2":-2.0,
+       "Factor":0.05625
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile (mi)",
+       "to":"meter (m)",
+       "Multiply by":1.609344,
+       "Multiply by2":3.0,
+       "Factor":1609.344
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile (mi)",
+       "to":"kilometer (km)",
+       "Multiply by":1.609344,
+       "Multiply by2":0.0,
+       "Factor":1.609344
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile (based on U.S. survey foot) (mi) 7",
+       "to":"meter (m)",
+       "Multiply by":1.609347,
+       "Multiply by2":3.0,
+       "Factor":1609.347
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile (based on U.S. survey foot) (mi) 7",
+       "to":"kilometer (km)",
+       "Multiply by":1.609347,
+       "Multiply by2":0.0,
+       "Factor":1.609347
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile, nautical 20",
+       "to":"meter (m)",
+       "Multiply by":1.852,
+       "Multiply by2":3.0,
+       "Factor":1852.0
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile per gallon (U.S.) (mpg) (mi\/gal)",
+       "to":"meter per cubic meter (m\/m)",
+       "Multiply by":4.251437,
+       "Multiply by2":5.0,
+       "Factor":425143.7
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile per gallon (U.S.) (mpg) (mi\/gal)",
+       "to":"kilometer per liter (km\/L)",
+       "Multiply by":4.251437,
+       "Multiply by2":-1.0,
+       "Factor":0.4251437
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile per gallon (U.S.) (mpg) (mi\/gal) 21",
+       "to":"liter per 100\u00a0kilometer (L\/100\u00a0km)",
+       "Multiply by":235.215,
+       "Multiply by2":235.0,
+       "Factor":2.35215e+237
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile per\u00a0hour (mi\/h)",
+       "to":"meter per second (m\/s)",
+       "Multiply by":4.4704,
+       "Multiply by2":-1.0,
+       "Factor":0.44704
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile per hour (mi\/h)",
+       "to":"kilometer per hour (km\/h)",
+       "Multiply by":1.609344,
+       "Multiply by2":0.0,
+       "Factor":1.609344
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile per minute (mi\/min)",
+       "to":"meter per second (m\/s)",
+       "Multiply by":2.68224,
+       "Multiply by2":1.0,
+       "Factor":26.8224
+    },
+    {
+       "Header":"M",
+       "To convert from":"mile per second (mi\/s)",
+       "to":"meter per second (m\/s)",
+       "Multiply by":1.609344,
+       "Multiply by2":3.0,
+       "Factor":1609.344
+    },
+    {
+       "Header":"M",
+       "To convert from":"millibar (mbar)",
+       "to":"pascal (Pa)",
+       "Multiply by":1.0,
+       "Multiply by2":2.0,
+       "Factor":100.0
+    },
+    {
+       "Header":"M",
+       "To convert from":"millibar (mbar)",
+       "to":"kilopascal (kPa)",
+       "Multiply by":1.0,
+       "Multiply by2":-1.0,
+       "Factor":0.1
+    },
+    {
+       "Header":"M",
+       "To convert from":"millimeter of mercury, conventional (mmHg) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":1.333224,
+       "Multiply by2":2.0,
+       "Factor":133.3224
+    },
+    {
+       "Header":"M",
+       "To convert from":"millimeter of water, conventional (mm H2O) 12",
+       "to":"pascal (Pa)",
+       "Multiply by":9.80665,
+       "Multiply by2":0.0,
+       "Factor":9.80665
+    },
+    {
+       "Header":"M",
+       "To convert from":"minute (angle) (\u2032)",
+       "to":"radian (rad)",
+       "Multiply by":2.908882,
+       "Multiply by2":-4.0,
+       "Factor":0.0002908882
+    },
+    {
+       "Header":"M",
+       "To convert from":"minute (min)",
+       "to":"second (s)",
+       "Multiply by":6.0,
+       "Multiply by2":1.0,
+       "Factor":60.0
+    },
+    {
+       "Header":"M",
+       "To convert from":"minute (sidereal)",
+       "to":"second (s)",
+       "Multiply by":5.983617,
+       "Multiply by2":1.0,
+       "Factor":59.83617
+    },
+    {
+       "Header":"O",
+       "To convert from":"oersted (Oe)",
+       "to":"ampere per meter (A\/m)",
+       "Multiply by":7.957747,
+       "Multiply by2":1.0,
+       "Factor":79.57747
+    },
+    {
+       "Header":"O",
+       "To convert from":"ohm centimeter (\u03a9 \u00b7 cm)",
+       "to":"ohm meter (\u03a9 \u00b7 m)",
+       "Multiply by":1.0,
+       "Multiply by2":-2.0,
+       "Factor":0.01
+    },
+    {
+       "Header":"O",
+       "To convert from":"ohm circular-mil per foot",
+       "to":"ohm meter (\u03a9 \u00b7 m)",
+       "Multiply by":1.662426,
+       "Multiply by2":-9.0,
+       "Factor":0.0000000017
+    },
+    {
+       "Header":"O",
+       "To convert from":"ohm circular-mil per foot",
+       "to":"ohm square millimeter per meter (\u03a9 \u00b7 mm\/m)",
+       "Multiply by":1.662426,
+       "Multiply by2":-3.0,
+       "Factor":0.001662426
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois) (oz)",
+       "to":"kilogram (kg)",
+       "Multiply by":2.834952,
+       "Multiply by2":-2.0,
+       "Factor":0.02834952
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois) (oz)",
+       "to":"gram (g)",
+       "Multiply by":2.834952,
+       "Multiply by2":1.0,
+       "Factor":28.34952
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (troy or apothecary) (oz)",
+       "to":"kilogram (kg)",
+       "Multiply by":3.110348,
+       "Multiply by2":-2.0,
+       "Factor":0.03110348
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (troy or apothecary) (oz)",
+       "to":"gram (g)",
+       "Multiply by":3.110348,
+       "Multiply by2":1.0,
+       "Factor":31.10348
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce [Canadian and U.K. fluid (Imperial)] (fl oz)",
+       "to":"cubic meter (m)",
+       "Multiply by":2.841306,
+       "Multiply by2":-5.0,
+       "Factor":0.0000284131
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce [Canadian and U.K. fluid (Imperial)] (fl oz)",
+       "to":"milliliter (mL)",
+       "Multiply by":2.841306,
+       "Multiply by2":1.0,
+       "Factor":28.41306
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (U.S. fluid) (fl oz)",
+       "to":"cubic meter (m)",
+       "Multiply by":2.957353,
+       "Multiply by2":-5.0,
+       "Factor":0.0000295735
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (U.S. fluid) (fl oz)",
+       "to":"milliliter (mL)",
+       "Multiply by":2.957353,
+       "Multiply by2":1.0,
+       "Factor":29.57353
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois)-force (ozf)",
+       "to":"newton (N)",
+       "Multiply by":2.780139,
+       "Multiply by2":-1.0,
+       "Factor":0.2780139
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois)-force inch (ozf \u00b7 in)",
+       "to":"newton meter (N \u00b7 m)",
+       "Multiply by":7.061552,
+       "Multiply by2":-3.0,
+       "Factor":0.007061552
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois)-force inch (ozf \u00b7 in)",
+       "to":"millinewton meter (mN \u00b7 m)",
+       "Multiply by":7.061552,
+       "Multiply by2":0.0,
+       "Factor":7.061552
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois) per cubic inch (oz\/in)",
+       "to":"kilogram per cubic meter (kg\/m)",
+       "Multiply by":1.729994,
+       "Multiply by2":3.0,
+       "Factor":1729.994
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois) per gallon [Canadian and U.K. (Imperial)] (oz\/gal)",
+       "to":"kilogram per cubic meter (kg\/m)",
+       "Multiply by":6.236023,
+       "Multiply by2":0.0,
+       "Factor":6.236023
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois) per gallon [Canadian and U.K. (Imperial)] (oz\/gal)",
+       "to":"gram per liter (g\/L)",
+       "Multiply by":6.236023,
+       "Multiply by2":0.0,
+       "Factor":6.236023
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois) per gallon (U.S.) (oz\/gal)",
+       "to":"kilogram per cubic meter (kg\/m)",
+       "Multiply by":7.489152,
+       "Multiply by2":0.0,
+       "Factor":7.489152
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois) per gallon (U.S.) (oz\/gal)",
+       "to":"gram per liter (g\/L)",
+       "Multiply by":7.489152,
+       "Multiply by2":0.0,
+       "Factor":7.489152
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois) per square foot (oz\/ft)",
+       "to":"kilogram per square meter (kg\/m)",
+       "Multiply by":3.051517,
+       "Multiply by2":-1.0,
+       "Factor":0.3051517
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois) per square inch (oz\/in)",
+       "to":"kilogram per square meter (kg\/m)",
+       "Multiply by":4.394185,
+       "Multiply by2":1.0,
+       "Factor":43.94185
+    },
+    {
+       "Header":"O",
+       "To convert from":"ounce (avoirdupois) per square yard (oz\/yd)",
+       "to":"kilogram per square meter (kg\/m)",
+       "Multiply by":3.390575,
+       "Multiply by2":-2.0,
+       "Factor":0.03390575
+    },
+    {
+       "Header":"P",
+       "To convert from":"parsec (pc)",
+       "to":"meter (m)",
+       "Multiply by":3.085678,
+       "Multiply by2":16.0,
+       "Factor":3.085678e+16
+    },
+    {
+       "Header":"P",
+       "To convert from":"peck (U.S.) (pk)",
+       "to":"cubic meter (m)",
+       "Multiply by":8.809768,
+       "Multiply by2":-3.0,
+       "Factor":0.008809768
+    },
+    {
+       "Header":"P",
+       "To convert from":"peck (U.S.) (pk)",
+       "to":"liter (L)",
+       "Multiply by":8.809768,
+       "Multiply by2":0.0,
+       "Factor":8.809768
+    },
+    {
+       "Header":"P",
+       "To convert from":"pennyweight (dwt)",
+       "to":"kilogram (kg)",
+       "Multiply by":1.555174,
+       "Multiply by2":-3.0,
+       "Factor":0.001555174
+    },
+    {
+       "Header":"P",
+       "To convert from":"pennyweight (dwt)",
+       "to":"gram (g)",
+       "Multiply by":1.555174,
+       "Multiply by2":0.0,
+       "Factor":1.555174
+    },
+    {
+       "Header":"P",
+       "To convert from":"perm (0 \u00b0C)",
+       "to":"kilogram per pascal second square meter [kg\/(Pa \u00b7 s \u00b7 m2)]",
+       "Multiply by":5.72135,
+       "Multiply by2":-11.0,
+       "Factor":0.0000000001
+    },
+    {
+       "Header":"P",
+       "To convert from":"perm (23 \u00b0C)",
+       "to":"kilogram per pascal second square meter [kg\/(Pa \u00b7 s \u00b7 m2)]",
+       "Multiply by":5.74525,
+       "Multiply by2":-11.0,
+       "Factor":0.0000000001
+    },
+    {
+       "Header":"P",
+       "To convert from":"perm inch (0 \u00b0C)",
+       "to":"kilogram per pascal second meter [kg\/(Pa\u00b7s\u00b7m)]",
+       "Multiply by":1.45322,
+       "Multiply by2":-12.0,
+       "Factor":0.0
+    },
+    {
+       "Header":"P",
+       "To convert from":"perm inch (23 \u00b0C)",
+       "to":"kilogram per pascal second meter [kg\/(Pa\u00b7s\u00b7m)]",
+       "Multiply by":1.45929,
+       "Multiply by2":-12.0,
+       "Factor":0.0
+    },
+    {
+       "Header":"P",
+       "To convert from":"phot (ph)",
+       "to":"lux (lx)",
+       "Multiply by":1.0,
+       "Multiply by2":4.0,
+       "Factor":10000.0
+    },
+    {
+       "Header":"P",
+       "To convert from":"pica (computer) (1\/6 in)",
+       "to":"meter (m)",
+       "Multiply by":4.233333,
+       "Multiply by2":-3.0,
+       "Factor":0.004233333
+    },
+    {
+       "Header":"P",
+       "To convert from":"pica (computer) (1\/6 in)",
+       "to":"millimeter (mm)",
+       "Multiply by":4.233333,
+       "Multiply by2":0.0,
+       "Factor":4.233333
+    },
+    {
+       "Header":"P",
+       "To convert from":"pica (printer's)",
+       "to":"meter (m)",
+       "Multiply by":4.217518,
+       "Multiply by2":-3.0,
+       "Factor":0.004217518
+    },
+    {
+       "Header":"P",
+       "To convert from":"pica (printer's)",
+       "to":"millimeter (mm)",
+       "Multiply by":4.217518,
+       "Multiply by2":0.0,
+       "Factor":4.217518
+    },
+    {
+       "Header":"P",
+       "To convert from":"pint (U.S. dry) (dry pt)",
+       "to":"cubic meter (m)",
+       "Multiply by":5.506105,
+       "Multiply by2":-4.0,
+       "Factor":0.0005506105
+    },
+    {
+       "Header":"P",
+       "To convert from":"pint (U.S. dry) (dry pt)",
+       "to":"liter (L)",
+       "Multiply by":5.506105,
+       "Multiply by2":-1.0,
+       "Factor":0.5506105
+    },
+    {
+       "Header":"P",
+       "To convert from":"pint (U.S. liquid) (liq pt)",
+       "to":"cubic meter (m)",
+       "Multiply by":4.731765,
+       "Multiply by2":-4.0,
+       "Factor":0.0004731765
+    },
+    {
+       "Header":"P",
+       "To convert from":"pint (U.S. liquid) (liq pt)",
+       "to":"liter (L)",
+       "Multiply by":4.731765,
+       "Multiply by2":-1.0,
+       "Factor":0.4731765
+    },
+    {
+       "Header":"P",
+       "To convert from":"point (computer) (1\/72 in)",
+       "to":"meter (m)",
+       "Multiply by":3.527778,
+       "Multiply by2":-4.0,
+       "Factor":0.0003527778
+    },
+    {
+       "Header":"P",
+       "To convert from":"point (computer) (1\/72 in)",
+       "to":"millimeter (mm)",
+       "Multiply by":3.527778,
+       "Multiply by2":-1.0,
+       "Factor":0.3527778
+    },
+    {
+       "Header":"P",
+       "To convert from":"point (printer's)",
+       "to":"meter (m)",
+       "Multiply by":3.514598,
+       "Multiply by2":-4.0,
+       "Factor":0.0003514598
+    },
+    {
+       "Header":"P",
+       "To convert from":"point (printer's)",
+       "to":"millimeter (mm)",
+       "Multiply by":3.514598,
+       "Multiply by2":-1.0,
+       "Factor":0.3514598
+    },
+    {
+       "Header":"P",
+       "To convert from":"poise (P)",
+       "to":"pascal second (Pa \u00b7 s)",
+       "Multiply by":1.0,
+       "Multiply by2":-1.0,
+       "Factor":0.1
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound (avoirdupois) (lb)\u00a022",
+       "to":"kilogram (kg)",
+       "Multiply by":4.535924,
+       "Multiply by2":-1.0,
+       "Factor":0.4535924
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound (troy or apothecary) (lb)",
+       "to":"kilogram (kg)",
+       "Multiply by":3.732417,
+       "Multiply by2":-1.0,
+       "Factor":0.3732417
+    },
+    {
+       "Header":"P",
+       "To convert from":"poundal",
+       "to":"newton (N)",
+       "Multiply by":1.38255,
+       "Multiply by2":-1.0,
+       "Factor":0.138255
+    },
+    {
+       "Header":"P",
+       "To convert from":"poundal per square foot",
+       "to":"pascal (Pa)",
+       "Multiply by":1.488164,
+       "Multiply by2":0.0,
+       "Factor":1.488164
+    },
+    {
+       "Header":"P",
+       "To convert from":"poundal second per square foot",
+       "to":"pascal second (Pa \u00b7 s)",
+       "Multiply by":1.488164,
+       "Multiply by2":0.0,
+       "Factor":1.488164
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound foot squared (lb \u00b7 ft2)",
+       "to":"kilogram meter squared (kg \u00b7 m2)",
+       "Multiply by":4.214011,
+       "Multiply by2":-2.0,
+       "Factor":0.04214011
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force (lbf)\u00a023",
+       "to":"newton (N)",
+       "Multiply by":4.448222,
+       "Multiply by2":0.0,
+       "Factor":4.448222
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force foot (lbf \u00b7 ft)",
+       "to":"newton meter (N \u00b7 m)",
+       "Multiply by":1.355818,
+       "Multiply by2":0.0,
+       "Factor":1.355818
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force foot per inch (lbf \u00b7 ft\/in)",
+       "to":"newton meter per meter (N \u00b7 m\/m)",
+       "Multiply by":5.337866,
+       "Multiply by2":1.0,
+       "Factor":53.37866
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force inch (lbf \u00b7 in)",
+       "to":"newton meter (N \u00b7 m)",
+       "Multiply by":1.129848,
+       "Multiply by2":-1.0,
+       "Factor":0.1129848
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force inch per inch (lbf \u00b7 in\/in)",
+       "to":"newton meter per meter (N \u00b7 m\/m)",
+       "Multiply by":4.448222,
+       "Multiply by2":0.0,
+       "Factor":4.448222
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force per foot (lbf\/ft)",
+       "to":"newton per meter (N\/m)",
+       "Multiply by":1.45939,
+       "Multiply by2":1.0,
+       "Factor":14.5939
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force per inch (lbf\/in)",
+       "to":"newton per meter (N\/m)",
+       "Multiply by":1.751268,
+       "Multiply by2":2.0,
+       "Factor":175.1268
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force per pound (lbf\/lb) (thrust to mass ratio)",
+       "to":"newton per kilogram (N\/kg)",
+       "Multiply by":9.80665,
+       "Multiply by2":0.0,
+       "Factor":9.80665
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force per square foot (lbf\/ft2)",
+       "to":"pascal (Pa)",
+       "Multiply by":4.788026,
+       "Multiply by2":1.0,
+       "Factor":47.88026
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force per square inch (psi) (lbf\/in2)",
+       "to":"pascal (Pa)",
+       "Multiply by":6.894757,
+       "Multiply by2":3.0,
+       "Factor":6894.757
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force per square inch (psi) (lbf\/in2)",
+       "to":"kilopascal (kPa)",
+       "Multiply by":6.894757,
+       "Multiply by2":0.0,
+       "Factor":6.894757
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force second per square foot (lbf \u00b7 s\/ft2)",
+       "to":"pascal second (Pa \u00b7 s)",
+       "Multiply by":4.788026,
+       "Multiply by2":1.0,
+       "Factor":47.88026
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound-force second per square inch (lbf \u00b7 s\/in2)",
+       "to":"pascal second (Pa \u00b7 s)",
+       "Multiply by":6.894757,
+       "Multiply by2":3.0,
+       "Factor":6894.757
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound inch squared (lb \u00b7 in2)",
+       "to":"kilogram meter squared (kg \u00b7m2)",
+       "Multiply by":2.926397,
+       "Multiply by2":-4.0,
+       "Factor":0.0002926397
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per cubic foot (lb\/ft3)",
+       "to":"kilogram per cubic meter (kg\/m3)",
+       "Multiply by":1.601846,
+       "Multiply by2":1.0,
+       "Factor":16.01846
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per cubic inch (lb\/in)",
+       "to":"kilogram per cubic meter (kg\/m)",
+       "Multiply by":2.76799,
+       "Multiply by2":4.0,
+       "Factor":27679.9
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per cubic yard (lb\/yd)",
+       "to":"kilogram per cubic meter (kg\/m)",
+       "Multiply by":5.932764,
+       "Multiply by2":-1.0,
+       "Factor":0.5932764
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per foot (lb\/ft)",
+       "to":"kilogram per meter (kg\/m)",
+       "Multiply by":1.488164,
+       "Multiply by2":0.0,
+       "Factor":1.488164
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per foot hour [lb\/(ft \u00b7 h)]",
+       "to":"pascal second (Pa \u00b7 s)",
+       "Multiply by":4.133789,
+       "Multiply by2":-4.0,
+       "Factor":0.0004133789
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per foot second [lb\/(ft \u00b7 s)]",
+       "to":"pascal second (Pa \u00b7 s)",
+       "Multiply by":1.488164,
+       "Multiply by2":0.0,
+       "Factor":1.488164
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per gallon [Canadian and U.K. (Imperial)] (lb\/gal)",
+       "to":"kilogram per cubic meter (kg\/m)",
+       "Multiply by":9.977637,
+       "Multiply by2":1.0,
+       "Factor":99.77637
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per gallon [Canadian and U.K. (Imperial)] (lb\/gal)",
+       "to":"kilogram per liter (kg\/L)",
+       "Multiply by":9.977637,
+       "Multiply by2":-2.0,
+       "Factor":0.09977637
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per gallon (U.S.) (lb\/gal)",
+       "to":"kilogram per cubic meter (kg\/m)",
+       "Multiply by":1.198264,
+       "Multiply by2":2.0,
+       "Factor":119.8264
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per gallon (U.S.) (lb\/gal)",
+       "to":"kilogram per liter (kg\/L)",
+       "Multiply by":1.198264,
+       "Multiply by2":-1.0,
+       "Factor":0.1198264
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per horsepower hour [lb\/(hp \u00b7 h)]",
+       "to":"kilogram per joule (kg\/J)",
+       "Multiply by":1.689659,
+       "Multiply by2":-7.0,
+       "Factor":0.000000169
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per hour (lb\/h)",
+       "to":"kilogram per second (kg\/s)",
+       "Multiply by":1.259979,
+       "Multiply by2":-4.0,
+       "Factor":0.0001259979
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per inch (lb\/in)",
+       "to":"kilogram per meter (kg\/m)",
+       "Multiply by":1.785797,
+       "Multiply by2":1.0,
+       "Factor":17.85797
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per minute (lb\/min)",
+       "to":"kilogram per second (kg\/s)",
+       "Multiply by":7.559873,
+       "Multiply by2":-3.0,
+       "Factor":0.007559873
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per second (lb\/s)",
+       "to":"kilogram per second (kg\/s)",
+       "Multiply by":4.535924,
+       "Multiply by2":-1.0,
+       "Factor":0.4535924
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per square foot (lb\/ft)",
+       "to":"kilogram per square meter (kg\/m)",
+       "Multiply by":4.882428,
+       "Multiply by2":0.0,
+       "Factor":4.882428
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per square inch (not pound-force) (lb\/in)",
+       "to":"kilogram per square meter (kg\/m)",
+       "Multiply by":7.030696,
+       "Multiply by2":2.0,
+       "Factor":703.0696
+    },
+    {
+       "Header":"P",
+       "To convert from":"pound per yard (lb\/yd)",
+       "to":"kilogram per meter (kg\/m)",
+       "Multiply by":4.960546,
+       "Multiply by2":-1.0,
+       "Factor":0.4960546
+    },
+    {
+       "Header":"P",
+       "To convert from":"psi (pound-force per square inch) (lbf\/in)",
+       "to":"pascal (Pa)",
+       "Multiply by":6.894757,
+       "Multiply by2":3.0,
+       "Factor":6894.757
+    },
+    {
+       "Header":"P",
+       "To convert from":"psi (pound-force per square inch) (lbf\/in)",
+       "to":"kilopascal (kPa)",
+       "Multiply by":6.894757,
+       "Multiply by2":0.0,
+       "Factor":6.894757
+    },
+    {
+       "Header":"Q",
+       "To convert from":"quad (10 BtuIT)\u00a011",
+       "to":"joule (J)",
+       "Multiply by":1.055056,
+       "Multiply by2":18.0,
+       "Factor":1.055056e+18
+    },
+    {
+       "Header":"Q",
+       "To convert from":"quart (U.S. dry) (dry qt)",
+       "to":"cubic meter (m)",
+       "Multiply by":1.101221,
+       "Multiply by2":-3.0,
+       "Factor":0.001101221
+    },
+    {
+       "Header":"Q",
+       "To convert from":"quart (U.S. dry) (dry qt)",
+       "to":"liter (L)",
+       "Multiply by":1.101221,
+       "Multiply by2":0.0,
+       "Factor":1.101221
+    },
+    {
+       "Header":"Q",
+       "To convert from":"quart (U.S. liquid) (liq qt)",
+       "to":"cubic meter (m)",
+       "Multiply by":9.463529,
+       "Multiply by2":-4.0,
+       "Factor":0.0009463529
+    },
+    {
+       "Header":"Q",
+       "To convert from":"quart (U.S. liquid) (liq qt)",
+       "to":"liter (L)",
+       "Multiply by":9.463529,
+       "Multiply by2":-1.0,
+       "Factor":0.9463529
+    },
+    {
+       "Header":"R",
+       "To convert from":"rad (absorbed dose) (rad)",
+       "to":"gray (Gy)",
+       "Multiply by":1.0,
+       "Multiply by2":-2.0,
+       "Factor":0.01
+    },
+    {
+       "Header":"R",
+       "To convert from":"rem (rem)",
+       "to":"sievert (Sv)",
+       "Multiply by":1.0,
+       "Multiply by2":-2.0,
+       "Factor":0.01
+    },
+    {
+       "Header":"R",
+       "To convert from":"revolution (r)",
+       "to":"radian (rad)",
+       "Multiply by":6.283185,
+       "Multiply by2":0.0,
+       "Factor":6.283185
+    },
+    {
+       "Header":"R",
+       "To convert from":"revolution per minute (rpm) (r\/min)",
+       "to":"radian per second (rad\/s)",
+       "Multiply by":1.047198,
+       "Multiply by2":-1.0,
+       "Factor":0.1047198
+    },
+    {
+       "Header":"R",
+       "To convert from":"rhe",
+       "to":"reciprocal pascal second (Pa \u00b7 s)-1",
+       "Multiply by":1.0,
+       "Multiply by2":1.0,
+       "Factor":10.0
+    },
+    {
+       "Header":"R",
+       "To convert from":"rod (based on U.S. survey foot) (rd)\u00a07",
+       "to":"meter (m)",
+       "Multiply by":5.02921,
+       "Multiply by2":0.0,
+       "Factor":5.02921
+    },
+    {
+       "Header":"R",
+       "To convert from":"roentgen (R)",
+       "to":"coulomb per kilogram (C\/kg)",
+       "Multiply by":2.58,
+       "Multiply by2":-4.0,
+       "Factor":0.000258
+    },
+    {
+       "Header":"R",
+       "To convert from":"rpm (revolution per minute) (r\/min)",
+       "to":"radian per second (rad\/s)",
+       "Multiply by":1.047198,
+       "Multiply by2":-1.0,
+       "Factor":0.1047198
+    },
+    {
+       "Header":"S",
+       "To convert from":"second (angle) (\u2033)",
+       "to":"radian (rad)",
+       "Multiply by":4.848137,
+       "Multiply by2":-6.0,
+       "Factor":0.0000048481
+    },
+    {
+       "Header":"S",
+       "To convert from":"second (sidereal)",
+       "to":"second (s)",
+       "Multiply by":9.972696,
+       "Multiply by2":-1.0,
+       "Factor":0.9972696
+    },
+    {
+       "Header":"S",
+       "To convert from":"shake",
+       "to":"second (s)",
+       "Multiply by":1.0,
+       "Multiply by2":-8.0,
+       "Factor":0.00000001
+    },
+    {
+       "Header":"S",
+       "To convert from":"shake",
+       "to":"nanosecond (ns)",
+       "Multiply by":1.0,
+       "Multiply by2":1.0,
+       "Factor":10.0
+    },
+    {
+       "Header":"S",
+       "To convert from":"slug (slug)",
+       "to":"kilogram (kg)",
+       "Multiply by":1.45939,
+       "Multiply by2":1.0,
+       "Factor":14.5939
+    },
+    {
+       "Header":"S",
+       "To convert from":"slug per cubic foot (slug\/ft3)",
+       "to":"kilogram per cubic meter (kg\/m3)",
+       "Multiply by":5.153788,
+       "Multiply by2":2.0,
+       "Factor":515.3788
+    },
+    {
+       "Header":"S",
+       "To convert from":"slug per foot second [slug\/(ft \u00b7 s)]",
+       "to":"pascal second (Pa \u00b7 s)",
+       "Multiply by":4.788026,
+       "Multiply by2":1.0,
+       "Factor":47.88026
+    },
+    {
+       "Header":"S",
+       "To convert from":"square foot (ft)",
+       "to":"square meter (m)",
+       "Multiply by":9.290304,
+       "Multiply by2":-2.0,
+       "Factor":0.09290304
+    },
+    {
+       "Header":"S",
+       "To convert from":"square foot per hour (ft\/h)",
+       "to":"square meter per second (m\/s)",
+       "Multiply by":2.58064,
+       "Multiply by2":-5.0,
+       "Factor":0.0000258064
+    },
+    {
+       "Header":"S",
+       "To convert from":"square foot per second (ft\/s)",
+       "to":"square meter per second (m\/s)",
+       "Multiply by":9.290304,
+       "Multiply by2":-2.0,
+       "Factor":0.09290304
+    },
+    {
+       "Header":"S",
+       "To convert from":"square inch (in)",
+       "to":"square meter (m)",
+       "Multiply by":6.4516,
+       "Multiply by2":-4.0,
+       "Factor":0.00064516
+    },
+    {
+       "Header":"S",
+       "To convert from":"square inch (in)",
+       "to":"square centimeter (cm)",
+       "Multiply by":6.4516,
+       "Multiply by2":0.0,
+       "Factor":6.4516
+    },
+    {
+       "Header":"S",
+       "To convert from":"square mile (mi)",
+       "to":"square meter (m)",
+       "Multiply by":2.589988,
+       "Multiply by2":6.0,
+       "Factor":2589988.0
+    },
+    {
+       "Header":"S",
+       "To convert from":"square mile (mi)",
+       "to":"square kilometer (km)",
+       "Multiply by":2.589988,
+       "Multiply by2":0.0,
+       "Factor":2.589988
+    },
+    {
+       "Header":"S",
+       "To convert from":"square mile (based on U.S. survey foot) (mi)\u00a07",
+       "to":"square meter (m)",
+       "Multiply by":2.589998,
+       "Multiply by2":6.0,
+       "Factor":2589998.0
+    },
+    {
+       "Header":"S",
+       "To convert from":"square mile (based on U.S. survey foot) (mi)\u00a07",
+       "to":"square kilometer (km)",
+       "Multiply by":2.589998,
+       "Multiply by2":0.0,
+       "Factor":2.589998
+    },
+    {
+       "Header":"S",
+       "To convert from":"square yard (yd)",
+       "to":"square meter (m)",
+       "Multiply by":8.361274,
+       "Multiply by2":-1.0,
+       "Factor":0.8361274
+    },
+    {
+       "Header":"S",
+       "To convert from":"statampere",
+       "to":"ampere (A)",
+       "Multiply by":3.335641,
+       "Multiply by2":-10.0,
+       "Factor":0.0000000003
+    },
+    {
+       "Header":"S",
+       "To convert from":"statcoulomb",
+       "to":"coulomb (C)",
+       "Multiply by":3.335641,
+       "Multiply by2":-10.0,
+       "Factor":0.0000000003
+    },
+    {
+       "Header":"S",
+       "To convert from":"statfarad",
+       "to":"farad (F)",
+       "Multiply by":1.11265,
+       "Multiply by2":-12.0,
+       "Factor":0.0
+    },
+    {
+       "Header":"S",
+       "To convert from":"stathenry",
+       "to":"henry (H)",
+       "Multiply by":8.987552,
+       "Multiply by2":11.0,
+       "Factor":898755200000.0001220703
+    },
+    {
+       "Header":"S",
+       "To convert from":"statmho",
+       "to":"siemens (S)",
+       "Multiply by":1.11265,
+       "Multiply by2":-12.0,
+       "Factor":0.0
+    },
+    {
+       "Header":"S",
+       "To convert from":"statohm",
+       "to":"ohm (\u03a9)",
+       "Multiply by":8.987552,
+       "Multiply by2":11.0,
+       "Factor":898755200000.0001220703
+    },
+    {
+       "Header":"S",
+       "To convert from":"statvolt",
+       "to":"volt (V)",
+       "Multiply by":2.997925,
+       "Multiply by2":2.0,
+       "Factor":299.7925
+    },
+    {
+       "Header":"S",
+       "To convert from":"stere (st)",
+       "to":"cubic meter (m)",
+       "Multiply by":1.0,
+       "Multiply by2":0.0,
+       "Factor":1.0
+    },
+    {
+       "Header":"S",
+       "To convert from":"stilb (sb)",
+       "to":"candela per square meter (cd\/m)",
+       "Multiply by":1.0,
+       "Multiply by2":4.0,
+       "Factor":10000.0
+    },
+    {
+       "Header":"S",
+       "To convert from":"stokes (St)",
+       "to":"meter squared per second (m\/s)",
+       "Multiply by":1.0,
+       "Multiply by2":-4.0,
+       "Factor":0.0001
+    },
+    {
+       "Header":"T",
+       "To convert from":"tablespoon",
+       "to":"cubic meter (m)",
+       "Multiply by":1.478676,
+       "Multiply by2":-5.0,
+       "Factor":0.0000147868
+    },
+    {
+       "Header":"T",
+       "To convert from":"tablespoon",
+       "to":"milliliter (mL)",
+       "Multiply by":1.478676,
+       "Multiply by2":1.0,
+       "Factor":14.78676
+    },
+    {
+       "Header":"T",
+       "To convert from":"teaspoon",
+       "to":"cubic meter (m)",
+       "Multiply by":4.928922,
+       "Multiply by2":-6.0,
+       "Factor":0.0000049289
+    },
+    {
+       "Header":"T",
+       "To convert from":"teaspoon",
+       "to":"milliliter (mL)",
+       "Multiply by":4.928922,
+       "Multiply by2":0.0,
+       "Factor":4.928922
+    },
+    {
+       "Header":"T",
+       "To convert from":"tex",
+       "to":"kilogram per meter (kg\/m)",
+       "Multiply by":1.0,
+       "Multiply by2":-6.0,
+       "Factor":0.000001
+    },
+    {
+       "Header":"T",
+       "To convert from":"therm (EC) 24",
+       "to":"joule (J)",
+       "Multiply by":1.05506,
+       "Multiply by2":8.0,
+       "Factor":105506000.0000000149
+    },
+    {
+       "Header":"T",
+       "To convert from":"therm (U.S.) 24",
+       "to":"joule (J)",
+       "Multiply by":1.054804,
+       "Multiply by2":8.0,
+       "Factor":105480400.0000000149
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton, assay (AT)",
+       "to":"kilogram (kg)",
+       "Multiply by":2.916667,
+       "Multiply by2":-2.0,
+       "Factor":0.02916667
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton, assay (AT)",
+       "to":"gram (g)",
+       "Multiply by":2.916667,
+       "Multiply by2":1.0,
+       "Factor":29.16667
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton-force (2000 lbf)",
+       "to":"newton (N)",
+       "Multiply by":8.896443,
+       "Multiply by2":3.0,
+       "Factor":8896.443
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton-force (2000 lbf)",
+       "to":"kilonewton (kN)",
+       "Multiply by":8.896443,
+       "Multiply by2":0.0,
+       "Factor":8.896443
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton, long (2240 lb)",
+       "to":"kilogram (kg)",
+       "Multiply by":1.016047,
+       "Multiply by2":3.0,
+       "Factor":1016.047
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton, long, per cubic yard",
+       "to":"kilogram per cubic meter (kg\/m)",
+       "Multiply by":1.328939,
+       "Multiply by2":3.0,
+       "Factor":1328.939
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton, metric (t)",
+       "to":"kilogram (kg)",
+       "Multiply by":1.0,
+       "Multiply by2":3.0,
+       "Factor":1000.0
+    },
+    {
+       "Header":"T",
+       "To convert from":"tonne (called \"metric ton\" in U.S.) (t)",
+       "to":"kilogram (kg)",
+       "Multiply by":1.0,
+       "Multiply by2":3.0,
+       "Factor":1000.0
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton of refrigeration (12 000 BtuIT\/h)",
+       "to":"watt (W)",
+       "Multiply by":3.516853,
+       "Multiply by2":3.0,
+       "Factor":3516.853
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton of TNT (energy equivalent)\u00a025",
+       "to":"joule (J)",
+       "Multiply by":4.184,
+       "Multiply by2":9.0,
+       "Factor":4184000000.0
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton, register",
+       "to":"cubic meter (m)",
+       "Multiply by":2.831685,
+       "Multiply by2":0.0,
+       "Factor":2.831685
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton, short (2000 lb)",
+       "to":"kilogram (kg)",
+       "Multiply by":9.071847,
+       "Multiply by2":2.0,
+       "Factor":907.1847
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton, short, per cubic yard",
+       "to":"kilogram per cubic meter (kg\/m)",
+       "Multiply by":1.186553,
+       "Multiply by2":3.0,
+       "Factor":1186.553
+    },
+    {
+       "Header":"T",
+       "To convert from":"ton, short, per hour",
+       "to":"kilogram per second (kg\/s)",
+       "Multiply by":2.519958,
+       "Multiply by2":-1.0,
+       "Factor":0.2519958
+    },
+    {
+       "Header":"T",
+       "To convert from":"torr (Torr)",
+       "to":"pascal (Pa)",
+       "Multiply by":1.333224,
+       "Multiply by2":2.0,
+       "Factor":133.3224
+    },
+    {
+       "Header":"U",
+       "To convert from":"unit pole",
+       "to":"weber (Wb)",
+       "Multiply by":1.256637,
+       "Multiply by2":-7.0,
+       "Factor":0.0000001257
+    },
+    {
+       "Header":"W",
+       "To convert from":"watt hour (W \u00b7 h)",
+       "to":"joule (J)",
+       "Multiply by":3.6,
+       "Multiply by2":3.0,
+       "Factor":3600.0
+    },
+    {
+       "Header":"W",
+       "To convert from":"watt per square centimeter (W\/cm)",
+       "to":"watt per square meter (W\/m)",
+       "Multiply by":1.0,
+       "Multiply by2":4.0,
+       "Factor":10000.0
+    },
+    {
+       "Header":"W",
+       "To convert from":"watt per square inch (W\/in)",
+       "to":"watt per square meter (W\/m)",
+       "Multiply by":1.550003,
+       "Multiply by2":3.0,
+       "Factor":1550.003
+    },
+    {
+       "Header":"W",
+       "To convert from":"watt second (W \u00b7 s)",
+       "to":"joule (J)",
+       "Multiply by":1.0,
+       "Multiply by2":0.0,
+       "Factor":1.0
+    },
+    {
+       "Header":"Y",
+       "To convert from":"yard (yd)",
+       "to":"meter (m)",
+       "Multiply by":9.144,
+       "Multiply by2":-1.0,
+       "Factor":0.9144
+    },
+    {
+       "Header":"Y",
+       "To convert from":"year (365 days)",
+       "to":"second (s)",
+       "Multiply by":3.1536,
+       "Multiply by2":7.0,
+       "Factor":31536000.0
+    },
+    {
+       "Header":"Y",
+       "To convert from":"year (sidereal)",
+       "to":"second (s)",
+       "Multiply by":3.155815,
+       "Multiply by2":7.0,
+       "Factor":31558150.0
+    },
+    {
+       "Header":"Y",
+       "To convert from":"year (tropical)",
+       "to":"second (s)",
+       "Multiply by":3.155693,
+       "Multiply by2":7.0,
+       "Factor":31556930.0
+    }
+ ]
+
+}

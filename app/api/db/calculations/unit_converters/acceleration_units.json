@@ -73,7 +73,7 @@
     },
     {
        "unit_string":"meter_per_second_squared",
-       "formated_string":" m\/s2",
+       "formated_string":" m\/<sub>s2<sub>",
        "base_units":"1.0 meter_per_second_squared",
        "base_units_value":1.0,
        "dimensionality":"acceleration",

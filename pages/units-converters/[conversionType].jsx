@@ -62,20 +62,23 @@ export default function page({conversionType}) {
       <br></br>
       <br></br>
       <br></br>
-    <h2 className='page-title'>  {capitalizeWords(conversionType)} Converter</h2> 
+    
     <div className='horizontal-container '>
+      <div style={{padding:'0px'}}>
+    <h2 className='page-title'>  {capitalizeWords(conversionType)} Converter</h2> 
     <div className='converter-container'>    
     
     <UnitsConverter conversionType={conversionType}></UnitsConverter>
+    </div>
     </div>
     <div style={{maxWidth:'400px',marginRight:'50px'}}>
     <MyAccordion title={'All Units Converters'}
     content={<ButtonGroup
       directory={'units-converters'}
       data={links}
-     //  buttonClass={'button-target'} 
+      buttonClass={'button-target'} 
       containerClass={'button-group-container-vertical'}
-      buttonClass={'button-target'}
+      
       ></ButtonGroup>}></MyAccordion>
       </div>
     {/* <ButtonGroup

@@ -5,7 +5,7 @@
         "base_units": "1.0020769740995953e-13 meter",
         "base_units_value": 1.0020769740995953e-13,
         "unit_string": "x_unit_Cu",
-        "formatted_string": "Xu_Cu"
+        "formated_string": "Xu Cu"
     },
     {
         "unit_name": "Xu_Mo",
@@ -13,7 +13,7 @@
         "base_units": "1.002099539623052e-13 meter",
         "base_units_value": 1.002099539623052e-13,
         "unit_string": "x_unit_Mo",
-        "formatted_string": "Xu_Mo"
+        "formated_string": "Xu Mo"
     },
     {
         "unit_name": "a0",
@@ -21,7 +21,7 @@
         "base_units": "5.2917721090397754e-11 meter",
         "base_units_value": 5.2917721090397754e-11,
         "unit_string": "bohr",
-        "formatted_string": "a_0"
+        "formated_string": "a0"
     },
     {
         "unit_name": "a_0",
@@ -29,7 +29,7 @@
         "base_units": "5.2917721090397754e-11 meter",
         "base_units_value": 5.2917721090397754e-11,
         "unit_string": "bohr",
-        "formatted_string": "a_0"
+        "formated_string": "a0"
     },
     {
         "unit_name": "a_u_length",
@@ -37,7 +37,7 @@
         "base_units": "5.2917721090397754e-11 meter",
         "base_units_value": 5.2917721090397754e-11,
         "unit_string": "bohr",
-        "formatted_string": "a_0"
+        "formated_string": "a0"
     },
     {
         "unit_name": "angstrom",
@@ -45,7 +45,7 @@
         "base_units": "1e-10 meter",
         "base_units_value": 1e-10,
         "unit_string": "angstrom",
-        "formatted_string": "\u00c5"
+        "formated_string": "Å"
     },
     {
         "unit_name": "angstrom_star",
@@ -53,7 +53,7 @@
         "base_units": "1.0000149563431523e-10 meter",
         "base_units_value": 1.0000149563431523e-10,
         "unit_string": "angstrom_star",
-        "formatted_string": "\u00c5_star"
+        "formated_string": "Å*"
     },
     {
         "unit_name": "astronomical_unit",
@@ -61,7 +61,7 @@
         "base_units": "149597870700 meter",
         "base_units_value": 149597870700,
         "unit_string": "astronomical_unit",
-        "formatted_string": "au"
+        "formated_string": "au"
     },
     {
         "unit_name": "atomic_unit_of_length",
@@ -69,7 +69,7 @@
         "base_units": "5.2917721090397754e-11 meter",
         "base_units_value": 5.2917721090397754e-11,
         "unit_string": "bohr",
-        "formatted_string": "a_0"
+        "formated_string": "a0"
     },
     {
         "unit_name": "au",
@@ -77,7 +77,7 @@
         "base_units": "149597870700 meter",
         "base_units_value": 149597870700,
         "unit_string": "astronomical_unit",
-        "formatted_string": "au"
+        "formated_string": "au"
     },
     {
         "unit_name": "big_point",
@@ -85,7 +85,7 @@
         "base_units": "0.00035277777777777776 meter",
         "base_units_value": 0.00035277777777777776,
         "unit_string": "point",
-        "formatted_string": "pp"
+        "formated_string": "pp"
     },
     {
         "unit_name": "bohr",
@@ -93,7 +93,7 @@
         "base_units": "5.2917721090397754e-11 meter",
         "base_units_value": 5.2917721090397754e-11,
         "unit_string": "bohr",
-        "formatted_string": "a_0"
+        "formated_string": "a0"
     },
     {
         "unit_name": "bohr_radius",
@@ -101,7 +101,7 @@
         "base_units": "5.2917721090397754e-11 meter",
         "base_units_value": 5.2917721090397754e-11,
         "unit_string": "bohr",
-        "formatted_string": "a_0"
+        "formated_string": "a0"
     },
     {
         "unit_name": "bp",
@@ -109,7 +109,7 @@
         "base_units": "0.00035277777777777776 meter",
         "base_units_value": 0.00035277777777777776,
         "unit_string": "point",
-        "formatted_string": "pp"
+        "formated_string": "pp"
     },
     {
         "unit_name": "cables_length",
@@ -117,7 +117,7 @@
         "base_units": "219.45643891287781 meter",
         "base_units_value": 219.45643891287781,
         "unit_string": "cables_length",
-        "formatted_string": "cables_length"
+        "formated_string": "cables length"
     },
     {
         "unit_name": "centimeter",
@@ -125,7 +125,7 @@
         "base_units": "0.01 meter",
         "base_units_value": 0.01,
         "unit_string": "centimeter",
-        "formatted_string": "cm"
+        "formated_string": "cm"
     },
     {
         "unit_name": "chain",
@@ -133,7 +133,7 @@
         "base_units": "20.116840233680467 meter",
         "base_units_value": 20.116840233680467,
         "unit_string": "chain",
-        "formatted_string": "chain"
+        "formated_string": "chain"
     },
     {
         "unit_name": "cicero",
@@ -141,7 +141,7 @@
         "base_units": "0.004511278195488722 meter",
         "base_units_value": 0.004511278195488722,
         "unit_string": "cicero",
-        "formatted_string": "cicero"
+        "formated_string": "cicero"
     },
     {
         "unit_name": "classical_electron_radius",
@@ -149,7 +149,7 @@
         "base_units": "2.817940326216153e-15 meter",
         "base_units_value": 2.817940326216153e-15,
         "unit_string": "classical_electron_radius",
-        "formatted_string": "r_e"
+        "formated_string": "re"
     },
     {
         "unit_name": "css_pixel",
@@ -157,7 +157,7 @@
         "base_units": "0.0002645833333333333 meter",
         "base_units_value": 0.0002645833333333333,
         "unit_string": "css_pixel",
-        "formatted_string": "px"
+        "formated_string": "px"
     },
     {
         "unit_name": "d_220",
@@ -165,7 +165,7 @@
         "base_units": "1.920155716e-10 meter",
         "base_units_value": 1.920155716e-10,
         "unit_string": "lattice_spacing_of_si",
-        "formatted_string": "d_220"
+        "formated_string": "d_220"
     },
     {
         "unit_name": "decimeter",
@@ -173,7 +173,7 @@
         "base_units": "0.1 meter",
         "base_units_value": 0.1,
         "unit_string": "decimeter",
-        "formatted_string": "dm"
+        "formated_string": "dm"
     },
     {
         "unit_name": "didot",
@@ -181,7 +181,7 @@
         "base_units": "0.00037593984962406017 meter",
         "base_units_value": 0.00037593984962406017,
         "unit_string": "didot",
-        "formatted_string": "didot"
+        "formated_string": "didot"
     },
     {
         "unit_name": "fathom",
@@ -189,7 +189,7 @@
         "base_units": "1.828803657607315 meter",
         "base_units_value": 1.828803657607315,
         "unit_string": "fathom",
-        "formatted_string": "fathom"
+        "formated_string": "fathom"
     },
     {
         "unit_name": "feet",
@@ -197,7 +197,7 @@
         "base_units": "0.30479999999999996 meter",
         "base_units_value": 0.30479999999999996,
         "unit_string": "foot",
-        "formatted_string": "ft"
+        "formated_string": "ft"
     },
     {
         "unit_name": "femtometer",
@@ -205,7 +205,7 @@
         "base_units": "1e-15 meter",
         "base_units_value": 1e-15,
         "unit_string": "femtometer",
-        "formatted_string": "fm"
+        "formated_string": "fm"
     },
     {
         "unit_name": "fermi",
@@ -213,7 +213,7 @@
         "base_units": "1e-15 meter",
         "base_units_value": 1e-15,
         "unit_string": "fermi",
-        "formatted_string": "fm"
+        "formated_string": "fm"
     },
     {
         "unit_name": "fm",
@@ -221,7 +221,7 @@
         "base_units": "1e-15 meter",
         "base_units_value": 1e-15,
         "unit_string": "fermi",
-        "formatted_string": "fm"
+        "formated_string": "fm"
     },
     {
         "unit_name": "foot",
@@ -229,7 +229,7 @@
         "base_units": "0.30479999999999996 meter",
         "base_units_value": 0.30479999999999996,
         "unit_string": "foot",
-        "formatted_string": "ft"
+        "formated_string": "ft"
     },
     {
         "unit_name": "ft",
@@ -237,7 +237,7 @@
         "base_units": "0.30479999999999996 meter",
         "base_units_value": 0.30479999999999996,
         "unit_string": "foot",
-        "formatted_string": "ft"
+        "formated_string": "ft"
     },
     {
         "unit_name": "fur",
@@ -245,7 +245,7 @@
         "base_units": "201.16840233680466 meter",
         "base_units_value": 201.16840233680466,
         "unit_string": "furlong",
-        "formatted_string": "fur"
+        "formated_string": "fur"
     },
     {
         "unit_name": "furlong",
@@ -253,7 +253,7 @@
         "base_units": "201.16840233680466 meter",
         "base_units_value": 201.16840233680466,
         "unit_string": "furlong",
-        "formatted_string": "fur"
+        "formated_string": "fur"
     },
     {
         "unit_name": "hand",
@@ -261,7 +261,7 @@
         "base_units": "0.1016 meter",
         "base_units_value": 0.1016,
         "unit_string": "hand",
-        "formatted_string": "hand"
+        "formated_string": "hand"
     },
     {
         "unit_name": "in",
@@ -269,7 +269,7 @@
         "base_units": "0.0254 meter",
         "base_units_value": 0.0254,
         "unit_string": "inch",
-        "formatted_string": "in"
+        "formated_string": "in"
     },
     {
         "unit_name": "inch",
@@ -277,7 +277,7 @@
         "base_units": "0.0254 meter",
         "base_units_value": 0.0254,
         "unit_string": "inch",
-        "formatted_string": "in"
+        "formated_string": "in"
     },
     {
         "unit_name": "inches",
@@ -285,7 +285,7 @@
         "base_units": "0.0254 meter",
         "base_units_value": 0.0254,
         "unit_string": "inch",
-        "formatted_string": "in"
+        "formated_string": "in"
     },
     {
         "unit_name": "international_feet",
@@ -293,7 +293,7 @@
         "base_units": "0.30479999999999996 meter",
         "base_units_value": 0.30479999999999996,
         "unit_string": "foot",
-        "formatted_string": "ft"
+        "formated_string": "ft"
     },
     {
         "unit_name": "international_foot",
@@ -301,7 +301,7 @@
         "base_units": "0.30479999999999996 meter",
         "base_units_value": 0.30479999999999996,
         "unit_string": "foot",
-        "formatted_string": "ft"
+        "formated_string": "ft"
     },
     {
         "unit_name": "international_inch",
@@ -309,7 +309,7 @@
         "base_units": "0.0254 meter",
         "base_units_value": 0.0254,
         "unit_string": "inch",
-        "formatted_string": "in"
+        "formated_string": "in"
     },
     {
         "unit_name": "international_inches",
@@ -317,7 +317,7 @@
         "base_units": "0.0254 meter",
         "base_units_value": 0.0254,
         "unit_string": "inch",
-        "formatted_string": "in"
+        "formated_string": "in"
     },
     {
         "unit_name": "international_mile",
@@ -325,7 +325,7 @@
         "base_units": "1609.344 meter",
         "base_units_value": 1609.344,
         "unit_string": "mile",
-        "formatted_string": "mi"
+        "formated_string": "mi"
     },
     {
         "unit_name": "international_yard",
@@ -333,7 +333,7 @@
         "base_units": "0.9144 meter",
         "base_units_value": 0.9144,
         "unit_string": "yard",
-        "formatted_string": "yd"
+        "formated_string": "yd"
     },
     {
         "unit_name": "kilometer",
@@ -341,7 +341,7 @@
         "base_units": "1000.0 meter",
         "base_units_value": 1000.0,
         "unit_string": "kilometer",
-        "formatted_string": "km"
+        "formated_string": "km"
     },
     {
         "unit_name": "lattice_spacing_of_Si",
@@ -349,7 +349,7 @@
         "base_units": "1.920155716e-10 meter",
         "base_units_value": 1.920155716e-10,
         "unit_string": "lattice_spacing_of_Si",
-        "formatted_string": "d_220"
+        "formated_string": "d220"
     },
     {
         "unit_name": "league",
@@ -357,7 +357,7 @@
         "base_units": "4828.041656083312 meter",
         "base_units_value": 4828.041656083312,
         "unit_string": "league",
-        "formatted_string": "league"
+        "formated_string": "league"
     },
     {
         "unit_name": "li",
@@ -365,7 +365,7 @@
         "base_units": "0.20116840233680466 meter",
         "base_units_value": 0.20116840233680466,
         "unit_string": "link",
-        "formatted_string": "li"
+        "formated_string": "li"
     },
     {
         "unit_name": "light_year",
@@ -373,7 +373,7 @@
         "base_units": "9460730472580800.0 meter",
         "base_units_value": 9460730472580800.0,
         "unit_string": "light_year",
-        "formatted_string": "ly"
+        "formated_string": "ly"
     },
     {
         "unit_name": "lightyear",
@@ -381,7 +381,7 @@
         "base_units": "9460730472580800.0 meter",
         "base_units_value": 9460730472580800.0,
         "unit_string": "light_year",
-        "formatted_string": "ly"
+        "formated_string": "ly"
     },
     {
         "unit_name": "link",
@@ -389,7 +389,7 @@
         "base_units": "0.20116840233680466 meter",
         "base_units_value": 0.20116840233680466,
         "unit_string": "link",
-        "formatted_string": "li"
+        "formated_string": "li"
     },
     {
         "unit_name": "ly",
@@ -397,7 +397,7 @@
         "base_units": "9460730472580800.0 meter",
         "base_units_value": 9460730472580800.0,
         "unit_string": "light_year",
-        "formatted_string": "ly"
+        "formated_string": "ly"
     },
     {
         "unit_name": "m",
@@ -405,7 +405,7 @@
         "base_units": "1 meter",
         "base_units_value": 1,
         "unit_string": "meter",
-        "formatted_string": "m"
+        "formated_string": "m"
     },
     {
         "unit_name": "meter",
@@ -413,7 +413,7 @@
         "base_units": "1 meter",
         "base_units_value": 1,
         "unit_string": "meter",
-        "formatted_string": "m"
+        "formated_string": "m"
     },
     {
         "unit_name": "metre",
@@ -421,7 +421,7 @@
         "base_units": "1 meter",
         "base_units_value": 1,
         "unit_string": "meter",
-        "formatted_string": "m"
+        "formated_string": "m"
     },
     {
         "unit_name": "mi",
@@ -429,7 +429,7 @@
         "base_units": "1609.344 meter",
         "base_units_value": 1609.344,
         "unit_string": "mile",
-        "formatted_string": "mi"
+        "formated_string": "mi"
     },
     {
         "unit_name": "micrometer",
@@ -437,7 +437,7 @@
         "base_units": "1e-06 meter",
         "base_units_value": 1e-06,
         "unit_string": "micrometer",
-        "formatted_string": "\u00b5m"
+        "formated_string": "μ"
     },
     {
         "unit_name": "micron",
@@ -445,7 +445,7 @@
         "base_units": "1e-06 meter",
         "base_units_value": 1e-06,
         "unit_string": "micron",
-        "formatted_string": "\u00b5"
+        "formated_string": "μ"
     },
     {
         "unit_name": "mil_length",
@@ -453,7 +453,7 @@
         "base_units": "2.5399999999999997e-05 meter",
         "base_units_value": 2.5399999999999997e-05,
         "unit_string": "thou",
-        "formatted_string": "th"
+        "formated_string": "th"
     },
     {
         "unit_name": "mile",
@@ -461,7 +461,7 @@
         "base_units": "1609.344 meter",
         "base_units_value": 1609.344,
         "unit_string": "mile",
-        "formatted_string": "mi"
+        "formated_string": "mi"
     },
     {
         "unit_name": "millimeter",
@@ -469,7 +469,7 @@
         "base_units": "0.001 meter",
         "base_units_value": 0.001,
         "unit_string": "millimeter",
-        "formatted_string": "mm"
+        "formated_string": "mm"
     },
     {
         "unit_name": "nautical_mile",
@@ -477,7 +477,7 @@
         "base_units": "1852 meter",
         "base_units_value": 1852,
         "unit_string": "nautical_mile",
-        "formatted_string": "nmi"
+        "formated_string": "nmi"
     },
     {
         "unit_name": "nmi",
@@ -485,7 +485,7 @@
         "base_units": "1852 meter",
         "base_units_value": 1852,
         "unit_string": "nautical_mile",
-        "formatted_string": "nmi"
+        "formated_string": "nmi"
     },
     {
         "unit_name": "parsec",
@@ -493,7 +493,7 @@
         "base_units": "3.0856775814671916e+16 meter",
         "base_units_value": 3.0856775814671916e+16,
         "unit_string": "parsec",
-        "formatted_string": "pc"
+        "formated_string": "pc"
     },
     {
         "unit_name": "pc",
@@ -501,7 +501,7 @@
         "base_units": "3.0856775814671916e+16 meter",
         "base_units_value": 3.0856775814671916e+16,
         "unit_string": "parsec",
-        "formatted_string": "pc"
+        "formated_string": "pc"
     },
     {
         "unit_name": "perch",
@@ -509,7 +509,7 @@
         "base_units": "5.029210058420117 meter",
         "base_units_value": 5.029210058420117,
         "unit_string": "rod",
-        "formatted_string": "rd"
+        "formated_string": "rd"
     },
     {
         "unit_name": "pica",
@@ -517,7 +517,7 @@
         "base_units": "0.004233333333333333 meter",
         "base_units_value": 0.004233333333333333,
         "unit_string": "pica",
-        "formatted_string": "pica"
+        "formated_string": "pica"
     },
     {
         "unit_name": "planck_length",
@@ -525,7 +525,7 @@
         "base_units": "1.616255024423705e-35 meter",
         "base_units_value": 1.616255024423705e-35,
         "unit_string": "planck_length",
-        "formatted_string": "planck_length"
+        "formated_string": "planck length"
     },
     {
         "unit_name": "point",
@@ -533,7 +533,7 @@
         "base_units": "0.00035277777777777776 meter",
         "base_units_value": 0.00035277777777777776,
         "unit_string": "point",
-        "formatted_string": "pp"
+        "formated_string": "pp"
     },
     {
         "unit_name": "pole",
@@ -541,7 +541,7 @@
         "base_units": "5.029210058420117 meter",
         "base_units_value": 5.029210058420117,
         "unit_string": "rod",
-        "formatted_string": "rd"
+        "formated_string": "rd"
     },
     {
         "unit_name": "pp",
@@ -549,7 +549,7 @@
         "base_units": "0.00035277777777777776 meter",
         "base_units_value": 0.00035277777777777776,
         "unit_string": "point",
-        "formatted_string": "pp"
+        "formated_string": "pp"
     },
     {
         "unit_name": "printers_pica",
@@ -557,7 +557,7 @@
         "base_units": "0.004233333333333333 meter",
         "base_units_value": 0.004233333333333333,
         "unit_string": "pica",
-        "formatted_string": "pica"
+        "formated_string": "pica"
     },
     {
         "unit_name": "printers_point",
@@ -565,7 +565,7 @@
         "base_units": "0.00035277777777777776 meter",
         "base_units_value": 0.00035277777777777776,
         "unit_string": "point",
-        "formatted_string": "pp"
+        "formated_string": "pp"
     },
     {
         "unit_name": "px",
@@ -573,7 +573,7 @@
         "base_units": "0.0002645833333333333 meter",
         "base_units_value": 0.0002645833333333333,
         "unit_string": "css_pixel",
-        "formatted_string": "px"
+        "formated_string": "px"
     },
     {
         "unit_name": "r_e",
@@ -581,7 +581,7 @@
         "base_units": "2.817940326216153e-15 meter",
         "base_units_value": 2.817940326216153e-15,
         "unit_string": "classical_electron_radius",
-        "formatted_string": "r_e"
+        "formated_string": "re"
     },
     {
         "unit_name": "rd",
@@ -589,7 +589,7 @@
         "base_units": "5.029210058420117 meter",
         "base_units_value": 5.029210058420117,
         "unit_string": "rod",
-        "formatted_string": "rd"
+        "formated_string": "rd"
     },
     {
         "unit_name": "rod",
@@ -597,7 +597,7 @@
         "base_units": "5.029210058420117 meter",
         "base_units_value": 5.029210058420117,
         "unit_string": "rod",
-        "formatted_string": "rd"
+        "formated_string": "rd"
     },
     {
         "unit_name": "scaled_point",
@@ -605,7 +605,7 @@
         "base_units": "5.362851005776947e-09 meter",
         "base_units_value": 5.362851005776947e-09,
         "unit_string": "scaled_point",
-        "formatted_string": "scaled_point"
+        "formated_string": "scaled_point"
     },
     {
         "unit_name": "sft",
@@ -613,7 +613,7 @@
         "base_units": "0.3048006096012192 meter",
         "base_units_value": 0.3048006096012192,
         "unit_string": "survey_foot",
-        "formatted_string": "sft"
+        "formated_string": "sft"
     },
     {
         "unit_name": "smi",
@@ -621,7 +621,7 @@
         "base_units": "1609.3472186944373 meter",
         "base_units_value": 1609.3472186944373,
         "unit_string": "survey_mile",
-        "formatted_string": "smi"
+        "formated_string": "smi"
     },
     {
         "unit_name": "statF",
@@ -629,7 +629,7 @@
         "base_units": "0.010000000000000004 meter",
         "base_units_value": 0.010000000000000004,
         "unit_string": "statfarad",
-        "formatted_string": "statF"
+        "formated_string": "statF"
     },
     {
         "unit_name": "statfarad",
@@ -637,7 +637,7 @@
         "base_units": "0.010000000000000004 meter",
         "base_units_value": 0.010000000000000004,
         "unit_string": "statfarad",
-        "formatted_string": "statF"
+        "formated_string": "statF"
     },
     {
         "unit_name": "survey_foot",
@@ -645,7 +645,7 @@
         "base_units": "0.3048006096012192 meter",
         "base_units_value": 0.3048006096012192,
         "unit_string": "survey_foot",
-        "formatted_string": "sft"
+        "formated_string": "sft"
     },
     {
         "unit_name": "survey_link",
@@ -653,7 +653,7 @@
         "base_units": "0.20116840233680466 meter",
         "base_units_value": 0.20116840233680466,
         "unit_string": "link",
-        "formatted_string": "li"
+        "formated_string": "li"
     },
     {
         "unit_name": "survey_mile",
@@ -661,7 +661,7 @@
         "base_units": "1609.3472186944373 meter",
         "base_units_value": 1609.3472186944373,
         "unit_string": "survey_mile",
-        "formatted_string": "smi"
+        "formated_string": "smi"
     },
     {
         "unit_name": "tex_cicero",
@@ -669,7 +669,7 @@
         "base_units": "0.004512780329311036 meter",
         "base_units_value": 0.004512780329311036,
         "unit_string": "tex_cicero",
-        "formatted_string": "tex_cicero"
+        "formated_string": "tex_cicero"
     },
     {
         "unit_name": "tex_didot",
@@ -677,7 +677,7 @@
         "base_units": "0.0003760650274425863 meter",
         "base_units_value": 0.0003760650274425863,
         "unit_string": "tex_didot",
-        "formatted_string": "tex_didot"
+        "formated_string": "tex_didot"
     },
     {
         "unit_name": "tex_pica",
@@ -685,7 +685,7 @@
         "base_units": "0.004217517642175176 meter",
         "base_units_value": 0.004217517642175176,
         "unit_string": "tex_pica",
-        "formatted_string": "tex_pica"
+        "formated_string": "tex_pica"
     },
     {
         "unit_name": "tex_point",
@@ -693,7 +693,7 @@
         "base_units": "0.000351459803514598 meter",
         "base_units_value": 0.000351459803514598,
         "unit_string": "tex_point",
-        "formatted_string": "tex_point"
+        "formated_string": "tex_point"
     },
     {
         "unit_name": "th",
@@ -701,7 +701,7 @@
         "base_units": "2.5399999999999997e-05 meter",
         "base_units_value": 2.5399999999999997e-05,
         "unit_string": "thou",
-        "formatted_string": "th"
+        "formated_string": "th"
     },
     {
         "unit_name": "thou",
@@ -709,7 +709,7 @@
         "base_units": "2.5399999999999997e-05 meter",
         "base_units_value": 2.5399999999999997e-05,
         "unit_string": "thou",
-        "formatted_string": "th"
+        "formated_string": "th"
     },
     {
         "unit_name": "us_statute_mile",
@@ -717,7 +717,7 @@
         "base_units": "1609.3472186944373 meter",
         "base_units_value": 1609.3472186944373,
         "unit_string": "survey_mile",
-        "formatted_string": "smi"
+        "formated_string": "smi"
     },
     {
         "unit_name": "x_unit_Cu",
@@ -725,7 +725,7 @@
         "base_units": "1.0020769740995953e-13 meter",
         "base_units_value": 1.0020769740995953e-13,
         "unit_string": "x_unit_Cu",
-        "formatted_string": "Xu_Cu"
+        "formated_string": "Xu_Cu"
     },
     {
         "unit_name": "x_unit_Mo",
@@ -733,7 +733,7 @@
         "base_units": "1.002099539623052e-13 meter",
         "base_units_value": 1.002099539623052e-13,
         "unit_string": "x_unit_Mo",
-        "formatted_string": "Xu_Mo"
+        "formated_string": "Xu_Mo"
     },
     {
         "unit_name": "yard",
@@ -741,7 +741,7 @@
         "base_units": "0.9144 meter",
         "base_units_value": 0.9144,
         "unit_string": "yard",
-        "formatted_string": "yd"
+        "formated_string": "yd"
     },
     {
         "unit_name": "yd",
@@ -749,7 +749,7 @@
         "base_units": "0.9144 meter",
         "base_units_value": 0.9144,
         "unit_string": "yard",
-        "formatted_string": "yd"
+        "formated_string": "yd"
     },
     {
         "unit_name": "\u00b5",
@@ -757,7 +757,7 @@
         "base_units": "1e-06 meter",
         "base_units_value": 1e-06,
         "unit_string": "micron",
-        "formatted_string": "\u00b5"
+        "formated_string": "\u00b5"
     },
     {
         "unit_name": "\u00c5",
@@ -765,7 +765,7 @@
         "base_units": "1e-10 meter",
         "base_units_value": 1e-10,
         "unit_string": "angstrom",
-        "formatted_string": "\u00c5"
+        "formated_string": "\u00c5"
     },
     {
         "unit_name": "\u00c5_star",
@@ -773,7 +773,7 @@
         "base_units": "1.0000149563431523e-10 meter",
         "base_units_value": 1.0000149563431523e-10,
         "unit_string": "angstrom_star",
-        "formatted_string": "\u00c5_star"
+        "formated_string": "Å*"
     },
     {
         "unit_name": "\u00e5ngstr\u00f6m",
@@ -781,7 +781,7 @@
         "base_units": "1e-10 meter",
         "base_units_value": 1e-10,
         "unit_string": "angstrom",
-        "formatted_string": "\u00c5"
+        "formated_string": "\u00c5"
     },
     {
         "unit_name": "\u03bc",
@@ -789,7 +789,7 @@
         "base_units": "1e-06 meter",
         "base_units_value": 1e-06,
         "unit_string": "micron",
-        "formatted_string": "\u00b5"
+        "formated_string": "\u00b5"
     },
     {
         "unit_name": "\u212b",
@@ -797,6 +797,6 @@
         "base_units": "1e-10 meter",
         "base_units_value": 1e-10,
         "unit_string": "angstrom",
-        "formatted_string": "\u00c5"
+        "formated_string": "Å"
     }
 ]
