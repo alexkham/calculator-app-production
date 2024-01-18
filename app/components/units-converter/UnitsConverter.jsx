@@ -45,7 +45,7 @@ function UnitsConverter({conversionType}) {
     }
 
     loadCalculationData();
-  }, [data,conversionType,loadDataFromAPI]); 
+  }, [data,conversionType]); 
   
   useEffect(() => {
     if (from && data) {
@@ -137,7 +137,7 @@ const calculateConversion = useCallback(async() => {
       const convertedValue = (number * fromUnit.base_units_value) / toUnit.base_units_value;
       setResult(convertedValue);
   }
-}}, [number, from, to, data,conversionType,convertTemperature]);
+}}, [number, from, to, data]);
 
 useEffect(() => {
   if (number && from && to) {
