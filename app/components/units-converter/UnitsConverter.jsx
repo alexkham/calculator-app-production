@@ -108,7 +108,7 @@ function UnitsConverter({conversionType}) {
     console.log(pintFromUnit)
     console.log(pintToUnit)
     try {
-      const response = await fetch(`https://154.56.46.133:8000/api/temperature/?value=17&from_unit=degC&to_unit=degF`,{
+      const response = await fetch(`https://154.56.46.133:8000/temperature/?value=17&from_unit=degC&to_unit=degF`,{
         mode: 'no-cors',
         method: "get",
         headers: {
