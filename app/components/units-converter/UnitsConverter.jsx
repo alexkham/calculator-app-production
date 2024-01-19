@@ -108,7 +108,7 @@ function UnitsConverter({conversionType}) {
     console.log(pintFromUnit)
     console.log(pintToUnit)
     try {
-      const response = await fetch(` http://0.0.0.0:8000/temperature/?value=${number}&from_unit=${pintFromUnit}&to_unit=${pintToUnit}`);
+      const response = await fetch(` http://154.56.46.133:8000/temperature/?value=${number}&from_unit=${pintFromUnit}&to_unit=${pintToUnit}`);
      
       if (!response.ok) {
         throw new Error('Network response was not ok');
