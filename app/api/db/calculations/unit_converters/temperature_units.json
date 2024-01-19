@@ -18,10 +18,5 @@
         "unit_string": "rankine",
         "dimensionality": "temperature",
         "formated_string": "°R"
-    },
-    {
-        "unit_string": "réaumur",
-        "dimensionality": "temperature",
-        "formated_string": "°Ré"
     }
 ]

@@ -95,8 +95,8 @@ function UnitsConverter({conversionType}) {
   'Celsius': 'degC',
   'Fahrenheit': 'degF',
   'Kelvin': 'degK',
-  'Rankine': 'degR',
-  'Réaumur': 'degRe',
+  'Rankine': 'degR'
+  // 'Réaumur': 'degRe',
 
  }
 
