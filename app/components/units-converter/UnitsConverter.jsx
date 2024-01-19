@@ -108,7 +108,7 @@ function UnitsConverter({conversionType}) {
     console.log(pintFromUnit)
     console.log(pintToUnit)
     try {
-      const response = await fetch(`http://www.calculateonline.net/api/temperature/?value=${number}&from_unit=${pintFromUnit}&to_unit=${pintToUnit}`);
+      const response = await fetch(`/api/temperature/?value=${number}&from_unit=${pintFromUnit}&to_unit=${pintToUnit}`);
      
       if (!response.ok) {
         throw new Error('Network response was not ok');
