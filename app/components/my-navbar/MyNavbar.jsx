@@ -40,6 +40,7 @@ function fixNav(){
          </ul>
         
         </li>
+      <li><Link href='/base-converter'>Base Converter</Link></li>
       <li className="dropdown" >
         Units Conversion  
         <ul className="dropdown-content">

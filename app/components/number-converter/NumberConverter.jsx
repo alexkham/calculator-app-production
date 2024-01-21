@@ -1,48 +1,175 @@
-import React from 'react'
+'use client'
 
-function NumberConverter({styles={}}) {
+import React ,{ useEffect, useState} from 'react'
+import { convertNumber,isValidInput } from '@/app/utils/calculations';
 
+function NumberConverter({ styles = {},title='' }) {
+  const { titleClass = '',bodyClass='', mainClass = '',
+  inputClass='',selectClass='',errorClass='',buttongroupClass='',
+  selectgroupClass='',resetbuttonClass='',convertbuttonClass='',
+  inputgroupClass='' ,outputClass='',inputselectClass=''} = styles;
+  const [inputNumber, setInputNumber] = React.useState('');
+  const [inputFormat, setInputFormat] = React.useState('decimal');
+  const [outputFormat, setOutputFormat] = React.useState('binary');
+  const [convertedNumber, setConvertedNumber] = React.useState('');
+  const [isInputValid, setIsInputValid] = useState(true);
 
-    const {headerClass='',bodyClass='', footerClass=''}=styles
+  const handleConvert = () => {
+      if(!inputNumber){
+        alert("No Number to Convert")
+      }
+      const result = convertNumber(inputNumber, inputFormat, outputFormat);
+      // if(!isNaN(result))
+      setConvertedNumber(result);
+  };
 
-   // Usage
-   //<MyComponent styles={{ headerClass: 'header-style', contentClass: 'content-style', footerClass: 'footer-style' }} />
-   
-    function decimalToBinary(decimal) {
-        let integerPart = Math.floor(decimal);
-        let fractionalPart = decimal - integerPart;
-        let binaryIntegerPart = "";
-        let binaryFractionalPart = "";
-    
-        // Convert integer part
-        while (integerPart > 0) {
-            binaryIntegerPart = (integerPart % 2) + binaryIntegerPart;
-            integerPart = Math.floor(integerPart / 2);
-        }
-    
-        // Convert fractional part
-        let iterationLimit = 20;  // Limit the number of iterations to avoid infinite loop
-        while (fractionalPart > 0 && iterationLimit > 0) {
-            fractionalPart *= 2;
-            let fractionalBit = Math.floor(fractionalPart);
-            binaryFractionalPart += fractionalBit;
-            fractionalPart -= fractionalBit;
-            iterationLimit--;
-        }
-    
-        // Combine both parts
-        return binaryIntegerPart + '.' + binaryFractionalPart;
+//   function convertNumber(inputNumber, inputFormat, outputFormat) {
+//     let number = inputNumber;
+
+//     // Convert input to decimal (base 10) first
+//     switch (inputFormat) {
+//         case 'binary':
+//             number = parseInt(inputNumber, 2);
+//             break;
+//         case 'hexadecimal':
+//             number = parseInt(inputNumber, 16);
+//             break;
+//         case 'octal':
+//             number = parseInt(inputNumber, 8);
+//             break;
+//         default:
+//             number = parseInt(inputNumber, 10); // Assume decimal
+//     }
+
+//     // Now convert from decimal to desired output format
+//     switch (outputFormat) {
+//         case 'binary':
+//             return number.toString(2);
+//         case 'hexadecimal':
+//             return number.toString(16);
+//         case 'octal':
+//             return number.toString(8);
+//         default:
+//             return number.toString(); // Default to decimal
+//     }
+// }
+  const validateInput=(e)=>{
+    const input=e.target.value;
+    if(input===''){
+      setIsInputValid(true)
     }
+    else if(inputFormat&&!isValidInput(input,inputFormat)){
+      setIsInputValid(false)
+    }else{
+      setIsInputValid(true)
+    }
+
+  }
+
+  // useEffect (()=>{
     
-   
-    
+  //  if(!isValidInput(inputNumber,inputFormat)){
+  //   setIsInputValid(false)
+  //  }else{
+  //   if(input===''){
+  //     setIsInputValid(true)
+  //   }else
+  //   setIsInputValid(true)
+  //  }
+
+  // }, [inputNumber])
+
+//   useEffect(() => {
+//     // Actions to perform after inputFormat changes
+//     console.log("From use Effect :"+inputFormat);
+//     // Other logic...
+// }, [inputFormat]);
+
+
+  const resetAll=()=>{
+    setInputNumber('');
+    setInputFormat('decimal');
+    setOutputFormat('decimal');
+    setConvertedNumber('')
+    setIsInputValid(true)
+
+  }
+  const handleChange=(e)=>{
+    const number=e.target.value;
+    setInputNumber(number)
+    if(isValidInput(number,inputFormat||number==='')){
+       setIsInputValid(true)
+    }else{
+      setIsInputValid(false)
+    }
+  }
+  const handleSelectChange=(e)=>{
+    const newInputFormat=e.target.value
+    setInputFormat(newInputFormat);
+    console.log("Updated inputFormat to:", newInputFormat);
+    if(isValidInput(inputNumber,newInputFormat)||inputNumber===''){
+      setIsInputValid(true)      
+    }else{
+      setIsInputValid(false)
+    }
+  }
+
   return (
-    <>
-    <div className={bodyClass}>
-    <div className={headerClass}>NumberConverter</div>
-    </div>
-    </>
-  )
+      <div className={mainClass}>
+        
+         <div className={titleClass}>{title}</div>
+          <div  className={bodyClass}>
+            <div className={inputgroupClass}>
+              <label>Number : </label>
+              <input 
+                  type="text" 
+                  value={inputNumber}
+                  onKeyUp={(e)=>validateInput(e)}
+                  onChange={(e) =>handleChange(e)}
+                  placeholder="Enter number to convert"
+                  className={inputClass}
+              />
+               {!isInputValid && <div className={errorClass}>Please  enter  valid  {inputFormat}  number</div>}
+               </div> 
+               <div className={selectgroupClass}>
+                <div className={inputselectClass}>
+              <label>From : </label>
+              <select
+               value={inputFormat}
+                onChange={(e) => handleSelectChange(e)}
+                className={selectClass}>
+                  <option value="decimal">Decimal</option>
+                  <option value="binary">Binary</option>
+                  <option value="hexadecimal">Hexadecimal</option>
+                  <option value="octal">Octal</option>
+              </select>
+              </div>
+              <div className={inputselectClass}>
+              <label>To :   </label>
+              <select value={outputFormat}
+               onChange={(e) => setOutputFormat(e.target.value)}
+               className={selectClass}>
+                  <option value="decimal">Decimal</option>
+                  <option value="binary">Binary</option>
+                  <option value="hexadecimal">Hexadecimal</option>
+                  <option value="octal">Octal</option>
+              </select>
+              </div>
+              </div>
+              <div className={buttongroupClass}>
+              <button onClick={handleConvert} className={convertbuttonClass}>Convert</button>
+              <button onClick={resetAll} className={resetbuttonClass}>Reset  </button>
+              </div>
+              <label style={{marginLeft:'30px',marginTop:'20px',fontWeight:'bold'}}>Result : </label>
+              <div className={outputClass}>
+                
+                <span > {convertedNumber}</span>
+                </div>
+              </div>
+              
+          
+      </div>
+  );
 }
 
-export default NumberConverter
+export default NumberConverter;
