@@ -77,7 +77,7 @@ export default function Home() {
     <br></br>   
     <br></br>   
     <br></br> 
-    <NumberConverter title={"Numbers Base Converter"} styles={{titleClass:'title',mainClass:'converter'}}></NumberConverter>  
+    {/* <NumberConverter title={"Numbers Base Converter"} styles={{titleClass:'title',mainClass:'converter'}}></NumberConverter>   */}
     <br></br>   
     <br></br>   
     <br></br>   

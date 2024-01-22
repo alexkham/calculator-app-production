@@ -2,6 +2,7 @@
 
 import React ,{ useEffect, useState} from 'react'
 import { convertNumber,isValidInput } from '@/app/utils/calculations';
+import MyModal from '../my-modal/MyModal';
 
 function NumberConverter({ styles = {},title='' }) {
   const { titleClass = '',bodyClass='', mainClass = '',
@@ -13,6 +14,7 @@ function NumberConverter({ styles = {},title='' }) {
   const [outputFormat, setOutputFormat] = React.useState('binary');
   const [convertedNumber, setConvertedNumber] = React.useState('');
   const [isInputValid, setIsInputValid] = useState(true);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const handleConvert = () => {
       if(!inputNumber){
@@ -166,6 +168,13 @@ function NumberConverter({ styles = {},title='' }) {
                 <span > {convertedNumber}</span>
                 </div>
               </div>
+
+              {/* <div>
+            <button onClick={() => setIsModalOpen(true)}>Open Modal</button>
+            <MyModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)}>
+                <p>This is a modal!</p>
+            </MyModal>
+        </div> */}
               
           
       </div>
