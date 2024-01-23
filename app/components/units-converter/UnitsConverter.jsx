@@ -17,7 +17,7 @@ function UnitsConverter({conversionType}) {
 
   const loadDataFromAPI = async () => {
     try {
-      const response = await fetch(`localhost:8001/${conversionType}/${number}/${from}/${to}`); 
+      const response = await fetch(`www.pickjourney.com/${conversionType}/${number}/${from}/${to}`); 
       const data = await response.json();
       setResult(data.result);
     } catch (error) {
@@ -108,7 +108,7 @@ function UnitsConverter({conversionType}) {
     console.log(pintFromUnit)
     console.log(pintToUnit)
     try {
-      const response = await fetch(`http://localhost:8000/temperature/?value=${number}&from_unit=${pintFromUnit}&to_unit=${pintToUnit}`);
+      const response = await fetch(`https://pickjourney.com/temperature/?value=${number}&from_unit=${pintFromUnit}&to_unit=${pintToUnit}`);
      
       if (!response.ok) {
         throw new Error('Network response was not ok');
