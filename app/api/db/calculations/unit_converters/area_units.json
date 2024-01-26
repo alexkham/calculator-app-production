@@ -1,5 +1,13 @@
 [
     {
+        "unit_name": "square_meter",
+        "dimensionality": "[length] ** 2",
+        "base_units_value": 1,
+        "unit_string": "square_meter",
+        "formatted_string": "m3"
+    },
+    
+    {
         "unit_name": "acre",
         "dimensionality": "[length] ** 2",
         "base_units_value": 4046.8726098742513,
