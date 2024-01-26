@@ -5,6 +5,7 @@ import DecimalToAnyBaseConverter from '@/app/components/decimal-to-any/DecimalTo
 import ButtonGroup from '@/app/components/button-group/ButtonGroup';
 import buttonData from '../../api/db/calculations/converters/converters.json'
 import Head from 'next/head';
+import ScrollUpButton from '@/app/components/scroll-up-button/ScrollUpButton';
 
 
 // Create a lookup object
@@ -49,6 +50,18 @@ export default function page({params}) {
        
      <br></br>
      <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     <ScrollUpButton></ScrollUpButton>
       
     </div>
     </>

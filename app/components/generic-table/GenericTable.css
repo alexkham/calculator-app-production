@@ -21,6 +21,9 @@ table {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    overflow: visible; /* Allow content to expand the cell */
+    white-space: normal;
+    word-break: break-word;
     
   }
 
@@ -43,6 +46,7 @@ table {
   .my-table thead td{
     padding: 10px;
     font-size: small;
+    min-height: 100px;
   }
   
   .my-table tbody tr:nth-child(odd) {
@@ -115,3 +119,31 @@ table {
   
   /*#0b5cff;*/
   /* #a56afe */
+
+  /* ... existing CSS ... */
+
+.my-table.style-left-column td:first-child {
+  /* Apply the same styles as the header */
+  font-weight: 400;
+  background-color: #a56afe;
+  color: black;
+  text-align: left; /* Align text to the left */
+  white-space: nowrap; /* Keep text in a single line */
+  padding-left: 10px; /* Add some padding for better readability */
+  max-width: 20px;
+  width:20%;
+  overflow: visible; /* Allow content to expand the cell */
+  white-space: normal;
+  word-break: break-word;
+  text-transform: capitalize;
+  font-size:200;
+}
+
+/* .my-table.style-left-column tr:hover td:first-child {
+  
+  background-color: #9b58b5;
+} */
+
+.my-table tr {
+  height: 60px; /* Adjust as needed */
+}

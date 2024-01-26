@@ -1,0 +1,159 @@
+{
+  "tableTitle": "SI Coherent Derived Units with Special Names and Symbols",
+  "rows": [
+    {
+      "derived_Quantity": "Plane Angle",
+      "special_Name": "Radian",
+      "symbol": "rad",
+      "expression_In_Terms_Of_Other_SI_Units": "1",
+      "expression_In_Terms_Of_SI_Base_Units": "m/m"
+    },
+    {
+      "derived_Quantity": "Solid Angle",
+      "special_Name": "Steradian",
+      "symbol": "sr",
+      "expression_In_Terms_Of_Other_SI_Units": "1",
+      "expression_In_Terms_Of_SI_Base_Units": "m²/m²"
+    },
+    {
+      "derived_Quantity": "Frequency",
+      "special_Name": "Hertz",
+      "symbol": "Hz",
+      "expression_In_Terms_Of_Other_SI_Units": "",
+      "expression_In_Terms_Of_SI_Base_Units": "s⁻¹"
+    },
+    {
+      "derived_Quantity": "Force",
+      "special_Name": "Newton",
+      "symbol": "N",
+      "expression_In_Terms_Of_Other_SI_Units": "",
+      "expression_In_Terms_Of_SI_Base_Units": "m·kg·s⁻²"
+    },
+    {
+      "derived_Quantity": "Pressure, Stress",
+      "special_Name": "Pascal",
+      "symbol": "Pa",
+      "expression_In_Terms_Of_Other_SI_Units": "N/m²",
+      "expression_In_Terms_Of_SI_Base_Units": "m⁻¹·kg·s⁻²"
+    },
+    {
+      "derived_Quantity": "Energy, Work, Amount of Heat",
+      "special_Name": "Joule",
+      "symbol": "J",
+      "expression_In_Terms_Of_Other_SI_Units": "N·m",
+      "expression_In_Terms_Of_SI_Base_Units": "m²·kg·s⁻²"
+    },
+    {
+      "derived_Quantity": "Power, Radiant Flux",
+      "special_Name": "Watt",
+      "symbol": "W",
+      "expression_In_Terms_Of_Other_SI_Units": "J/s",
+      "expression_In_Terms_Of_SI_Base_Units": "m²·kg·s⁻³"
+    },
+    {
+      "derived_Quantity": "Electric Charge, Amount of Electricity",
+      "special_Name": "Coulomb",
+      "symbol": "C",
+      "expression_In_Terms_Of_Other_SI_Units": "",
+      "expression_In_Terms_Of_SI_Base_Units": "s·A"
+    },
+    {
+      "derived_Quantity": "Electric Potential Difference, Electromotive Force",
+      "special_Name": "Volt",
+      "symbol": "V",
+      "expression_In_Terms_Of_Other_SI_Units": "W/A",
+      "expression_In_Terms_Of_SI_Base_Units": "m²·kg·s⁻³·A⁻¹"
+    },
+    {
+      "derived_Quantity": "Capacitance",
+      "special_Name": "Farad",
+      "symbol": "F",
+      "expression_In_Terms_Of_Other_SI_Units": "C/V",
+      "expression_In_Terms_Of_SI_Base_Units": "m⁻²·kg⁻¹·s⁴·A²"
+    },
+    {
+      "derived_Quantity": "Electric Resistance",
+      "special_Name": "Ohm",
+      "symbol": "Ω",
+      "expression_In_Terms_Of_Other_SI_Units": "V/A",
+      "expression_In_Terms_Of_SI_Base_Units": "m²·kg·s⁻³·A⁻²"
+    },
+    {
+      "derived_Quantity": "Electric Conductance",
+      "special_Name": "Siemens",
+      "symbol": "S",
+      "expression_In_Terms_Of_Other_SI_Units": "A/V",
+      "expression_In_Terms_Of_SI_Base_Units": "m⁻²·kg⁻¹·s³·A²"
+    },
+    {
+      "derived_Quantity": "Magnetic Flux",
+      "special_Name": "Weber",
+      "symbol": "Wb",
+      "expression_In_Terms_Of_Other_SI_Units": "V·s",
+      "expression_In_Terms_Of_SI_Base_Units": "m²·kg·s⁻²·A⁻¹"
+    },
+    {
+      "derived_Quantity": "Magnetic Flux Density",
+      "special_Name": "Tesla",
+      "symbol": "T",
+      "expression_In_Terms_Of_Other_SI_Units": "Wb/m²",
+      "expression_In_Terms_Of_SI_Base_Units": "kg·s⁻²·A⁻¹"
+    },
+    {
+      "derived_Quantity": "Inductance",
+      "special_Name": "Henry",
+      "symbol": "H",
+      "expression_In_Terms_Of_Other_SI_Units": "Wb/A",
+      "expression_In_Terms_Of_SI_Base_Units": "m²·kg·s⁻²·A⁻²"
+    },
+    {
+      "derived_Quantity": "Celsius Temperature",
+      "special_Name": "Degree Celsius",
+      "symbol": "°C",
+      "expression_In_Terms_Of_Other_SI_Units": "",
+      "expression_In_Terms_Of_SI_Base_Units": "K"
+    },
+    {
+      "derived_Quantity": "Luminous Flux",
+      "special_Name": "Lumen",
+      "symbol": "lm",
+      "expression_In_Terms_Of_Other_SI_Units": "cd·sr",
+      "expression_In_Terms_Of_SI_Base_Units": "Cd"
+    },
+    {
+      "derived_Quantity": "Illuminance",
+      "special_Name": "Lux",
+      "symbol": "lx",
+      "expression_In_Terms_Of_Other_SI_Units": "lm/m²",
+      "expression_In_Terms_Of_SI_Base_Units": "m⁻²·cd"
+    },
+    {
+      "derived_Quantity": "Activity Referred to a Radionuclide",
+      "special_Name": "Becquerel",
+      "symbol": "Bq",
+      "expression_In_Terms_Of_Other_SI_Units": "",
+      "expression_In_Terms_Of_SI_Base_Units": "s⁻¹"
+    },
+    {
+      "derived_Quantity": "Absorbed Dose, Specific Energy (Imparted), Kerma",
+      "special_Name": "Gray",
+      "symbol": "Gy",
+      "expression_In_Terms_Of_Other_SI_Units": "J/kg",
+      "expression_In_Terms_Of_SI_Base_Units": "m²·s⁻²"
+    },
+    {
+      "derived_Quantity": "Dose Equivalent, Ambient Dose Equivalent, Directional Dose Equivalent, Personal Dose Equivalent",
+      "special_Name": "Sievert",
+      "symbol": "Sv",
+      "expression_In_Terms_Of_Other_SI_Units": "J/kg",
+      "expression_In_Terms_Of_SI_Base_Units": "m²·s⁻²"
+    },
+    {
+      "derived_Quantity": "Catalytic Activity",
+      "special_Name": "Katal",
+      "symbol": "kat",
+      "expression_In_Terms_Of_Other_SI_Units": "",
+      "expression_In_Terms_Of_SI_Base_Units": "s⁻¹·mol"
+    }
+  ]
+}

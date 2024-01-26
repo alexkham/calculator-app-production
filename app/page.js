@@ -25,12 +25,16 @@ export default function Home() {
         <br></br>
         <br></br>
         <br></br>
+        <br></br>
+        <br></br>
         
        {/* <ButtonGroup data={buttonData}
         buttonClass={'button-target'} 
         containerClass={'button-group-container'}
         groupTitle={"Decimal Numbers Converters"}
         directory={'converters'}></ButtonGroup> */}
+
+        <div>
        
        <MyAccordion title={"Decimal Numbers Converters"}
        content={<ButtonGroup data={buttonData}
@@ -42,17 +46,9 @@ export default function Home() {
        
        
        ></MyAccordion>
-
-        <br></br>
-        <br></br>
-        
-        
-        {/* <ButtonGroup data={buttonData2}
-        buttonClass={'button-target'} 
-        containerClass={'button-group-container-vertical'}
-        groupTitle={"Decimal Numbers Converters"}
-        directory={'converters'}></ButtonGroup> */}
-       
+       <br></br>   
+       <br></br>   
+    
         
         <MyAccordion title={"Units Converters"} content={<ButtonGroup data={buttonData2}
         buttonClass={'button-target'} 
@@ -61,9 +57,8 @@ export default function Home() {
         directory={'units-converters'}></ButtonGroup>}></MyAccordion>
         <br></br>
         <br></br>
-        {/* <Tooltip2 text={'Tooltip'}>
-        <div>?</div>
-        </Tooltip2> */}
+        
+        </div>
         
     <br></br>   
     <br></br>   
@@ -72,19 +67,16 @@ export default function Home() {
     <br></br>   
     <br></br>   
     <br></br> 
-    {/* <MyAccordion title={'  Title'} content={'content'}></MyAccordion>   */}
-    <br></br>   
-    <br></br>   
-    <br></br>   
-    <br></br> 
-    {/* <NumberConverter title={"Numbers Base Converter"} styles={{titleClass:'title',mainClass:'converter'}}></NumberConverter>   */}
+  
+    
+   
     <br></br>   
     <br></br>   
     <br></br>   
     <br></br>   
     <br></br>   
     <br></br>  
-    {/* <NumberConverter styles={{bodyClass:'body-class',headerClass:'header-class'}}></NumberConverter>  */}
+    
     <br></br>   
     <br></br>   
     <br></br>   

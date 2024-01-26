@@ -1,0 +1,150 @@
+{
+    "tableTitle": "Examples of SI Coherent Derived Units with Special Names and Symbols",
+    "rows": [
+      {
+        "derived_quantity": "Dynamic Viscosity",
+        "name": "Pascal Second",
+        "symbol": "Pa · s",
+        "expression_in_terms_of_SI_base_units": "m⁻¹ · kg · s⁻¹"
+      },
+      {
+        "derived_quantity": "Moment of Force",
+        "name": "Newton Meter",
+        "symbol": "N · m",
+        "expression_in_terms_of_SI_base_units": "m² · kg · s⁻²"
+      },
+      {
+        "derived_quantity": "Surface Tension",
+        "name": "Newton per Meter",
+        "symbol": "N/m",
+        "expression_in_terms_of_SI_base_units": "kg · s⁻²"
+      },
+      {
+        "derived_quantity": "Angular Velocity",
+        "name": "Radian per Second",
+        "symbol": "rad/s",
+        "expression_in_terms_of_SI_base_units": "s⁻¹"
+      },
+      {
+        "derived_quantity": "Angular Acceleration",
+        "name": "Radian per Second Squared",
+        "symbol": "rad/s²",
+        "expression_in_terms_of_SI_base_units": "s⁻²"
+      },
+      {
+        "derived_quantity": "Heat Flux Density, Irradiance",
+        "name": "Watt per Square Meter",
+        "symbol": "W/m²",
+        "expression_in_terms_of_SI_base_units": "kg · s⁻³"
+      },
+      {
+        "derived_quantity": "Heat Capacity, Entropy",
+        "name": "Joule per Kelvin",
+        "symbol": "J/K",
+        "expression_in_terms_of_SI_base_units": "m² · kg · s⁻² · K⁻¹"
+      },
+      {
+        "derived_quantity": "Specific Heat Capacity, Specific Entropy",
+        "name": "Joule per Kilogram Kelvin",
+        "symbol": "J/(kg · K)",
+        "expression_in_terms_of_SI_base_units": "m² · s⁻² · K⁻¹"
+      },
+      {
+        "derived_quantity": "Specific Energy",
+        "name": "Joule per Kilogram",
+        "symbol": "J/kg",
+        "expression_in_terms_of_SI_base_units": "m² · s⁻²"
+      },
+      {
+        "derived_quantity": "Thermal Conductivity",
+        "name": "Watt per Meter Kelvin",
+        "symbol": "W/(m · K)",
+        "expression_in_terms_of_SI_base_units": "m · kg · s⁻³ · K⁻¹"
+      },
+      {
+        "derived_quantity": "Energy Density",
+        "name": "Joule per Cubic Meter",
+        "symbol": "J/m³",
+        "expression_in_terms_of_SI_base_units": "m⁻¹ · kg · s⁻²"
+      },
+      {
+        "derived_quantity": "Electric Field Strength",
+        "name": "Volt per Meter",
+        "symbol": "V/m",
+        "expression_in_terms_of_SI_base_units": "m · kg · s⁻³ · A⁻¹"
+      },
+      {
+        "derived_quantity": "Electric Charge Density",
+        "name": "Coulomb per Cubic Meter",
+        "symbol": "C/m³",
+        "expression_in_terms_of_SI_base_units": "m⁻³ · s · A"
+      },
+      {
+        "derived_quantity": "Surface Charge Density",
+        "name": "Coulomb per Square Meter",
+        "symbol": "C/m²",
+        "expression_in_terms_of_SI_base_units": "m⁻² · s · A"
+      },
+      {
+        "derived_quantity": "Electric Flux Density, Electric Displacement",
+        "name": "Coulomb per Square Meter",
+        "symbol": "C/m²",
+        "expression_in_terms_of_SI_base_units": "m⁻² · s · A"
+      },
+      {
+        "derived_quantity": "Permittivity",
+        "name": "Farad per Meter",
+        "symbol": "F/m",
+        "expression_in_terms_of_SI_base_units": "m⁻³ · kg⁻¹ · s⁴ · A²"
+      },
+      {
+        "derived_quantity": "Permeability",
+        "name": "Henry per Meter",
+        "symbol": "H/m",
+        "expression_in_terms_of_SI_base_units": "m · kg · s⁻² · A⁻²"
+      },
+      {
+        "derived_quantity": "Molar Energy",
+        "name": "Joule per Mole",
+        "symbol": "J/mol",
+        "expression_in_terms_of_SI_base_units": "m² · kg · s⁻² · mol⁻¹"
+      },
+      {
+        "derived_quantity": "Molar Entropy, Molar Heat Capacity",
+        "name": "Joule per Mole Kelvin",
+        "symbol": "J/(mol · K)",
+        "expression_in_terms_of_SI_base_units": "m² · kg · s⁻² · K⁻¹ · mol⁻¹"
+      },
+      {
+        "derived_quantity": "Exposure (X and Gamma Rays)",
+        "name": "Coulomb per Kilogram",
+        "symbol": "C/kg",
+        "expression_in_terms_of_SI_base_units": "kg⁻¹ · s · A"
+      },
+      {
+        "derived_quantity": "Absorbed Dose Rate",
+        "name": "Gray per Second",
+        "symbol": "Gy/s",
+        "expression_in_terms_of_SI_base_units": "m² · s⁻³"
+      },
+      {
+        "derived_quantity": "Radiant Intensity",
+        "name": "Watt per Steradian",
+        "symbol": "W/sr",
+        "expression_in_terms_of_SI_base_units": "m² · kg · s⁻³"
+      },
+      {
+        "derived_quantity": "Radiance",
+        "name": "Watt per Square Meter Steradian",
+        "symbol": "W/(m² · sr)",
+        "expression_in_terms_of_SI_base_units": "kg · s⁻³"
+      },
+      {
+        "derived_quantity": "Catalytic Activity Concentration",
+        "name": "Katal per Cubic Meter",
+        "symbol": "kat/m³",
+        "expression_in_terms_of_SI_base_units": "m⁻³ · s⁻¹ · mol"
+      }
+    ]
+  }
+  
