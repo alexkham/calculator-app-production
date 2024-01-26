@@ -228,3 +228,7 @@ table {
     font-weight:700;
     padding: 10px;
   }
+  a:hover {
+    text-decoration: underline;
+  }
+  

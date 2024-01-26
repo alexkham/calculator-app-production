@@ -270,5 +270,8 @@ a {
     font-weight:600;
     padding: 10px;
   }
-
+  a:hover {
+    text-decoration: underline;
+  }
+  
 
