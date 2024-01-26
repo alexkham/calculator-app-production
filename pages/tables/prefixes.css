@@ -220,3 +220,11 @@ table {
    flex-basis: calc(50% - 20px);
     
   }
+
+   a {
+    margin: 1rem;
+    text-decoration: none;
+    color: blue;
+    font-weight:700;
+    padding: 10px;
+  }

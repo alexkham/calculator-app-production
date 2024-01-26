@@ -140,7 +140,7 @@ export default function conversion({conversionType,data, baseUnit}) {
         <div key={index}>{unit}</div>
       )
      })} */}
-     <a href={`/units-converters/${conversionType}`}>Go to {capitalizeWords(conversionType)} Converter</a>
+     <a className={'link'} href={`/units-converters/${conversionType}`}>Go to {capitalizeWords(conversionType)} Converter</a>
     <div className='table-container' >
      <SimpleConversionTable data={uniqueData} 
      dimension={conversionType}

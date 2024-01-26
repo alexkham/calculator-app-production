@@ -263,5 +263,12 @@ div a .button-target{
 }
 
 
+a {
+    margin: 20px;
+    text-decoration: none;
+    color: blue;
+    font-weight:600;
+    padding: 10px;
+  }
 
 
