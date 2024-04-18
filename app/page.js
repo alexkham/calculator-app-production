@@ -127,9 +127,9 @@ export default function Home() {
     <br></br>   
     <br></br>   
     <br></br> 
-  
+{/*   
     <TrigoCalculator></TrigoCalculator>
-   
+    */}
     <br></br>   
     <br></br>   
     <br></br>   
