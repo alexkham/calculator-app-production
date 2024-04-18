@@ -49,6 +49,15 @@ function fixNav(){
          </ul>   
         
         </li>
+        <li className="dropdown">
+        <Link href='/calculators'>Calculators</Link>
+        <ul className="dropdown-content">
+            <li><Link href="/calculators/trigonometry-calculator">Trigonometry Calculator</Link></li>
+            {/* <li><Link href="/converters/hexadecimal">Hexadecimal Converter</Link></li>
+            <li><Link href="/converters/octal">Octal Converter</Link></li>                                 */}
+         </ul>
+        
+        </li>
       <li onClick={navigateBack} style={{cursor:'pointer'}}><a>GoBack</a></li>
      {/* <li className="dropdown">
          <a href="/main-page">More Options</a> 

@@ -12,6 +12,7 @@ import siDerivedUnitsSpecialDerived from '../../app/api/db/tables/units-conversi
 import GenericTable2 from '@/app/components/generic-table/GenericTable2'
 import linksObj from '../../app/api/db/calculations/unit_converters/units_converters.json'
 import { capitalizeWords } from '@/app/utils/utils-functions'
+import TableWrapper from '@/app/components/table-wrapper/TableWrapper'
 
 export default function index() {
   const  links=linksObj.map((link)=>link.key_word).filter(link=>link!='temperature')
@@ -63,7 +64,7 @@ export default function index() {
     <br></br>
     <br></br>
     <br></br>
-    <div  id='table1'>
+    <div  id='table1'></div>
 
       
       <br></br>
@@ -71,9 +72,9 @@ export default function index() {
       <br></br>
       <a href="#on-page-nav">Back to Top</a>
 
-      
-    <GenericTable tableData={prefixes}></GenericTable>
-    </div>
+    <TableWrapper  initialData={prefixes} TableComponent={GenericTable}></TableWrapper>
+    {/* <GenericTable tableData={prefixes}></GenericTable> */}
+    
 
 
     <br></br>
@@ -83,10 +84,12 @@ export default function index() {
       <br></br>
       <br></br>
       <a href="#on-page-nav">Back to Top</a>
+
+      <TableWrapper initialData={siBaseUnits} TableComponent={GenericTable}></TableWrapper>
     
-    <GenericTable tableData={siBaseUnits}
+    {/* <GenericTable tableData={siBaseUnits}
      styleLeftColumnLikeHeader={true}
-     ></GenericTable>
+     ></GenericTable> */}
     
     <br></br>
     <br></br>
@@ -98,10 +101,13 @@ export default function index() {
       <br></br>
       <br></br>
       <a href="#on-page-nav">Back to Top</a>
-    <GenericTable2 tableData={siDerivedUnits}
+      <TableWrapper 
+      initialData={siDerivedUnits} 
+      TableComponent={GenericTable}></TableWrapper>
+    {/* <GenericTable2 tableData={siDerivedUnits}
      styleLeftColumnLikeHeader={true}
      
-    ></GenericTable2>
+    ></GenericTable2> */}
     
     <br></br>
     <br></br>
@@ -120,8 +126,11 @@ export default function index() {
     <br></br>
     <br></br>
     <a href="#on-page-nav">Back to Top</a>
-    <GenericTable2 tableData={siDerivedUnitsSpecial}
-    styleLeftColumnLikeHeader={true}></GenericTable2>
+    <TableWrapper
+     initialData={siDerivedUnitsSpecial}
+     TableComponent={GenericTable}></TableWrapper>
+    {/* <GenericTable2 tableData={siDerivedUnitsSpecial}
+    styleLeftColumnLikeHeader={true}></GenericTable2> */}
     <br></br>
     <br></br>
     <br></br>
@@ -131,9 +140,12 @@ export default function index() {
     <br></br>
     <br></br>
     <a href="#on-page-nav">Back to Top</a>
-    <GenericTable2 
+    <TableWrapper 
+    initialData={siDerivedUnitsSpecialDerived}
+    TableComponent={GenericTable}></TableWrapper>
+    {/* <GenericTable2 
     tableData={siDerivedUnitsSpecialDerived}
-    styleLeftColumnLikeHeader={true}></GenericTable2>
+    styleLeftColumnLikeHeader={true}></GenericTable2> */}
     <br></br>
     <br></br>
     <br></br>

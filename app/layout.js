@@ -6,6 +6,7 @@ import GoBackButton from './components/GoBackButton'
 import Link from 'next/link';
 import ScrollUpButton from './components/scroll-up-button/ScrollUpButton';
 import MyNavbar from './components/my-navbar/MyNavbar';
+import Footer from './components/footer/Footer';
 
 
 const inter = Inter({ subsets: ['latin'] })
@@ -36,7 +37,8 @@ export default function RootLayout({ children }) {
         {children}
         </div>
         <ScrollUpButton className={'nav-button'}></ScrollUpButton>
-       </body>
+        <Footer></Footer>
+       </body>      
       
     </html>
   )

@@ -5,13 +5,14 @@ import '../pages.css'
 // import '../../app/globals.css'
 import ButtonGroup from '@/app/components/button-group/ButtonGroup'
 import links from '../../app/api/db/calculations/unit_converters/units_converters.json'
+import PagesLayout from '../layout'
 
 export default function page() {
   
 
   return (
     <>
-    <MyNavbar></MyNavbar>
+    <PagesLayout>
     <br></br>
     <br></br>
     <br></br>
@@ -191,7 +192,7 @@ export default function page() {
     <br></br>
     <br></br>
     <br></br>
-    <ScrollUpButton className={'scroll-button'}></ScrollUpButton>
+    </PagesLayout>
     </>
   )
 }

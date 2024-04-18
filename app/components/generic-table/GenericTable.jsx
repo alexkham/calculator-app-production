@@ -6,10 +6,10 @@ import { capitalizeWords } from "@/app/utils/utils-functions";
 
 
 
-const GenericTable = ({ tableData,styleLeftColumnLikeHeader,headerColor }) => {
+const GenericTable = ({ tableData,styleLeftColumnLikeHeader,headerColor,tableTitle }) => {
     // Check if tableData is available and correctly structured
     if (!tableData || !Array.isArray(tableData.rows) || tableData.rows.length === 0) {
-      return <p>No data available</p>;
+      return <p>No Data Found</p>;
     }
     
     // Extract the column names from the first row for the table header
@@ -17,9 +17,8 @@ const GenericTable = ({ tableData,styleLeftColumnLikeHeader,headerColor }) => {
   
     return (
       <div className="table-container"> 
-        <h2 className="table-title" >{tableData.tableTitle}</h2>
-        <br></br>
-        <br></br>
+        {/* <h2 className="table-title" >{tableTitle}</h2> */}
+        
         <table className={`my-table ${styleLeftColumnLikeHeader ? 'style-left-column' : ''}`}>
           <thead>
             <tr>

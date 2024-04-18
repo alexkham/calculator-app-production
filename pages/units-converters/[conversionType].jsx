@@ -7,6 +7,7 @@ import ScrollUpButton from '@/app/components/scroll-up-button/ScrollUpButton';
 import ButtonGroup from '@/app/components/button-group/ButtonGroup';
 import links from '../../app/api/db/calculations/unit_converters/units_converters.json'
 import MyAccordion from '@/app/components/my-accordion/MyAccordion';
+import PagesLayout from '../layout';
 
 
 // Function to generate static paths for each category and table
@@ -57,7 +58,8 @@ export default function page({conversionType}) {
   
   return (
     <>
-    <MyNavbar></MyNavbar>
+    <PagesLayout>
+    
     <div  className='main'>
       <br></br>
       <br></br>
@@ -74,7 +76,7 @@ export default function page({conversionType}) {
     </div>
     <div style={{maxWidth:'400px',marginRight:'50px'}}>
     <MyAccordion title={'All Units Converters'}
-    content={<ButtonGroup
+      content={<ButtonGroup
       directory={'units-converters'}
       data={links}
       buttonClass={'button-target'} 
@@ -107,6 +109,7 @@ export default function page({conversionType}) {
     <br></br>
     <br></br>
     <br></br>
+    
     <br></br>
     <br></br>
     <br></br>
@@ -123,12 +126,15 @@ export default function page({conversionType}) {
     <br></br>
     <br></br>
     <br></br>
+   
+       
     <br></br>
     <br></br>
     <br></br>
     <br></br>
     <br></br>
     <br></br>
+   
     <br></br>
     <br></br>
     <br></br>
@@ -136,98 +142,10 @@ export default function page({conversionType}) {
     <br></br>
     <br></br>
     <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <ScrollUpButton className={'scroll-button'}></ScrollUpButton>
+   
+    
     </div>
+    </PagesLayout>
     </>
   )
 }

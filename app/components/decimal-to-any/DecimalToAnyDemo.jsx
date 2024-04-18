@@ -27,7 +27,10 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
       }
   
       loadCalculationData();
-    }, [base,calculationData]);   
+    }, [base,calculationData]); 
+    
+    
+
     useEffect(() => {
 
       if (result) {
@@ -40,18 +43,7 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
     
    
    
-    // useEffect(() => {
-    //     const myBinary = intToBinary[number]; // Fetch binary value from data
-    //     setBinary(myBinary);
-    
-    //     // Reverse the array only if binary is not empty
-    //     if (binary) {
-    //       setReversedStrArray(binary.split('').reverse()); // Split into characters and reverse
-    //     }
-    //   }, [number, intToBinary, binary]);
-    
-
-    
+     
    
 
     const handleChange = (e) => {
@@ -140,3 +132,4 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
 }
 
 export default DecimalToAnyBaseConverter
+
