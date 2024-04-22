@@ -48,8 +48,14 @@
     .tooltip-icon {
         display: inline-block;
         margin-left: 5px;
-        color: #888;
+        color: black;
         cursor: help;
+        font-weight: bold;
+        /* border: solid black 1px;
+        padding: 5px;
+        border-radius: 50%;
+        width: 27px;
+        text-align: center; */
     }
     
     .tooltip-icon:hover::after {

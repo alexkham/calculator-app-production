@@ -317,11 +317,18 @@ function BitwiseCalculator() {
                             placeholder="Number 2 (decimal)"
                         />
                     )}
+                    <div className='tooltip-container'>
+
                     <button
                     
                         className='calculate-btn my-input '
                         onClick={handleCalculate}
                     >Calculate</button>
+                     <span 
+                     className='tooltip-icon' 
+                     title="Do not forget to press 'Calculate' 
+                     button before you check the result.">?</span>
+                     </div>
                     <button 
                         className='reset-btn my-input'
                         onClick={resetAll}
