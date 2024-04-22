@@ -15,6 +15,7 @@ import NumberConverter from './components/number-converter/NumberConverter'
 import DebouncedComponent from './components/DebouncedComponent'
 import TrigoCalculator from './components/trigo-calculator/TrigoCalculator'
 import MarkdownComponent from './components/markdown-component/MarkdownComponent'
+import BitwiseCalculator from './components/bitwise-calculator/BitwiseCalculator'
 
 
 
@@ -140,7 +141,8 @@ export default function Home() {
     
     <br></br>   
     <br></br>   
-    <br></br>   
+    <br></br>
+    {/* <BitwiseCalculator></BitwiseCalculator>    */}
     <br></br>   
     <br></br>   
     <br></br> 

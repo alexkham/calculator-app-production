@@ -53,6 +53,7 @@ function fixNav(){
         <Link href='/calculators'>Calculators</Link>
         <ul className="dropdown-content">
             <li><Link href="/calculators/trigonometry-calculator">Trigonometry Calculator</Link></li>
+            <li><Link href="/calculators/bitwise-calculator">Bitwise Calculator</Link></li>
             {/* <li><Link href="/converters/hexadecimal">Hexadecimal Converter</Link></li>
             <li><Link href="/converters/octal">Octal Converter</Link></li>                                 */}
          </ul>
