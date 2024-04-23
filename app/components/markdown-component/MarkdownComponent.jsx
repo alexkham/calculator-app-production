@@ -7,12 +7,14 @@ import 'katex/dist/katex.min.css';  // Ensure styles are applied
 
 const MarkdownComponent = ({ article }) => {
   return (
+    <div className='outer-container' >
     <ReactMarkdown
       remarkPlugins={[remarkMath, remarkGfm]}
       rehypePlugins={[rehypeKatex]}
     >
       {article}
     </ReactMarkdown>
+    </div>
   );
 };
 

@@ -219,6 +219,8 @@
 'use client'
 import React, { useState } from 'react';
 import './BitwiseCalculator.css';
+import { operationExplanations } from './operations';
+import MarkdownComponent from '../markdown-component/MarkdownComponent';
 
 function BitwiseCalculator() {
     const [inputA, setInputA] = useState('');
@@ -306,7 +308,7 @@ function BitwiseCalculator() {
                         <option value="XOR">XOR</option>
                         <option value="NOT">NOT</option>
                         <option value="LSHIFT">Left Shift (&lt;&lt;)</option>
-                        <option value="RSHIFT">Right Shift (&rt;&rt;)</option>
+                        <option value="RSHIFT">Right Shift (&gt;&gt;)</option>
                     </select>
                     {operation !== 'NOT' && (
                         <input
@@ -379,8 +381,13 @@ function BitwiseCalculator() {
                            
                         </tbody>
                     </table>
-</div>
-
+                   <br></br>
+                  
+                  { binaryResult&&<div style={{padding:'10px',width:'100%',justifyContent:'center'}}>
+                    <MarkdownComponent article={operationExplanations[operation]}></MarkdownComponent>
+                    </div>}
+               </div>
+   
             </div>
         </>
     );
