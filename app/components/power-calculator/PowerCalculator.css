@@ -76,4 +76,13 @@ tr{
     text-align: right; /* Aligns text to the right */
     padding-left: 50px;
   }
-
+.calc-table .power{
+    
+    margin-bottom: -200px !important;
+    margin-left: -20px !important;
+   
+}
+.calc-table .base{
+    margin-top: -100px !important;
+    margin-right: 5px;
+}

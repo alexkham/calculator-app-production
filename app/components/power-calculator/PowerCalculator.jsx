@@ -107,7 +107,7 @@ function PowerCalculator() {
           <tbody>
             <tr className='table-row'>
               <td></td>
-              <td>
+              <td className='power'>
                 <input 
                   style={{ maxWidth: '100px', maxHeight: '20px', marginBottom: '20px' }} // reduced space below this input
                   className='my-input power'
@@ -121,7 +121,7 @@ function PowerCalculator() {
               <td></td>
             </tr>
             <tr className='table-row'>
-              <td className='power'>
+              <td className='base'>
                 <input  
                   style={{ maxWidth: '100px', maxHeight: '20px', marginTop: '0px' }} 
                   className='my-input base' 
