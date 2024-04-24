@@ -132,8 +132,8 @@ function PowerCalculator() {
                 />
               </td>
               <td></td>
-              <td></td>
-              <td className='result' colSpan="2" style={{ textAlign: 'flex-end',marginLeft:'30px' }}>         = {result}</td>
+              <td>=</td>
+              <td className='result' colSpan="2" style={{ textAlign: 'flex-end',marginLeft:'30px' }}>  {result}</td>
             </tr>
             {/* <tr>
               <td colSpan="2" style={{ textAlign: 'center' }}>
