@@ -90,7 +90,7 @@ export default function page({conversionType}) {
     {/* <div className='converter-container'>     */}
    
     <UnitsConverter conversionType={conversionType}></UnitsConverter>
-    {conversionType!='temperature'&&<a href={`/tables/conversions/${conversionType}`}>Go to {capitalizeWords(conversionType)} Conversion Table</a>}
+    {/* {conversionType!='temperature'&&<a href={`/tables/conversions/${conversionType}`}>Go to {capitalizeWords(conversionType)} Conversion Table</a>} */}
     {/* </div> */}
     {/* </div> */}
     

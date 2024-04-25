@@ -217,8 +217,11 @@ console.log(options)
       <span className='units'>{toAbr}</span>
       </div>
       </div>
+    
+      {conversionType!='temperature'&&<a href={`/tables/conversions/${conversionType}`}>Go to {capitalizeWords(conversionType)} Conversion Table</a>}
        
     </div>
+    
       
       <div className='explanation'>
        
