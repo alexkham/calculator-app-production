@@ -41,6 +41,7 @@ body{
     margin:1px;
     text-align: center;
     border-radius: 3px;
+    max-height: 40px;
 
 }
 .link-btn:hover{
