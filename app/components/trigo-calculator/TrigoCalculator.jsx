@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import { capitalizeWords ,range} from '@/app/utils/utils-functions';
 import './TrigoCalculator.css';
+import Link from 'next/link';
 
 
 const buttonStyle1 = {
@@ -102,11 +103,13 @@ const handleCalculate = async (e) => {
           placeholder={`Enter Angle in ${capitalizeWords(units)}`}
         />
         </div>
+       
         <div className='input-container'>
+        <div className='tooltip-container'>
         <label for='units' style={{width:'100px'}}>Select Units: </label>
         <select 
         style={{maxWidth:'460px',width:'300px'}}
-        className='my-input'
+        className='my-input units'
         name='units' 
         id='units'
         value={units}
@@ -115,6 +118,12 @@ const handleCalculate = async (e) => {
             <option value={'radians'}>Radians</option>
             <option value={'degrees'}>Degrees</option>
         </select>
+        <span 
+                     className='tooltip-icon' 
+                     title="Learn more about angle units here."> <a href='/units-converters/angle' >Angle Units Converter</a>
+                     </span>
+                    
+        </div>
         </div>
         <div className='input-container'>
         <label for='units' style={{width:'200px'}}>Select Precision Level : </label>

@@ -54,7 +54,7 @@ table {
 
   /* MyComponent.css */
 .my-input {
-    min-width: 180px; /* Set a minimal width, adjust the value as needed */
+    min-width: 300px; /* Set a minimal width, adjust the value as needed */
     width: 3rem;
     max-width: 450px;
     background-color: #f3f4f6;
@@ -88,9 +88,47 @@ table {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    width: 100%;
   }
 
   .outer-container{
     width: 80%;
     margin-left: 50px;
   }
+
+  .tooltip-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.tooltip-icon {
+    display: inline-block;
+    margin-left: 5px;
+    color: black;
+    cursor: help;
+    font-weight: bold;
+    /* border: solid black 1px;
+    padding: 5px;
+    border-radius: 50%;
+    width: 27px;
+    text-align: center; */
+}
+
+.tooltip-icon:hover::after {
+    content: attr(title);
+    position: absolute;
+    left: 350px;
+    top: -20px; /* Adjusts the vertical position to be higher */
+    white-space: nowrap;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    z-index: 1000;
+    font-size: 12px; /* Smaller font size for the tooltip text */
+    opacity: 0.9;
+}
+.units{
+  margin-left: 150px;
+}
