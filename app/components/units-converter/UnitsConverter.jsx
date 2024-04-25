@@ -24,7 +24,7 @@ function UnitsConverter({conversionType}) {
   const [data,setData]=useState(null);
   const [articles, setArticles] = useState({});
 
-  const explanationText = "Here you can add the dynamic articles or any other explanations related to the conversion units selected. This text can be updated dynamically based on the selected conversion type.";
+ 
   
   useEffect(() => {
     async function fetchArticles() {
@@ -173,15 +173,14 @@ useEffect(() => {
 
 
 const options = [...new Set(data?.map(unit => capitalizeWords(unit.unit_string.replace(/_/g, ' '))))].sort();
-
+console.log(options)
   return (
    
     <div className='main-container'>
      
         
     <div className='outer-container'>
-    <span>{from}</span>
-      <span>{to}</span>
+    
       
       <div className='group-block'>
       <h4 className='title'>From</h4>
