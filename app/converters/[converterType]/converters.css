@@ -37,11 +37,11 @@ body{
     color:blue;
     /* background: none; */
     font-size: large;
-    min-height: 40px;
+    min-height: 50px;
     margin:1px;
     text-align: center;
     border-radius: 3px;
-    max-height: 40px;
+    max-height: 50px;
 
 }
 .link-btn:hover{
