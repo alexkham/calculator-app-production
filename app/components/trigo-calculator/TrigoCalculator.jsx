@@ -120,7 +120,7 @@ const handleCalculate = async (e) => {
         </select>
         <span 
                      className='tooltip-icon' 
-                     title="Learn more about angle units here."> <a href='/units-converters/angle' >Angle Units Converter</a>
+                     title="Learn more about angle units here."> <Link href='/units-converters/angle' >Angle Units Converter</Link>
                      </span>
                     
         </div>
