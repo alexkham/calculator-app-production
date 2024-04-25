@@ -3,6 +3,15 @@ import React, {useState,useEffect,useCallback} from 'react'
 import './UnitsConverter.css'
 import SelectComponent from '../select-component/SelectComponent'
 import { capitalizeWords } from '@/app/utils/utils-functions'
+import MarkdownComponent from '../markdown-component/MarkdownComponent'
+import { operationExplanations } from './operations';
+
+import ReactMarkdown from 'react-markdown';
+import remarkMath from 'remark-math';
+import remarkGfm from 'remark-gfm';
+import rehypeKatex from 'rehype-katex';
+import 'katex/dist/katex.min.css';  // Ensure styles are applied
+
 
 function UnitsConverter({conversionType}) {
   const [number,setNumber]=useState('')
@@ -12,8 +21,24 @@ function UnitsConverter({conversionType}) {
   const [to,setTo]=useState('')
   const [toAbr,setToAbr]=useState('')
   const [isInputValid,setIsInputValid]=useState(true)
-  const [data,setData]=useState(null)
+  const [data,setData]=useState(null);
+  const [articles, setArticles] = useState({});
 
+  const explanationText = "Here you can add the dynamic articles or any other explanations related to the conversion units selected. This text can be updated dynamically based on the selected conversion type.";
+  
+  useEffect(() => {
+    async function fetchArticles() {
+      try {
+        const articlesModule = await import(`../../api/db/conversions/articles/${conversionType}.js`);
+        setArticles(articlesModule.default);
+        console.log(articles)
+      } catch (error) {
+        console.error('Failed to load articles', error);
+        setArticles({});
+      }
+    }
+    fetchArticles();
+  }, [conversionType]);
 
   const loadDataFromAPI = async () => {
     try {
@@ -151,18 +176,19 @@ const options = [...new Set(data?.map(unit => capitalizeWords(unit.unit_string.r
 
   return (
    
-    <>
-    {/* <span>{from}</span>
-    <span>{to}</span>
-    <span>{result}</span> */}
-    
+    <div className='main-container'>
+     
+        
     <div className='outer-container'>
+    <span>{from}</span>
+      <span>{to}</span>
       
       <div className='group-block'>
       <h4 className='title'>From</h4>
       <div className='inputs-box'>
       <div className='input-block'>
       <input 
+      style={{maxWidth:'200px'}}
       type='number' 
       min={0} 
       className='select'
@@ -184,7 +210,7 @@ const options = [...new Set(data?.map(unit => capitalizeWords(unit.unit_string.r
       <div className='group-block'>
       <h4 className='title'>To</h4>
       <div className='inputs-box'>
-      <span className='select'> {result}</span>
+      <span className='select' style={{maxWidth:'200px'}}> {result}</span>
       <SelectComponent label={'units'}  
       options={options} 
       onChange={e => setTo(e.target.value)}
@@ -192,12 +218,38 @@ const options = [...new Set(data?.map(unit => capitalizeWords(unit.unit_string.r
       <span className='units'>{toAbr}</span>
       </div>
       </div>
-
-      </div>
+       
+    </div>
       
-   
+      <div className='explanation'>
+       
+      {/* <MarkdownComponent 
+     article={operationExplanations['AND']}></MarkdownComponent>
+      <MarkdownComponent 
+     article={operationExplanations['OR']}></MarkdownComponent> */}
+      {/* <h2>From Units</h2>
+      <p>{articles[from.toLowerCase()]}</p>
+      <h2>To Units</h2>
+      <p>{articles[to.toLowerCase()]}</p> */}
+      {/* <div dangerouslySetInnerHTML={{ __html: articles[from.toLowerCase()] }} /> */}
+      <ReactMarkdown
+      remarkPlugins={[remarkMath, remarkGfm]}
+      rehypePlugins={[rehypeKatex]}
+      className='markdown'
+    >
+      {articles[from.toLowerCase()]}
+    </ReactMarkdown>
+
+    <ReactMarkdown
+      remarkPlugins={[remarkMath, remarkGfm]}
+      rehypePlugins={[rehypeKatex]}
+      className='markdown'
+    >
+      {articles[to.toLowerCase()]}
+    </ReactMarkdown>
+      </div>
     
-    </>
+    </div>
   )
 }
 

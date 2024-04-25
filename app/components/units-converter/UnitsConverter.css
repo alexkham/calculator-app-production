@@ -23,7 +23,7 @@
     align-items: center;
     justify-content: center;
     border-radius: 5px;
-    min-width: 630px;
+    min-width: 620px;
     background-color: #f2f2f2;
     padding-left: 30px;
     margin-left: -30px;
@@ -60,4 +60,63 @@
     overflow-wrap: break-word;
     background-color: inherit;
   }
+
+  /* .main-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
   
+    
+    } */
+    .main-container {
+        display: flex;
+        justify-content: space-between; /* Spaces out the child containers */
+        align-items: flex-start; /* Aligns containers to the top */
+        height: 100vh; /* Optional: Sets the height of the main container to fill the viewport */
+        padding: 20px; /* Provides some spacing inside the main container */
+    }
+    
+  
+/* .explanation{
+    margin-left: 10px;
+    overflow-y: scroll;
+    padding:20px;
+    padding-right: 100px;
+    text-align: start;
+    min-width: 400px;
+       
+} */
+
+.explanation {
+    max-height: 500px;  /* Adjust this value based on your layout needs */
+    overflow-y: auto;   /* Enables vertical scrolling if the content exceeds max-height */
+    padding: 15px;      /* Optional: Adds spacing inside the container for better readability */
+    border: 1px solid #ccc; /* Optional: Adds a border around the explanation div for clear division */
+    margin-left: 20px;  /* Optional: Adds some space between this div and other content */
+    z-index: 1000000;
+}
+
+
+.main-container {
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-between; /* This will space out the two main divs */
+    align-items: start; /* Aligns items at the start of the flex container */
+}
+
+.outer-container, .explanation-container {
+    width: 40%; /* Adjust based on your preference, ensures each container takes roughly half the space */
+    min-height: 300px; /* Example minimum height */
+}
+
+.explanation-container {
+    padding: 20px; /* Gives some space inside the explanation container */
+    background-color: #f4f4f4; /* Light grey background for visibility */
+    overflow-y: auto; /* Adds scroll to the explanation container if content exceeds its height */
+}
+.markdown{
+    min-width: 400px;
+    padding: 10px;
+}

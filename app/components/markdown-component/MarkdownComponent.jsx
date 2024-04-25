@@ -11,6 +11,7 @@ const MarkdownComponent = ({ article }) => {
     <ReactMarkdown
       remarkPlugins={[remarkMath, remarkGfm]}
       rehypePlugins={[rehypeKatex]}
+      className='markdown'
     >
       {article}
     </ReactMarkdown>

@@ -32,15 +32,15 @@ export default function page({params}) {
     <div className='main'>
       
       
-      <div className='button-container-2'>
+      {/* <div className='button-container-2'> */}
                 
          <ButtonGroup data={buttonData}
           
-            buttonClass={'button-target-horizontal'} 
-            containerClass={'button-group-container'}
+             buttonClass={'link-btn'} 
+             containerClass={'button-group-container'}
             groupTitle={""}
             directory={'converters'}></ButtonGroup> 
-          </div>  
+          {/* </div>   */}
           <br></br>
           
         

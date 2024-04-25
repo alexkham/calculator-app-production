@@ -1,0 +1,42 @@
+.containerClass {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0; /* Remove any gap */
+    margin: 0; /* Ensure no margin on the container */
+    padding: 0; /* Ensure no padding on the container */
+    width: 100%; /* Full width for layout flexibility */
+}
+
+
+.button-target-horizontal {
+    background-color: blue;
+    color: white;
+    border: 1px solid gray; /* Consider removing if you don’t want visible separation */
+    border-radius: 5px;
+    padding: 10px;
+    min-width: 150px;
+    height: 40px;
+    margin: 0; /* No margin to ensure buttons touch */
+    box-sizing: border-box; /* Includes padding and border in the element's size */
+}
+
+.link-btn{
+    color:blue;
+    /* background: none; */
+    font-size: large;
+    min-height: 40px;
+    margin:1px;
+    text-align: center;
+    border-radius: 3px;
+
+}
+.link-btn:hover{
+    transform: scale(1.05);
+}
+.flat{
+    width: 100%;
+}
+

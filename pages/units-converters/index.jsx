@@ -17,14 +17,14 @@ export default function page() {
     <br></br>
     <br></br>
     <br></br>
-    <div className='main'>
+   
     <ButtonGroup
      directory={'units-converters'}
       data={links}
-      buttonClass={'button-target'} 
-      containerClass={'button-group-container-vertical'}
+      buttonClass={'link-btn'} 
+      containerClass={'flat'}
       groupTitle={"Units  Converters"}></ButtonGroup>
-      </div>
+     
     <br></br>
     <br></br>
     <br></br>

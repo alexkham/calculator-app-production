@@ -64,26 +64,36 @@ export default function page({conversionType}) {
       <br></br>
       <br></br>
       <br></br>
-    
-    <div className='horizontal-container '>
-      <div style={{padding:'0px'}}>
-    <h2 className='page-title'>  {capitalizeWords(conversionType)} Converter</h2> 
-    <div className='converter-container'>    
-    
-    <UnitsConverter conversionType={conversionType}></UnitsConverter>
-    {conversionType!='temperature'&&<a href={`/tables/conversions/${conversionType}`}>Go to {capitalizeWords(conversionType)} Conversion Table</a>}
-    </div>
-    </div>
-    <div style={{maxWidth:'400px',marginRight:'50px'}}>
-    <MyAccordion title={'All Units Converters'}
+      
+    {/* <div className='horizontal-container '>
+      <div style={{padding:'0px'}}> */}
+      
+       {/* <MyAccordion title={'All Units Converters'}
       content={<ButtonGroup
       directory={'units-converters'}
       data={links}
       buttonClass={'button-target'} 
       containerClass={'button-group-container-vertical'}
       
-      ></ButtonGroup>}></MyAccordion>
-      </div>
+      ></ButtonGroup>}></MyAccordion> */}
+      {/* <div className='button-group-container'> */}
+      <ButtonGroup
+      directory={'units-converters'}
+      data={links}
+      buttonClass={'link-btn'} 
+      containerClass={'flat '}
+      
+      ></ButtonGroup>
+      {/* </div>
+      */}
+    <h2 className='page-title'>  {capitalizeWords(conversionType)} Converter</h2> 
+    {/* <div className='converter-container'>     */}
+   
+    <UnitsConverter conversionType={conversionType}></UnitsConverter>
+    {conversionType!='temperature'&&<a href={`/tables/conversions/${conversionType}`}>Go to {capitalizeWords(conversionType)} Conversion Table</a>}
+    {/* </div> */}
+    {/* </div> */}
+    
     {/* <ButtonGroup
      directory={'units-converters'}
      data={links}
@@ -91,9 +101,10 @@ export default function page({conversionType}) {
      containerClass={'button-group-container-vertical'}
      buttonClass={'button-target'}
      ></ButtonGroup> */}
-    </div>
+    {/* </div> */}
     <br></br>
     <br></br>
+    
     <br></br>
     <br></br>
     <br></br>

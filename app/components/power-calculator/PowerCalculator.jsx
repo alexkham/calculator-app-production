@@ -76,6 +76,7 @@
 import React, { useState } from 'react';
 import './PowerCalculator.css';
 
+
 function PowerCalculator() {
   const [x, setX] = useState('');
   const [y, setY] = useState('');

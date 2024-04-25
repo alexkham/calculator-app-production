@@ -73,26 +73,28 @@
    
 
     .button-target-horizontal {
-        white-space: nowrap;
+        /* display: flex;
+        flex-direction: row; */
+        /* white-space: nowrap; */
         
-        margin: 3px;
+        /* margin: 1px;
         border: solid 1px gray;
-        background-color: blue;
+        width: fit-content;
         color: white;
         font-weight: 200;
-        cursor: pointer;
-        display: table-cell;
-        border-radius: 5px;
+        cursor: pointer; */
+        /* display: table-cell; */
+        /* border-radius: 5px;
        
         min-width: 250px;
         padding: 10px;
         font-size: 200;
-        height: 40px;
-        
-        flex-grow: 1;
+        height: 30px;
+         */
+        /* flex-grow: 1;
+        */
        
-       
-       flex-basis: calc(50% - 20px);
+       /* flex-basis: calc(50% - 20px); */
         
     }
     .group-title{
@@ -108,7 +110,46 @@
         color: white; /* Keeps the text color consistent */
         /* Your other styling properties */
     }
+    .flat{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+    .btn-outer-container{
+        width: 700px;
+    }
 
 
+    .btn-outer-container {
+        display: flex; /* Establishes a flex container */
+        flex-direction: column; /* Stacks child elements vertically */
+        align-items: center; /* Aligns children centrally along the cross axis */
+        width: 100%; /* Takes full width of its parent */
+        padding: 20px; /* Optional: Adds some spacing inside the outer container */
+    }
+    
+    .containerClass {
+        display: flex; /* Establishes a flex container */
+        flex-direction: row; /* Lays out child elements in a row */
+        flex-wrap: wrap; /* Allows items to wrap onto multiple lines as needed */
+        justify-content: center; /* Centers items along the line */
+        gap: 10px; /* Provides space between items */
+        width: 100%; /* Takes full width to utilize available space */
+    }
+    
+    .button-target-horizontal {
+        background-color: blue; /* Example color */
+        color: white;
+        border: solid 1px gray;
+        border-radius: 5px;
+        padding: 10px;
+        font-size: 16px; /* Adjust font size as needed */
+        cursor: pointer;
+        min-width: 250px; /* Minimum width for each button */
+        height: 40px;
+        margin: 1px; /* Small margin to prevent buttons from touching */
+        text-transform: capitalize; /* Optional: Capitalizes button text */
+    }
     
     

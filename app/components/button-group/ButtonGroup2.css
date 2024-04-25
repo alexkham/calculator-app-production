@@ -1,0 +1,48 @@
+.btn-outer-container {
+    display: flex; /* Establishes a flex container */
+    flex-direction: column; /* Stacks child elements vertically */
+    align-items: center; /* Aligns children centrally along the cross axis */
+    width: 100%; /* Takes full width of its parent */
+    padding: 20px; /* Optional: Adds some spacing inside the outer container */
+}
+
+.containerClass {
+    display: flex; /* Establishes a flex container */
+    flex-direction: row; /* Lays out child elements in a row */
+    flex-wrap: wrap; /* Allows items to wrap onto multiple lines as needed */
+    justify-content: center; /* Centers items along the line */
+    gap: 10px; /* Provides space between items */
+    width: 100%; /* Takes full width to utilize available space */
+}
+
+.button-target-horizontal {
+    background-color: blue; /* Example color */
+    color: white;
+    border: solid 1px gray;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px; /* Adjust font size as needed */
+    cursor: pointer;
+    min-width: 250px; /* Minimum width for each button */
+    height: 40px;
+    margin: 1px; /* Small margin to prevent buttons from touching */
+    text-transform: capitalize; /* Optional: Capitalizes button text */
+}
+.flat{
+    display: flex;
+    flex-direction: row;      /* Lays out children in a horizontal line */
+    flex-wrap: wrap;          /* Allows children to wrap onto the next line */
+    justify-content: center;  /* Centers items horizontally */
+    align-items: center;      /* Aligns items vertically in the center */
+    gap: 10px;                /* Sets a gap between the items */
+    padding: 10px;    
+}
+
+.flat button{
+    background-color: blue;
+    color: aliceblue;
+    padding: 10px;
+    border:none;
+    border-radius: 3px;
+    margin-right: -10px;
+}

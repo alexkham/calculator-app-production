@@ -147,8 +147,10 @@
     flex-direction: row;
     justify-content: space-between; 
     align-items: flex-start;
-    width: 100%;
+    width: 90%;
     padding: 20px;
+    margin-right: 90px;
+    
     
 }
 
@@ -164,6 +166,7 @@
     justify-content: space-between; /* Center grid items */
     /* Removed margin-left: auto; */
     margin-left: 20px;
+    width: 100%;
 }
 
 .button-group-container-vertical {
@@ -207,6 +210,7 @@
 .converter-container > * {
     margin-top: 0;
     margin-bottom: 0;
+    margin-right: 50px;
 }
 
 .scroll-button {
@@ -286,3 +290,6 @@ a {
     background-color:grey;
     color: black;
 }
+/* .button-group-container{
+    width: 700px;
+} */
