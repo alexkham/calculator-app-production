@@ -177,11 +177,14 @@ console.log(options)
   return (
    
     <div className='main-container'>
+      
      
         
     <div className='outer-container'>
     
-      
+      {/* <span>{from}</span>
+      <span>{to}</span> */}
+
       <div className='group-block'>
       <h4 className='title'>From</h4>
       <div className='inputs-box'>
@@ -239,7 +242,7 @@ console.log(options)
       rehypePlugins={[rehypeKatex]}
       className='markdown'
     >
-      {articles[from.toLowerCase()]}
+      {articles[from.toLowerCase().replaceAll(' ','_')]}
     </ReactMarkdown>
 
     <ReactMarkdown
@@ -247,7 +250,7 @@ console.log(options)
       rehypePlugins={[rehypeKatex]}
       className='markdown'
     >
-      {articles[to.toLowerCase()]}
+      {articles[to.toLowerCase().replaceAll(' ','_')]}
     </ReactMarkdown>
       </div>
     
