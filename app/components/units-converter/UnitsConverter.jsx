@@ -242,7 +242,7 @@ console.log(options)
       rehypePlugins={[rehypeKatex]}
       className='markdown'
     >
-      {articles[from.toLowerCase().replaceAll(' ','_')]}
+      {articles[from.toLowerCase().replaceAll(' ','_').replaceAll('-','_')]}
     </ReactMarkdown>
 
     <ReactMarkdown
@@ -250,7 +250,7 @@ console.log(options)
       rehypePlugins={[rehypeKatex]}
       className='markdown'
     >
-      {articles[to.toLowerCase().replaceAll(' ','_')]}
+      {articles[to.toLowerCase().replaceAll(' ','_').replaceAll('-','_')]}
     </ReactMarkdown>
       </div>
     
