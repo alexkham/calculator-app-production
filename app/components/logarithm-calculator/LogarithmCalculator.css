@@ -1,0 +1,120 @@
+.main-container{
+    display:flex;
+    flex-direction: row;
+    min-width: 500px;
+    margin-left: 30px;
+    background-color: lightgray;
+    width: 700px;
+    padding: 50px;
+    border-radius: 5px;
+}
+
+.power{
+    
+    padding: 5px;
+    width: 120px;
+    min-width: 150px;
+    min-height: 40px;
+    margin-left: 3px;
+   
+}
+
+.calc-table .power{
+   
+}
+
+.base{
+   
+    padding: 10px;
+    min-width: 200px;
+    min-height: 40px;
+    width: 150px;
+}
+
+.result{
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: end;
+}
+.btn-container{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.btn-container button{
+    max-width: 120px;
+    padding: 10px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+}
+.btn-container button:hover{
+    transform: scale(1.05);
+}
+
+.my-input{
+   
+    border: solid blue 0.5px;
+    border-radius: 3px;
+   
+    
+}
+.my-input:focus{
+    border: solid blue 0.5px;
+}
+.my-input:active{
+    border: solid blue 0.5px;
+}
+
+tr{
+    margin-bottom: -50px;
+}
+
+.calc-table .result {
+    text-align: right; /* Aligns text to the right */
+    padding-left: 50px;
+  }
+.calc-table .power{
+    
+    margin-bottom: -200px !important;
+    margin-left: -20px !important;
+   
+}
+.calc-table .base{
+    margin-top: -100px !important;
+    margin-right: 5px;
+}
+
+.base-container{
+    display:flex;
+    flex-direction: row;
+}
+
+ .log-base{
+    width: 60px !important;
+    height: 40px;
+    border: solid blue 0.5px;
+    border-radius: 3px;
+    padding: 5px;
+    
+}
+
+.select-base{
+    height: 40px;
+    width: 60px;
+    border: solid blue 0.5px;
+    border-radius: 3px;
+   
+}
+
+.value{
+    width: 150px !important;
+    height: 40px;
+    margin-bottom: -20px;
+    border: solid blue 0.5px;
+    border-radius: 3px;
+    padding: 5px;
+   
+}

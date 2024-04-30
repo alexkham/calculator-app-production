@@ -16,6 +16,7 @@ import DebouncedComponent from './components/DebouncedComponent'
 import TrigoCalculator from './components/trigo-calculator/TrigoCalculator'
 import MarkdownComponent from './components/markdown-component/MarkdownComponent'
 import BitwiseCalculator from './components/bitwise-calculator/BitwiseCalculator'
+import LogarithmCalculator from './components/logarithm-calculator/LogarithmCalculator'
 
 
 
@@ -133,7 +134,8 @@ export default function Home() {
     */}
     <br></br>   
     <br></br>   
-    <br></br>   
+    <br></br> 
+    <LogarithmCalculator></LogarithmCalculator>  
     <br></br>   
     <br></br> 
     {/* <MarkdownComponent article={markdown}></MarkdownComponent>   */}
