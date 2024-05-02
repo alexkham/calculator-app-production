@@ -101,12 +101,21 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
 
   return (
     <>
-    <h2 >Decimal To {capitalizeWords(base)} Number Conversion</h2>
-    
-    
-    
-    
-    
+    {/* <h2>
+            Decimal To {capitalizeWords(base)} Number Conversion
+            <a href="#articleContent" className="tooltip-icon" aria-label="Learn more about this conversion">?</a>
+        </h2>
+     */}
+
+{/* <h2>
+            Decimal To {capitalizeWords(base)} Number Conversion
+            <a href="#articleContent" className="tooltip-icon" aria-label="Learn more about this conversion" title="Click to learn more about converting numbers to different bases.">?</a>
+        </h2> */}
+<h2>
+            Decimal To {capitalizeWords(base)} Number Conversion
+            <a href="#articleContent" className="tooltip-icon" aria-label="Learn more about this conversion" data-tooltip="Click to see more details about this conversion.">?</a>
+        </h2>
+       
    
       <div className="row">
         {result&&reversedStrArray.map((_, index) => (
@@ -143,7 +152,12 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
     <br></br>
     <br></br>
     
-    <MarkdownComponent article={article}></MarkdownComponent>
+    <div id="articleContent">
+      <br></br>
+      <br></br>
+      <br></br>
+            <MarkdownComponent article={article}></MarkdownComponent>
+        </div>
     
    
   

@@ -140,3 +140,52 @@ div{
   h2{
     margin-bottom: 30px;
   }
+
+  .tooltip-icon {
+    display: inline-block;
+    margin-left: 10px;
+    cursor: pointer;
+    color:blue; /* Bootstrap link color for consistency, or choose your own */
+    text-decoration: none; /* Removes underline from links */
+    font-weight: bold; /* Makes the question mark bold */
+    border:solid blue 1px;
+    border-radius: 50%;
+    width: 30px;
+    text-align: center;
+}
+
+.tooltip-icon:hover {
+    text-decoration: underline; /* Adds underline on hover for better UX */
+}
+
+.tooltip-icon {
+  position: relative;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.tooltip-icon::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  width: 220px;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 100%;
+  margin-bottom: 5px;
+  padding: 8px;
+  color: #fff;
+  background-color: #333;
+  text-align: center;
+  border-radius: 6px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s, visibility 0.3s;
+  z-index: 9999;
+  font-size: 0.65em;
+}
+
+.tooltip-icon:hover::after {
+  opacity: 1;
+  visibility: visible;
+}
+
