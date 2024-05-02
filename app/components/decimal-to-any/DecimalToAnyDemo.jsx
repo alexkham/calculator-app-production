@@ -2,6 +2,10 @@
 import React, {useState,useEffect} from 'react'
 import '../binary-numbers-demo/BinaryNumbersDemo.css'
 import { capitalizeWords } from '../../utils/utils-functions.js';
+import MarkdownComponent from '../markdown-component/MarkdownComponent';
+import {binary,hexadecimal,octal} from './articles'
+
+
 
 
 
@@ -11,6 +15,7 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
     const [reversedStrArray, setReversedStrArray] = useState([]);
     const [isInputValid, setIsInputValid] = useState(true);
     const [calculationData, setCalculationData] = useState(null);
+    const [article, setArticle] = useState(binary);  
 
     
     useEffect(() => {
@@ -41,7 +46,15 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
       console.log('Updated calculationData:', calculationData);
     }, [calculationData,number,result]);
     
-   
+    useEffect(() => {
+      if (base === 'binary') {
+          setArticle(binary);
+      } else if (base === 'hexadecimal') {
+          setArticle(hexadecimal);
+      } else if (base === 'octal') {
+          setArticle(octal);
+      }
+  }, [base]);
    
      
    
@@ -98,18 +111,18 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
       <div className="row">
         {result&&reversedStrArray.map((_, index) => (
           <table key={result?.length - index - 1}>
-            <tr><span>{reversedStrArray[result?.length - index - 1]}</span></tr> 
+            <tr><span className='my-span'>{reversedStrArray[result?.length - index - 1]}</span></tr> 
             
             
             
-            <tr>{result&&<span>{calculationData.indexOf(reversedStrArray[result?.length - index - 1])}×{n}<sup>{result?.length - index - 1}</sup>=
+            <tr>{result&&<span className='my-span'>{calculationData.indexOf(reversedStrArray[result?.length - index - 1])}×{n}<sup>{result?.length - index - 1}</sup>=
             {(Math.pow(n,parseInt(result?.length - index - 1)))*parseInt(calculationData.indexOf(reversedStrArray[result?.length - index - 1]))}{(result?.length - index - 1)===0?'':'+'}</span>}</tr> 
           </table>
         ))}
       </div>
       <div className='row-smaller'>
-      {result&&<div > <p><span>Decimal : {number}</span></p></div>}
-      {result&&<div > <p><span>{capitalizeWords(base)} : {result}</span></p></div>}
+      {result&&<div > <p><span className='my-span'>Decimal : {number}</span></p></div>}
+      {result&&<div > <p><span className='my-span'>{capitalizeWords(base)} : {result}</span></p></div>}
       </div>
      
    <div className='input-container'> 
@@ -126,6 +139,14 @@ function DecimalToAnyBaseConverter({base,n,sanitizedLength}) {
     <button  onClick={()=>setNumber('')}>Reset</button>
     
     </div>
+    <br></br>
+    <br></br>
+    <br></br>
+    
+    <MarkdownComponent article={article}></MarkdownComponent>
+    
+   
+  
     </>
     
   )

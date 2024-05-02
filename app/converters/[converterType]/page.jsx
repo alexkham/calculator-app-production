@@ -6,6 +6,12 @@ import ButtonGroup from '@/app/components/button-group/ButtonGroup';
 import buttonData from '../../api/db/calculations/converters/converters.json'
 import Head from 'next/head';
 import ScrollUpButton from '@/app/components/scroll-up-button/ScrollUpButton';
+import MarkdownComponent from '@/app/components/markdown-component/MarkdownComponent';
+import ReactMarkdown from 'react-markdown';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+import remarkGfm from 'remark-gfm'
+import 'katex/dist/katex.min.css'; 
 
 
 // Create a lookup object
@@ -18,6 +24,10 @@ const lookup = data.reduce((acc, item) => {
 export default function page({params}) {
     const decodedConverterType = decodeURI(params.converterType);
     const converter=lookup[decodedConverterType]
+
+   
+
+  
   return (
     <>
     <Head>
@@ -36,7 +46,7 @@ export default function page({params}) {
                 
          <ButtonGroup data={buttonData}
           
-             buttonClass={'link-btn'} 
+             buttonClass={'my-span link-btn' } 
              containerClass={'button-group-container'}
             groupTitle={""}
             directory={'converters'}></ButtonGroup> 
@@ -50,9 +60,10 @@ export default function page({params}) {
        
      <br></br>
      <br></br>
+      
      <br></br>
      <br></br>
-     <br></br>
+    
      <br></br>
      <br></br>
      <br></br>

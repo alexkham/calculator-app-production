@@ -29,7 +29,7 @@ table{
     max-height: 100px;
 }
 
-span{
+.my-span{
     /* border: solid 1px blue;
     border-radius: 5px; */
     min-height: 20px;
