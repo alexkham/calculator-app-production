@@ -36,8 +36,8 @@ body{
 .link-btn{
     color:blue;
     /* background: none; */
-    font-size: medium;
-    min-height: 60px;
+    font-size: small !important;
+    min-height: 50px !important;
     margin:2px;
     text-align: center;
     border-radius: 5px;
